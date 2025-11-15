@@ -14,20 +14,31 @@ Verze 0.1:
 
 import argparse
 
+from scripts.download_smlouvy_gov import get_latest_dump_path, get_dump_for_year_month
 
-def step_1_download_tenders_for_authority(ico: str) -> None:
+
+
+def step_1_download_tenders_for_authority(ico, year=None, month=None):
+
     """
     KROK 1: Získání smluv pro vybraného zadavatele (podle IČO)
-    ----------------------------------------------------------------
-    V budoucnu:
-    - zde bude volání logiky pro Registr smluv (nebo jiný zdroj)
-    - funkce stáhne smlouvy pro dané IČO (zadavatel)
-    - uloží je do struktury data/tenders/ ve formátu vhodném pro další zpracování
 
-    Aktuálně:
-    - pouze vypisuje, co by se provedlo.
+    - pokud je zadán year+month, stáhne se dump pro daný měsíc
+    - jinak se stáhne poslední dokončený dump
+
+    V této verzi ještě dump pouze stahujeme; filtrování podle IČO
+    doplníme v dalším kroku.
     """
-    print(f"[KROK 1] Získání smluv pro zadavatele s IČO {ico} (TODO: implementovat).")
+    if year is not None and month is not None:
+        dump_path = get_dump_for_year_month(year, month)
+        label = f"{year}-{month:02d}"
+    else:
+        dump_path = get_latest_dump_path()
+        label = "nejnovější dokončený měsíc"
+
+    print(f"[KROK 1] Stažený dump Registru smluv ({label}): {dump_path}")
+    print(f"[KROK 1] Dalším krokem bude filtrování dumpu pro IČO {ico}.")
+
 
 
 def step_2_extract_parties_and_companies() -> None:
@@ -75,27 +86,23 @@ def step_4_update_neo4j() -> None:
     print("[KROK 4] Aktualizace grafové databáze Neo4j (TODO: implementovat).")
 
 
-def run_for_authority_ico(ico: str) -> None:
+def run_for_authority_ico(ico, year=None, month=None):
+
     """
     Spustí sekvenci kroků pro pilotní scénář:
     - vybraný zadavatel (IČO)
-    - stažení smluv, extrakce firem, obohacení ARES, Neo4j
+    - volitelně konkrétní rok+měsíc dumpu
     """
     print(f"Spouštím pipeline pro zadavatele s IČO {ico}...\n")
-    step_1_download_tenders_for_authority(ico)
+    step_1_download_tenders_for_authority(ico, year=year, month=month)
     step_2_extract_parties_and_companies()
     step_3_enrich_companies_from_ares()
     step_4_update_neo4j()
     print("\nPipeline dokončena (zatím pouze v režimu 'dry-run').")
 
 
-def parse_args() -> argparse.Namespace:
-    """
-    Zpracuje argumenty z příkazové řádky.
 
-    Verze 0.1:
-    - podporuje pouze parametr --ico pro pilotní scénář
-    """
+def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Datová pipeline pro sběr a obohacování dat o veřejných zakázkách."
     )
@@ -106,21 +113,35 @@ def parse_args() -> argparse.Namespace:
         help="IČO zadavatele, pro kterého se má spustit pilotní sběr dat.",
     )
 
-    # do budoucna sem můžeme přidávat další módy:
-    # --company-name, --tender-id, --mode atd.
+    parser.add_argument(
+        "--year",
+        type=int,
+        help="Rok dumpu z Registru smluv (např. 2024). Volitelné.",
+    )
+
+    parser.add_argument(
+        "--month",
+        type=int,
+        help="Měsíc dumpu z Registru smluv (1–12). Volitelné.",
+    )
 
     return parser.parse_args()
+
 
 
 def main() -> None:
     args = parse_args()
 
+    # jednoduchá validace kombinace year/month
+    if (args.year is None) != (args.month is None):
+        print("Prosím zadej buď oba parametry --year a --month, nebo žádný.")
+        return
+
     if args.ico:
-        run_for_authority_ico(args.ico)
+        run_for_authority_ico(args.ico, year=args.year, month=args.month)
     else:
-        # v budoucnu můžeme dopsat nápovědu nebo interaktivní režim
         print("Nebyl zadán žádný parametr. Pro pilotní scénář použijte např.:")
-        print("  python scripts/run_pipeline.py --ico 00023698")
+        print("  python3 scripts/run_pipeline.py --ico 00023698 --year 2024 --month 9")
 
 
 if __name__ == "__main__":
