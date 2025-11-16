@@ -1,0 +1,145 @@
+[
+  {
+    "id": "COMP-00064190",
+    "ico": "00064190",
+    "name": "Fakultní Thomayerova nemocnice",
+    "address": "Vídeňská 800, 14000 Praha 4, CZ",
+    "datova_schranka": "asykkbj",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-45359326",
+    "ico": "45359326",
+    "name": "PHOENIX LV,s.r.o.",
+    "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+    "datova_schranka": "2wrru4m",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-44848200",
+    "ico": "44848200",
+    "name": "Sanofi s.r.o.",
+    "address": "Generala Piky 430/26 160 00 Praha 6",
+    "datova_schranka": "z77y4vd",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60469803",
+    "ico": "60469803",
+    "name": "Takeda Pharmaceuticals Czech Republic s.r.o.",
+    "address": "Skretova 490/12 120 00 Praha 2",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-48041351",
+    "ico": "48041351",
+    "name": "GRIFOLS s.r.o.",
+    "address": "ROHANSKE NABREZI 670/17 18600 PRAHA8-KARLIN",
+    "datova_schranka": "jmt842i",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24148725",
+    "ico": "24148725",
+    "name": "AbbVie s.r.o.",
+    "address": "Bucharova 2817/13, Budova C 158 00 Praha 5 - Nove Butovice",
+    "datova_schranka": "weh43tn",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26260654",
+    "ico": "26260654",
+    "name": "Avenier, a.s.",
+    "address": "Bidlaky 20/837 639 00 Brno",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-19010290",
+    "ico": "19010290",
+    "name": "PHARMOS,a.s.",
+    "address": "Tesinska 1349/296 71600 Ostrava - Radvanice",
+    "datova_schranka": "mfecgmh",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27529053",
+    "ico": "27529053",
+    "name": "POLYMED medical CZ,a.s.",
+    "address": "Petra Jilemnickeho 14/51 50301 Hradec Kralove",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-49617052",
+    "ico": "49617052",
+    "name": "ROCHE s.r.o.",
+    "address": "Sokolovska 685/136f, Karlin 18600 Praha 8",
+    "datova_schranka": "23qxxkv",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25099019",
+    "ico": "25099019",
+    "name": "PROMEDICA PRAHA GROUP,a.s.",
+    "address": "JUAREZOVA 1071/17 16000 Praha 4",
+    "datova_schranka": "k6sfuej",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-14707420",
+    "ico": "14707420",
+    "name": "Alliance Healthcare",
+    "address": "Podle trati 624/7 108 00 Praha 10-Malesice",
+    "datova_schranka": "jv9ktdg",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06616631",
+    "ico": "06616631",
+    "name": "DYNEX LabSolutions, s.r.o.",
+    "address": "Senovazne namesti 978/23 110 00 Praha 1, Nove Mesto",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28538153",
+    "ico": "28538153",
+    "name": "Phadia,s.r.o.",
+    "address": "Drahobejlova 1019/27 190 00 Praha 9",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-47913240",
+    "ico": "47913240",
+    "name": "TestLine Clinical.Diagnostics s.r.o.",
+    "address": "Krizikova 68 612 00 Brno",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  }
+]

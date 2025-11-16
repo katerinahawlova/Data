@@ -1,0 +1,2501 @@
+{
+  "nodes": {
+    "Osoba": [],
+    "Firma": [
+      {
+        "firma_id": "02015081",
+        "ico": "02015081",
+        "nazev": "Společenství vlastníků pro dům Karolina Plazza K1",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "07757964",
+        "ico": "07757964",
+        "nazev": "Společenství vlastníků domu Škrábkových č.p. 882,",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "05223164",
+        "ico": "05223164",
+        "nazev": "Společenství vlastníků domu Pod Harfou č.p. 994, P",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "28198212",
+        "ico": "28198212",
+        "nazev": "PASSERINVEST BBC 1, s.r.o.",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "09088725",
+        "ico": "09088725",
+        "nazev": "Společenství vlastníků jednotek Smrčkova 2512, Pra",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "09443746",
+        "ico": "09443746",
+        "nazev": "Společenství vlastníků Harfa Design Residence, Kur",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "09381805",
+        "ico": "09381805",
+        "nazev": "Společenství vlastníků Mantovská 790/6, Praha 10",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "07452080",
+        "ico": "07452080",
+        "nazev": "Společenství vlastníků jednotek Menclova 2494, Pra",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06169643",
+        "ico": "06169643",
+        "nazev": "Společenství vlastníků domu Padovská č.p. 749, 109",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06343317",
+        "ico": "06343317",
+        "nazev": "Společenství vlastníků jednotek Altajská 1568, Pra",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06354009",
+        "ico": "06354009",
+        "nazev": "Společenství vlastníků jednotek v domě č. p. 398,",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "05835151",
+        "ico": "05835151",
+        "nazev": "Společenství vlastníků U hranic 3419, Praha 10",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06229760",
+        "ico": "06229760",
+        "nazev": "Společenství vlastníků pro dům č.p. 1685 v ulici V",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06508481",
+        "ico": "06508481",
+        "nazev": "Společenství vlastníků Chlebovická 824, Praha 9",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "04578031",
+        "ico": "04578031",
+        "nazev": "Společenství vlastníků Plzeňská 312,313,314,315, P",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "24694151",
+        "ico": "24694151",
+        "nazev": "Společenství vlastníků jednotek pro dům Panuškova",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "28243498",
+        "ico": "28243498",
+        "nazev": "Společenství vlastníků Rejchova 2319, Praha 6",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "08807213",
+        "ico": "08807213",
+        "nazev": "Společenství vlastníků jednotek Hradešínská 2583/5",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "08531650",
+        "ico": "08531650",
+        "nazev": "Společenství vlastníků domu Naskové 1335, Praha 5",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "00231266",
+        "ico": "00231266",
+        "nazev": "Městská část Praha-Ďáblice",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "24236420",
+        "ico": "24236420",
+        "nazev": "Společenství vlastníků pro dům č.p. 970, Praha 4,",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "00063703",
+        "ico": "00063703",
+        "nazev": "Městská část Praha 6",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "08861072",
+        "ico": "08861072",
+        "nazev": "Společenství vlastníků Svatošových 1014, Praha 9",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "08419183",
+        "ico": "08419183",
+        "nazev": "Společenství vlastníků jednotek v bytovém domě Mod",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "05156998",
+        "ico": "05156998",
+        "nazev": "Společenství vlastníků jednotek Kadečkové 774, Pra",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "04920171",
+        "ico": "04920171",
+        "nazev": "Společenství vlastníků pro dům č.p. 2387, Praha 4,",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      },
+      {
+        "firma_id": "06237126",
+        "ico": "06237126",
+        "nazev": "Společenství vlastníků Miloše Havla 1246",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      }
+    ],
+    "Zadavatel": [
+      {
+        "zadavatel_id": "70886288",
+        "ico": "70886288",
+        "nazev": "Hasičský záchranný sbor hlavního města Prahy",
+        "typ": "ministerstvo",
+        "uroven": "centralni",
+        "jurisdikce": "CZ",
+        "stav_zaznamu": "overeny"
+      }
+    ],
+    "Zakazka": [
+      {
+        "zakazka_id": "33230189",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230189"
+      },
+      {
+        "zakazka_id": "33230193",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230193"
+      },
+      {
+        "zakazka_id": "33230197",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230197"
+      },
+      {
+        "zakazka_id": "33230201",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230201"
+      },
+      {
+        "zakazka_id": "33230205",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230205"
+      },
+      {
+        "zakazka_id": "33230209",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230209"
+      },
+      {
+        "zakazka_id": "33230213",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230213"
+      },
+      {
+        "zakazka_id": "33230217",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230217"
+      },
+      {
+        "zakazka_id": "33230221",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230221"
+      },
+      {
+        "zakazka_id": "33230225",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230225"
+      },
+      {
+        "zakazka_id": "33230229",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230229"
+      },
+      {
+        "zakazka_id": "33230233",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230233"
+      },
+      {
+        "zakazka_id": "33230241",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230241"
+      },
+      {
+        "zakazka_id": "33230245",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230245"
+      },
+      {
+        "zakazka_id": "33230249",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230249"
+      },
+      {
+        "zakazka_id": "33230253",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230253"
+      },
+      {
+        "zakazka_id": "33230257",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230257"
+      },
+      {
+        "zakazka_id": "33230265",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230265"
+      },
+      {
+        "zakazka_id": "33230269",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230269"
+      },
+      {
+        "zakazka_id": "33230273",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230273"
+      },
+      {
+        "zakazka_id": "33230277",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230277"
+      },
+      {
+        "zakazka_id": "33230281",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230281"
+      },
+      {
+        "zakazka_id": "33230285",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230285"
+      },
+      {
+        "zakazka_id": "33230289",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230289"
+      },
+      {
+        "zakazka_id": "33230293",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230293"
+      },
+      {
+        "zakazka_id": "33230297",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230297"
+      },
+      {
+        "zakazka_id": "33230301",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230301"
+      },
+      {
+        "zakazka_id": "33230189",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230189"
+      },
+      {
+        "zakazka_id": "33230193",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230193"
+      },
+      {
+        "zakazka_id": "33230197",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230197"
+      },
+      {
+        "zakazka_id": "33230201",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230201"
+      },
+      {
+        "zakazka_id": "33230205",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230205"
+      },
+      {
+        "zakazka_id": "33230209",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230209"
+      },
+      {
+        "zakazka_id": "33230213",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230213"
+      },
+      {
+        "zakazka_id": "33230217",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230217"
+      },
+      {
+        "zakazka_id": "33230221",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230221"
+      },
+      {
+        "zakazka_id": "33230225",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230225"
+      },
+      {
+        "zakazka_id": "33230229",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230229"
+      },
+      {
+        "zakazka_id": "33230233",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230233"
+      },
+      {
+        "zakazka_id": "33230241",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230241"
+      },
+      {
+        "zakazka_id": "33230245",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230245"
+      },
+      {
+        "zakazka_id": "33230249",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230249"
+      },
+      {
+        "zakazka_id": "33230253",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230253"
+      },
+      {
+        "zakazka_id": "33230257",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230257"
+      },
+      {
+        "zakazka_id": "33230265",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230265"
+      },
+      {
+        "zakazka_id": "33230269",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230269"
+      },
+      {
+        "zakazka_id": "33230273",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230273"
+      },
+      {
+        "zakazka_id": "33230277",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230277"
+      },
+      {
+        "zakazka_id": "33230281",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230281"
+      },
+      {
+        "zakazka_id": "33230285",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230285"
+      },
+      {
+        "zakazka_id": "33230289",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230289"
+      },
+      {
+        "zakazka_id": "33230293",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230293"
+      },
+      {
+        "zakazka_id": "33230297",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230297"
+      },
+      {
+        "zakazka_id": "33230301",
+        "nazev": "připojení EPS na PCO",
+        "stav_zaznamu": "overeny",
+        "popis": "připojení EPS na PCO",
+        "stav": "ukoncena",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "rok": 2025,
+        "jurisdikce": "CZ",
+        "externi_id": "33230301"
+      }
+    ],
+    "Zdroj": [
+      {
+        "zdroj_id": "REGISTR_SMLUV",
+        "nazev": "Registr smluv",
+        "url": "https://smlouvy.gov.cz",
+        "typ": "registr",
+        "licence": "otevrena-data",
+        "datum_ziskani": "2025-11-16T17:09:48.339272"
+      }
+    ],
+    "Skola": []
+  },
+  "relationships": {
+    "VYKONAVA_FUNKCI": [],
+    "VLASTNI_PODIL": [],
+    "PODAVA_NABIDKU": [],
+    "JE_PRIDELENA": [
+      {
+        "from": "02015081",
+        "to": "33230189",
+        "smlouva_id": "33230189",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "07757964",
+        "to": "33230193",
+        "smlouva_id": "33230193",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05223164",
+        "to": "33230197",
+        "smlouva_id": "33230197",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "28198212",
+        "to": "33230201",
+        "smlouva_id": "33230201",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09088725",
+        "to": "33230205",
+        "smlouva_id": "33230205",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09443746",
+        "to": "33230209",
+        "smlouva_id": "33230209",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09381805",
+        "to": "33230213",
+        "smlouva_id": "33230213",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "07452080",
+        "to": "33230217",
+        "smlouva_id": "33230217",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06169643",
+        "to": "33230221",
+        "smlouva_id": "33230221",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06343317",
+        "to": "33230225",
+        "smlouva_id": "33230225",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06354009",
+        "to": "33230229",
+        "smlouva_id": "33230229",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05835151",
+        "to": "33230233",
+        "smlouva_id": "33230233",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06229760",
+        "to": "33230241",
+        "smlouva_id": "33230241",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06508481",
+        "to": "33230245",
+        "smlouva_id": "33230245",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "04578031",
+        "to": "33230249",
+        "smlouva_id": "33230249",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "24694151",
+        "to": "33230253",
+        "smlouva_id": "33230253",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "28243498",
+        "to": "33230257",
+        "smlouva_id": "33230257",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08807213",
+        "to": "33230265",
+        "smlouva_id": "33230265",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08531650",
+        "to": "33230269",
+        "smlouva_id": "33230269",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "00231266",
+        "to": "33230273",
+        "smlouva_id": "33230273",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "24236420",
+        "to": "33230277",
+        "smlouva_id": "33230277",
+        "platnost_od": "2025-10-27",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "00063703",
+        "to": "33230281",
+        "smlouva_id": "33230281",
+        "platnost_od": "2025-10-27",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08861072",
+        "to": "33230285",
+        "smlouva_id": "33230285",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08419183",
+        "to": "33230289",
+        "smlouva_id": "33230289",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05156998",
+        "to": "33230293",
+        "smlouva_id": "33230293",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "04920171",
+        "to": "33230297",
+        "smlouva_id": "33230297",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06237126",
+        "to": "33230301",
+        "smlouva_id": "33230301",
+        "platnost_od": "2025-10-21",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "02015081",
+        "to": "33230189",
+        "smlouva_id": "33230189",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "07757964",
+        "to": "33230193",
+        "smlouva_id": "33230193",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05223164",
+        "to": "33230197",
+        "smlouva_id": "33230197",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "28198212",
+        "to": "33230201",
+        "smlouva_id": "33230201",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09088725",
+        "to": "33230205",
+        "smlouva_id": "33230205",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09443746",
+        "to": "33230209",
+        "smlouva_id": "33230209",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "09381805",
+        "to": "33230213",
+        "smlouva_id": "33230213",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "07452080",
+        "to": "33230217",
+        "smlouva_id": "33230217",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06169643",
+        "to": "33230221",
+        "smlouva_id": "33230221",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06343317",
+        "to": "33230225",
+        "smlouva_id": "33230225",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06354009",
+        "to": "33230229",
+        "smlouva_id": "33230229",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05835151",
+        "to": "33230233",
+        "smlouva_id": "33230233",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06229760",
+        "to": "33230241",
+        "smlouva_id": "33230241",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06508481",
+        "to": "33230245",
+        "smlouva_id": "33230245",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "04578031",
+        "to": "33230249",
+        "smlouva_id": "33230249",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "24694151",
+        "to": "33230253",
+        "smlouva_id": "33230253",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "28243498",
+        "to": "33230257",
+        "smlouva_id": "33230257",
+        "platnost_od": "2025-10-29",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08807213",
+        "to": "33230265",
+        "smlouva_id": "33230265",
+        "platnost_od": "2025-10-30",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08531650",
+        "to": "33230269",
+        "smlouva_id": "33230269",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "00231266",
+        "to": "33230273",
+        "smlouva_id": "33230273",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "24236420",
+        "to": "33230277",
+        "smlouva_id": "33230277",
+        "platnost_od": "2025-10-27",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "00063703",
+        "to": "33230281",
+        "smlouva_id": "33230281",
+        "platnost_od": "2025-10-27",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08861072",
+        "to": "33230285",
+        "smlouva_id": "33230285",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "08419183",
+        "to": "33230289",
+        "smlouva_id": "33230289",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "05156998",
+        "to": "33230293",
+        "smlouva_id": "33230293",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "04920171",
+        "to": "33230297",
+        "smlouva_id": "33230297",
+        "platnost_od": "2025-10-23",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "06237126",
+        "to": "33230301",
+        "smlouva_id": "33230301",
+        "platnost_od": "2025-10-21",
+        "hodnota": 800000.0,
+        "mena": "CZK",
+        "zdroj_id": "REGISTR_SMLUV"
+      }
+    ],
+    "STUDOVAL_NA": [],
+    "POCHAZI_Z": [
+      {
+        "from": "33230189",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353000"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353018"
+      },
+      {
+        "from": "02015081",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353025"
+      },
+      {
+        "from": "33230193",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353039"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353042"
+      },
+      {
+        "from": "07757964",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353047"
+      },
+      {
+        "from": "33230197",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353058"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353061"
+      },
+      {
+        "from": "05223164",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353065"
+      },
+      {
+        "from": "33230201",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353076"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353079"
+      },
+      {
+        "from": "28198212",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353084"
+      },
+      {
+        "from": "33230205",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353092"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353095"
+      },
+      {
+        "from": "09088725",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353099"
+      },
+      {
+        "from": "33230209",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353107"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353110"
+      },
+      {
+        "from": "09443746",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353116"
+      },
+      {
+        "from": "33230213",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353125"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353128"
+      },
+      {
+        "from": "09381805",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353132"
+      },
+      {
+        "from": "33230217",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353142"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353145"
+      },
+      {
+        "from": "07452080",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353149"
+      },
+      {
+        "from": "33230221",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353157"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353160"
+      },
+      {
+        "from": "06169643",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353164"
+      },
+      {
+        "from": "33230225",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353175"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353178"
+      },
+      {
+        "from": "06343317",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353182"
+      },
+      {
+        "from": "33230229",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353194"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353197"
+      },
+      {
+        "from": "06354009",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353204"
+      },
+      {
+        "from": "33230233",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353225"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353227"
+      },
+      {
+        "from": "05835151",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353233"
+      },
+      {
+        "from": "33230241",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353242"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353245"
+      },
+      {
+        "from": "06229760",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353248"
+      },
+      {
+        "from": "33230245",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353256"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353258"
+      },
+      {
+        "from": "06508481",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353262"
+      },
+      {
+        "from": "33230249",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353269"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353272"
+      },
+      {
+        "from": "04578031",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353275"
+      },
+      {
+        "from": "33230253",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353285"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353288"
+      },
+      {
+        "from": "24694151",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353291"
+      },
+      {
+        "from": "33230257",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353303"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353306"
+      },
+      {
+        "from": "28243498",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353310"
+      },
+      {
+        "from": "33230265",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353318"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353320"
+      },
+      {
+        "from": "08807213",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353324"
+      },
+      {
+        "from": "33230269",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353331"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353334"
+      },
+      {
+        "from": "08531650",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353338"
+      },
+      {
+        "from": "33230273",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353345"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353347"
+      },
+      {
+        "from": "00231266",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353352"
+      },
+      {
+        "from": "33230277",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353359"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353361"
+      },
+      {
+        "from": "24236420",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353367"
+      },
+      {
+        "from": "33230281",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353375"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353378"
+      },
+      {
+        "from": "00063703",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353382"
+      },
+      {
+        "from": "33230285",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353392"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353395"
+      },
+      {
+        "from": "08861072",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353398"
+      },
+      {
+        "from": "33230289",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353406"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353408"
+      },
+      {
+        "from": "08419183",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353412"
+      },
+      {
+        "from": "33230293",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353421"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353425"
+      },
+      {
+        "from": "05156998",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353428"
+      },
+      {
+        "from": "33230297",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353436"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353439"
+      },
+      {
+        "from": "04920171",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353444"
+      },
+      {
+        "from": "33230301",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353452"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353454"
+      },
+      {
+        "from": "06237126",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.353458"
+      },
+      {
+        "from": "33230189",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354686"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354701"
+      },
+      {
+        "from": "02015081",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354706"
+      },
+      {
+        "from": "33230193",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354720"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354724"
+      },
+      {
+        "from": "07757964",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354728"
+      },
+      {
+        "from": "33230197",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354739"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354742"
+      },
+      {
+        "from": "05223164",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354747"
+      },
+      {
+        "from": "33230201",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354758"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354762"
+      },
+      {
+        "from": "28198212",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354764"
+      },
+      {
+        "from": "33230205",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354775"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354778"
+      },
+      {
+        "from": "09088725",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354781"
+      },
+      {
+        "from": "33230209",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354791"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354794"
+      },
+      {
+        "from": "09443746",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354798"
+      },
+      {
+        "from": "33230213",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354807"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354811"
+      },
+      {
+        "from": "09381805",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354814"
+      },
+      {
+        "from": "33230217",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354824"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354827"
+      },
+      {
+        "from": "07452080",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354830"
+      },
+      {
+        "from": "33230221",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354840"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354843"
+      },
+      {
+        "from": "06169643",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354847"
+      },
+      {
+        "from": "33230225",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354857"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354860"
+      },
+      {
+        "from": "06343317",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354863"
+      },
+      {
+        "from": "33230229",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354873"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354876"
+      },
+      {
+        "from": "06354009",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354879"
+      },
+      {
+        "from": "33230233",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354889"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354892"
+      },
+      {
+        "from": "05835151",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354895"
+      },
+      {
+        "from": "33230241",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354906"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354909"
+      },
+      {
+        "from": "06229760",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354912"
+      },
+      {
+        "from": "33230245",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354922"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354926"
+      },
+      {
+        "from": "06508481",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354929"
+      },
+      {
+        "from": "33230249",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354939"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354942"
+      },
+      {
+        "from": "04578031",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354945"
+      },
+      {
+        "from": "33230253",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354955"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354960"
+      },
+      {
+        "from": "24694151",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354964"
+      },
+      {
+        "from": "33230257",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354974"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354977"
+      },
+      {
+        "from": "28243498",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354980"
+      },
+      {
+        "from": "33230265",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354990"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354994"
+      },
+      {
+        "from": "08807213",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.354997"
+      },
+      {
+        "from": "33230269",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355007"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355010"
+      },
+      {
+        "from": "08531650",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355014"
+      },
+      {
+        "from": "33230273",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355024"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355028"
+      },
+      {
+        "from": "00231266",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355031"
+      },
+      {
+        "from": "33230277",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355041"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355044"
+      },
+      {
+        "from": "24236420",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355047"
+      },
+      {
+        "from": "33230281",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355057"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355060"
+      },
+      {
+        "from": "00063703",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355063"
+      },
+      {
+        "from": "33230285",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355073"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355076"
+      },
+      {
+        "from": "08861072",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355079"
+      },
+      {
+        "from": "33230289",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355088"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355092"
+      },
+      {
+        "from": "08419183",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355095"
+      },
+      {
+        "from": "33230293",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355105"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355108"
+      },
+      {
+        "from": "05156998",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355112"
+      },
+      {
+        "from": "33230297",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355121"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355124"
+      },
+      {
+        "from": "04920171",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355128"
+      },
+      {
+        "from": "33230301",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355137"
+      },
+      {
+        "from": "70886288",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355140"
+      },
+      {
+        "from": "06237126",
+        "to": "REGISTR_SMLUV",
+        "datum_ziskani": "2025-11-16T17:09:48.355143"
+      }
+    ],
+    "VYHLASUJE_ZAKAZKU": [
+      {
+        "from": "70886288",
+        "to": "33230189",
+        "datum_vyhlaseni": "2025-11-01T18:58:15+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230193",
+        "datum_vyhlaseni": "2025-11-01T18:58:29+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230197",
+        "datum_vyhlaseni": "2025-11-01T18:58:43+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230201",
+        "datum_vyhlaseni": "2025-11-01T18:58:57+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230205",
+        "datum_vyhlaseni": "2025-11-01T18:59:09+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230209",
+        "datum_vyhlaseni": "2025-11-01T18:59:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230213",
+        "datum_vyhlaseni": "2025-11-01T19:03:52+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230217",
+        "datum_vyhlaseni": "2025-11-01T19:32:17+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230221",
+        "datum_vyhlaseni": "2025-11-01T19:32:29+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230225",
+        "datum_vyhlaseni": "2025-11-01T19:32:42+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230229",
+        "datum_vyhlaseni": "2025-11-01T19:32:54+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230233",
+        "datum_vyhlaseni": "2025-11-01T19:33:38+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230241",
+        "datum_vyhlaseni": "2025-11-01T20:20:46+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230245",
+        "datum_vyhlaseni": "2025-11-01T20:20:58+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230249",
+        "datum_vyhlaseni": "2025-11-01T20:21:09+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230253",
+        "datum_vyhlaseni": "2025-11-01T20:21:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230257",
+        "datum_vyhlaseni": "2025-11-01T20:21:43+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230265",
+        "datum_vyhlaseni": "2025-11-01T20:51:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230269",
+        "datum_vyhlaseni": "2025-11-01T20:51:34+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230273",
+        "datum_vyhlaseni": "2025-11-01T20:51:48+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230277",
+        "datum_vyhlaseni": "2025-11-01T20:52:05+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230281",
+        "datum_vyhlaseni": "2025-11-01T20:52:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230285",
+        "datum_vyhlaseni": "2025-11-01T21:34:48+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230289",
+        "datum_vyhlaseni": "2025-11-01T21:35:01+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230293",
+        "datum_vyhlaseni": "2025-11-01T21:35:14+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230297",
+        "datum_vyhlaseni": "2025-11-01T21:35:34+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230301",
+        "datum_vyhlaseni": "2025-11-01T21:36:12+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230189",
+        "datum_vyhlaseni": "2025-11-01T18:58:15+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230193",
+        "datum_vyhlaseni": "2025-11-01T18:58:29+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230197",
+        "datum_vyhlaseni": "2025-11-01T18:58:43+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230201",
+        "datum_vyhlaseni": "2025-11-01T18:58:57+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230205",
+        "datum_vyhlaseni": "2025-11-01T18:59:09+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230209",
+        "datum_vyhlaseni": "2025-11-01T18:59:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230213",
+        "datum_vyhlaseni": "2025-11-01T19:03:52+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230217",
+        "datum_vyhlaseni": "2025-11-01T19:32:17+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230221",
+        "datum_vyhlaseni": "2025-11-01T19:32:29+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230225",
+        "datum_vyhlaseni": "2025-11-01T19:32:42+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230229",
+        "datum_vyhlaseni": "2025-11-01T19:32:54+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230233",
+        "datum_vyhlaseni": "2025-11-01T19:33:38+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230241",
+        "datum_vyhlaseni": "2025-11-01T20:20:46+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230245",
+        "datum_vyhlaseni": "2025-11-01T20:20:58+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230249",
+        "datum_vyhlaseni": "2025-11-01T20:21:09+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230253",
+        "datum_vyhlaseni": "2025-11-01T20:21:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230257",
+        "datum_vyhlaseni": "2025-11-01T20:21:43+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230265",
+        "datum_vyhlaseni": "2025-11-01T20:51:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230269",
+        "datum_vyhlaseni": "2025-11-01T20:51:34+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230273",
+        "datum_vyhlaseni": "2025-11-01T20:51:48+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230277",
+        "datum_vyhlaseni": "2025-11-01T20:52:05+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230281",
+        "datum_vyhlaseni": "2025-11-01T20:52:21+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230285",
+        "datum_vyhlaseni": "2025-11-01T21:34:48+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230289",
+        "datum_vyhlaseni": "2025-11-01T21:35:01+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230293",
+        "datum_vyhlaseni": "2025-11-01T21:35:14+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230297",
+        "datum_vyhlaseni": "2025-11-01T21:35:34+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      },
+      {
+        "from": "70886288",
+        "to": "33230301",
+        "datum_vyhlaseni": "2025-11-01T21:36:12+01:00",
+        "zdroj_id": "REGISTR_SMLUV"
+      }
+    ]
+  },
+  "timestamp": "20251116_170948"
+}

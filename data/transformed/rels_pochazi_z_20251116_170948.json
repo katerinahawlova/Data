@@ -1,0 +1,812 @@
+[
+  {
+    "from": "33230189",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353000"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353018"
+  },
+  {
+    "from": "02015081",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353025"
+  },
+  {
+    "from": "33230193",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353039"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353042"
+  },
+  {
+    "from": "07757964",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353047"
+  },
+  {
+    "from": "33230197",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353058"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353061"
+  },
+  {
+    "from": "05223164",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353065"
+  },
+  {
+    "from": "33230201",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353076"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353079"
+  },
+  {
+    "from": "28198212",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353084"
+  },
+  {
+    "from": "33230205",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353092"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353095"
+  },
+  {
+    "from": "09088725",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353099"
+  },
+  {
+    "from": "33230209",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353107"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353110"
+  },
+  {
+    "from": "09443746",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353116"
+  },
+  {
+    "from": "33230213",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353125"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353128"
+  },
+  {
+    "from": "09381805",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353132"
+  },
+  {
+    "from": "33230217",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353142"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353145"
+  },
+  {
+    "from": "07452080",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353149"
+  },
+  {
+    "from": "33230221",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353157"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353160"
+  },
+  {
+    "from": "06169643",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353164"
+  },
+  {
+    "from": "33230225",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353175"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353178"
+  },
+  {
+    "from": "06343317",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353182"
+  },
+  {
+    "from": "33230229",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353194"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353197"
+  },
+  {
+    "from": "06354009",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353204"
+  },
+  {
+    "from": "33230233",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353225"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353227"
+  },
+  {
+    "from": "05835151",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353233"
+  },
+  {
+    "from": "33230241",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353242"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353245"
+  },
+  {
+    "from": "06229760",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353248"
+  },
+  {
+    "from": "33230245",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353256"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353258"
+  },
+  {
+    "from": "06508481",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353262"
+  },
+  {
+    "from": "33230249",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353269"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353272"
+  },
+  {
+    "from": "04578031",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353275"
+  },
+  {
+    "from": "33230253",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353285"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353288"
+  },
+  {
+    "from": "24694151",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353291"
+  },
+  {
+    "from": "33230257",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353303"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353306"
+  },
+  {
+    "from": "28243498",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353310"
+  },
+  {
+    "from": "33230265",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353318"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353320"
+  },
+  {
+    "from": "08807213",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353324"
+  },
+  {
+    "from": "33230269",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353331"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353334"
+  },
+  {
+    "from": "08531650",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353338"
+  },
+  {
+    "from": "33230273",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353345"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353347"
+  },
+  {
+    "from": "00231266",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353352"
+  },
+  {
+    "from": "33230277",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353359"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353361"
+  },
+  {
+    "from": "24236420",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353367"
+  },
+  {
+    "from": "33230281",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353375"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353378"
+  },
+  {
+    "from": "00063703",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353382"
+  },
+  {
+    "from": "33230285",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353392"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353395"
+  },
+  {
+    "from": "08861072",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353398"
+  },
+  {
+    "from": "33230289",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353406"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353408"
+  },
+  {
+    "from": "08419183",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353412"
+  },
+  {
+    "from": "33230293",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353421"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353425"
+  },
+  {
+    "from": "05156998",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353428"
+  },
+  {
+    "from": "33230297",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353436"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353439"
+  },
+  {
+    "from": "04920171",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353444"
+  },
+  {
+    "from": "33230301",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353452"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353454"
+  },
+  {
+    "from": "06237126",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.353458"
+  },
+  {
+    "from": "33230189",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354686"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354701"
+  },
+  {
+    "from": "02015081",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354706"
+  },
+  {
+    "from": "33230193",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354720"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354724"
+  },
+  {
+    "from": "07757964",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354728"
+  },
+  {
+    "from": "33230197",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354739"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354742"
+  },
+  {
+    "from": "05223164",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354747"
+  },
+  {
+    "from": "33230201",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354758"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354762"
+  },
+  {
+    "from": "28198212",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354764"
+  },
+  {
+    "from": "33230205",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354775"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354778"
+  },
+  {
+    "from": "09088725",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354781"
+  },
+  {
+    "from": "33230209",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354791"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354794"
+  },
+  {
+    "from": "09443746",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354798"
+  },
+  {
+    "from": "33230213",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354807"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354811"
+  },
+  {
+    "from": "09381805",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354814"
+  },
+  {
+    "from": "33230217",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354824"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354827"
+  },
+  {
+    "from": "07452080",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354830"
+  },
+  {
+    "from": "33230221",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354840"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354843"
+  },
+  {
+    "from": "06169643",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354847"
+  },
+  {
+    "from": "33230225",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354857"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354860"
+  },
+  {
+    "from": "06343317",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354863"
+  },
+  {
+    "from": "33230229",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354873"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354876"
+  },
+  {
+    "from": "06354009",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354879"
+  },
+  {
+    "from": "33230233",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354889"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354892"
+  },
+  {
+    "from": "05835151",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354895"
+  },
+  {
+    "from": "33230241",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354906"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354909"
+  },
+  {
+    "from": "06229760",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354912"
+  },
+  {
+    "from": "33230245",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354922"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354926"
+  },
+  {
+    "from": "06508481",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354929"
+  },
+  {
+    "from": "33230249",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354939"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354942"
+  },
+  {
+    "from": "04578031",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354945"
+  },
+  {
+    "from": "33230253",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354955"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354960"
+  },
+  {
+    "from": "24694151",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354964"
+  },
+  {
+    "from": "33230257",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354974"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354977"
+  },
+  {
+    "from": "28243498",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354980"
+  },
+  {
+    "from": "33230265",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354990"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354994"
+  },
+  {
+    "from": "08807213",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.354997"
+  },
+  {
+    "from": "33230269",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355007"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355010"
+  },
+  {
+    "from": "08531650",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355014"
+  },
+  {
+    "from": "33230273",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355024"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355028"
+  },
+  {
+    "from": "00231266",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355031"
+  },
+  {
+    "from": "33230277",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355041"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355044"
+  },
+  {
+    "from": "24236420",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355047"
+  },
+  {
+    "from": "33230281",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355057"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355060"
+  },
+  {
+    "from": "00063703",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355063"
+  },
+  {
+    "from": "33230285",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355073"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355076"
+  },
+  {
+    "from": "08861072",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355079"
+  },
+  {
+    "from": "33230289",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355088"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355092"
+  },
+  {
+    "from": "08419183",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355095"
+  },
+  {
+    "from": "33230293",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355105"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355108"
+  },
+  {
+    "from": "05156998",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355112"
+  },
+  {
+    "from": "33230297",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355121"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355124"
+  },
+  {
+    "from": "04920171",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355128"
+  },
+  {
+    "from": "33230301",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355137"
+  },
+  {
+    "from": "70886288",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355140"
+  },
+  {
+    "from": "06237126",
+    "to": "REGISTR_SMLUV",
+    "datum_ziskani": "2025-11-16T17:09:48.355143"
+  }
+]

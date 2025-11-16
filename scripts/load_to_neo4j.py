@@ -1,6 +1,6 @@
 """
 Load transformed data into Neo4j graph database.
-Creates nodes and relationships based on transformed JSON files.
+Matches Czech schema: Osoba, Firma, Zadavatel, Zakazka, Zdroj, Skola
 """
 
 import os
@@ -14,13 +14,23 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import TRANSFORMED_DIR, NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD
 
 class Neo4jLoader:
-    """Loads data into Neo4j graph database."""
+    """Loads data into Neo4j graph database using Czech schema."""
     
     def __init__(self, uri=None, user=None, password=None):
         self.uri = uri or NEO4J_URI
         self.user = user or NEO4J_USER
         self.password = password or NEO4J_PASSWORD
         self.driver = None
+        
+        # Map node types to their unique ID field names (Czech schema)
+        self.node_id_fields = {
+            "Osoba": "osoba_id",
+            "Firma": "ico",  # IČO is unique
+            "Zadavatel": "zadavatel_id",
+            "Zakazka": "zakazka_id",
+            "Zdroj": "zdroj_id",
+            "Skola": "skola_id"
+        }
         
     def connect(self):
         """Establish connection to Neo4j."""
@@ -52,12 +62,22 @@ class Neo4jLoader:
             print("Database cleared")
     
     def create_constraints(self):
-        """Create unique constraints and indexes for better performance."""
+        """Create unique constraints and indexes matching Czech schema."""
         constraints = [
-            "CREATE CONSTRAINT tender_id IF NOT EXISTS FOR (t:Tender) REQUIRE t.id IS UNIQUE",
-            "CREATE CONSTRAINT company_id IF NOT EXISTS FOR (c:Company) REQUIRE c.id IS UNIQUE",
-            "CREATE CONSTRAINT person_id IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE",
-            "CREATE CONSTRAINT org_id IF NOT EXISTS FOR (o:Organization) REQUIRE o.id IS UNIQUE",
+            # Unique constraints
+            "CREATE CONSTRAINT osoba_id_unique IF NOT EXISTS FOR (o:Osoba) REQUIRE o.osoba_id IS UNIQUE",
+            "CREATE CONSTRAINT firma_ico_unique IF NOT EXISTS FOR (f:Firma) REQUIRE f.ico IS UNIQUE",
+            "CREATE CONSTRAINT zadavatel_id_unique IF NOT EXISTS FOR (z:Zadavatel) REQUIRE z.zadavatel_id IS UNIQUE",
+            "CREATE CONSTRAINT zakazka_id_unique IF NOT EXISTS FOR (z:Zakazka) REQUIRE z.zakazka_id IS UNIQUE",
+            "CREATE CONSTRAINT skola_id_unique IF NOT EXISTS FOR (s:Skola) REQUIRE s.skola_id IS UNIQUE",
+            "CREATE CONSTRAINT zdroj_id_unique IF NOT EXISTS FOR (zd:Zdroj) REQUIRE zd.zdroj_id IS UNIQUE",
+            
+            # Indexes for searching
+            "CREATE INDEX osoba_jmeno_index IF NOT EXISTS FOR (o:Osoba) ON (o.prijmeni, o.datum_narozeni)",
+            "CREATE INDEX firma_nazev_index IF NOT EXISTS FOR (f:Firma) ON (f.nazev)",
+            "CREATE INDEX zakazka_rok_index IF NOT EXISTS FOR (z:Zakazka) ON (z.rok)",
+            "CREATE INDEX zadavatel_nazev_index IF NOT EXISTS FOR (z:Zadavatel) ON (z.nazev)",
+            "CREATE INDEX skola_nazev_mesto_index IF NOT EXISTS FOR (s:Skola) ON (s.nazev, s.mesto)",
         ]
         
         with self.driver.session() as session:
@@ -71,16 +91,28 @@ class Neo4jLoader:
                         print(f"Note: {e}")
     
     def load_nodes(self, node_type, nodes):
-        """Load nodes of a specific type into Neo4j."""
+        """Load nodes of a specific type into Neo4j using Czech schema ID fields."""
         if not nodes:
             return 0
         
-        query = f"""
-        UNWIND $nodes AS node
-        MERGE (n:{node_type} {{id: node.id}})
-        SET n += node
-        RETURN count(n) as count
-        """
+        # Get the unique ID field for this node type
+        id_field = self.node_id_fields.get(node_type, "id")
+        
+        # Build MERGE query based on ID field
+        if id_field == "ico":  # Special case for Firma - use IČO
+            query = f"""
+            UNWIND $nodes AS node
+            MERGE (n:{node_type} {{ico: node.ico}})
+            SET n += node
+            RETURN count(n) as count
+            """
+        else:
+            query = f"""
+            UNWIND $nodes AS node
+            MERGE (n:{node_type} {{{id_field}: node.{id_field}}})
+            SET n += node
+            RETURN count(n) as count
+            """
         
         with self.driver.session() as session:
             result = session.run(query, nodes=nodes)
@@ -88,33 +120,129 @@ class Neo4jLoader:
             return count
     
     def load_relationships(self, rel_type, relationships):
-        """Load relationships of a specific type into Neo4j."""
+        """Load relationships of a specific type into Neo4j using Czech schema."""
         if not relationships:
             return 0
         
-        # Determine node types from relationship direction
-        # This is a simplified version - you may need to adjust based on your schema
-        from_type = "Company"  # Default, adjust as needed
-        to_type = "Tender"     # Default, adjust as needed
+        # Map relationship types to node types (Czech schema)
+        # Default: assume from/to are IDs that need to be matched
+        # We need to determine node types from the relationship
         
-        if rel_type == "WORKS_FOR" or rel_type == "DIRECTS":
-            from_type = "Person"
-            to_type = "Company"
-        elif rel_type == "SUBMITTED_BID" or rel_type == "WON":
-            from_type = "Company"
-            to_type = "Tender"
-        elif rel_type == "PUBLISHED":
-            from_type = "Organization"
-            to_type = "Tender"
+        # Determine node types based on relationship type
+        from_type = None
+        to_type = None
+        from_id_field = "id"
+        to_id_field = "id"
         
-        query = f"""
-        UNWIND $rels AS rel
-        MATCH (from:{from_type} {{id: rel.from}})
-        MATCH (to:{to_type} {{id: rel.to}})
-        MERGE (from)-[r:{rel_type}]->(to)
-        SET r += rel
-        RETURN count(r) as count
-        """
+        if rel_type == "VYKONAVA_FUNKCI" or rel_type == "VLASTNI_PODIL":
+            from_type = "Osoba"
+            to_type = "Firma"
+            from_id_field = "osoba_id"
+            to_id_field = "ico"  # Firma uses IČO
+        elif rel_type == "PODAVA_NABIDKU" or rel_type == "JE_PRIDELENA":
+            from_type = "Firma"
+            to_type = "Zakazka"
+            from_id_field = "ico"  # Firma uses IČO
+            to_id_field = "zakazka_id"
+        elif rel_type == "STUDOVAL_NA":
+            from_type = "Osoba"
+            to_type = "Skola"
+            from_id_field = "osoba_id"
+            to_id_field = "skola_id"
+        elif rel_type == "POCHAZI_Z":
+            # This can link any node type to Zdroj
+            # We'll need to try matching from different node types
+            from_type = None  # Will be determined dynamically
+            to_type = "Zdroj"
+            to_id_field = "zdroj_id"
+        elif rel_type == "VYHLASUJE_ZAKAZKU":
+            from_type = "Zadavatel"
+            to_type = "Zakazka"
+            from_id_field = "zadavatel_id"
+            to_id_field = "zakazka_id"
+        else:
+            # Fallback: try to match by common patterns
+            from_type = "Firma"
+            to_type = "Zakazka"
+            from_id_field = "ico"
+            to_id_field = "zakazka_id"
+        
+        if from_type is None:
+            # For POCHAZI_Z, try to match from different node types
+            # This is a simplified approach - in production you might want more sophisticated matching
+            node_types_to_try = ["Osoba", "Firma", "Zadavatel", "Zakazka", "Skola"]
+            total_count = 0
+            
+            for try_from_type in node_types_to_try:
+                try_from_id = self.node_id_fields.get(try_from_type, "id")
+                if try_from_id == "ico":
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{try_from_type} {{ico: rel.from}})
+                    MATCH (to:{to_type} {{{to_id_field}: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
+                else:
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{try_from_type} {{{try_from_id}: rel.from}})
+                    MATCH (to:{to_type} {{{to_id_field}: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
+                
+                with self.driver.session() as session:
+                    try:
+                        result = session.run(query, rels=relationships)
+                        count = result.single()["count"]
+                        total_count += count
+                    except:
+                        pass  # Node type doesn't match, try next
+            
+            return total_count
+        else:
+            # Standard relationship loading
+            if from_id_field == "ico":
+                if to_id_field == "ico":
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{from_type} {{ico: rel.from}})
+                    MATCH (to:{to_type} {{ico: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
+                else:
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{from_type} {{ico: rel.from}})
+                    MATCH (to:{to_type} {{{to_id_field}: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
+            else:
+                if to_id_field == "ico":
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{from_type} {{{from_id_field}: rel.from}})
+                    MATCH (to:{to_type} {{ico: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
+                else:
+                    query = f"""
+                    UNWIND $rels AS rel
+                    MATCH (from:{from_type} {{{from_id_field}: rel.from}})
+                    MATCH (to:{to_type} {{{to_id_field}: rel.to}})
+                    MERGE (from)-[r:{rel_type}]->(to)
+                    SET r += rel
+                    RETURN count(r) as count
+                    """
         
         with self.driver.session() as session:
             result = session.run(query, rels=relationships)
@@ -186,10 +314,9 @@ class Neo4jLoader:
 if __name__ == "__main__":
     import argparse
     
-    parser = argparse.ArgumentParser(description="Load data into Neo4j")
+    parser = argparse.ArgumentParser(description="Load data into Neo4j (Czech schema)")
     parser.add_argument("--clear", action="store_true", help="Clear database before loading")
     args = parser.parse_args()
     
     loader = Neo4jLoader()
     loader.load_all(clear_first=args.clear)
-

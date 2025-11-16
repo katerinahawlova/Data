@@ -1,0 +1,326 @@
+[
+  {
+    "from": "COMP-02015081",
+    "to": "CONTRACT-33230189",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-07757964",
+    "to": "CONTRACT-33230193",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05223164",
+    "to": "CONTRACT-33230197",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-28198212",
+    "to": "CONTRACT-33230201",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09088725",
+    "to": "CONTRACT-33230205",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09443746",
+    "to": "CONTRACT-33230209",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09381805",
+    "to": "CONTRACT-33230213",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-07452080",
+    "to": "CONTRACT-33230217",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06169643",
+    "to": "CONTRACT-33230221",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06343317",
+    "to": "CONTRACT-33230225",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06354009",
+    "to": "CONTRACT-33230229",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05835151",
+    "to": "CONTRACT-33230233",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06229760",
+    "to": "CONTRACT-33230241",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06508481",
+    "to": "CONTRACT-33230245",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-04578031",
+    "to": "CONTRACT-33230249",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-24694151",
+    "to": "CONTRACT-33230253",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-28243498",
+    "to": "CONTRACT-33230257",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08807213",
+    "to": "CONTRACT-33230265",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08531650",
+    "to": "CONTRACT-33230269",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-00231266",
+    "to": "CONTRACT-33230273",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-24236420",
+    "to": "CONTRACT-33230277",
+    "contract_date": "2025-10-27",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-00063703",
+    "to": "CONTRACT-33230281",
+    "contract_date": "2025-10-27",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08861072",
+    "to": "CONTRACT-33230285",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08419183",
+    "to": "CONTRACT-33230289",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05156998",
+    "to": "CONTRACT-33230293",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-04920171",
+    "to": "CONTRACT-33230297",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06237126",
+    "to": "CONTRACT-33230301",
+    "contract_date": "2025-10-21",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-02015081",
+    "to": "CONTRACT-33230189",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-07757964",
+    "to": "CONTRACT-33230193",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05223164",
+    "to": "CONTRACT-33230197",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-28198212",
+    "to": "CONTRACT-33230201",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09088725",
+    "to": "CONTRACT-33230205",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09443746",
+    "to": "CONTRACT-33230209",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-09381805",
+    "to": "CONTRACT-33230213",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-07452080",
+    "to": "CONTRACT-33230217",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06169643",
+    "to": "CONTRACT-33230221",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06343317",
+    "to": "CONTRACT-33230225",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06354009",
+    "to": "CONTRACT-33230229",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05835151",
+    "to": "CONTRACT-33230233",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06229760",
+    "to": "CONTRACT-33230241",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06508481",
+    "to": "CONTRACT-33230245",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-04578031",
+    "to": "CONTRACT-33230249",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-24694151",
+    "to": "CONTRACT-33230253",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-28243498",
+    "to": "CONTRACT-33230257",
+    "contract_date": "2025-10-29",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08807213",
+    "to": "CONTRACT-33230265",
+    "contract_date": "2025-10-30",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08531650",
+    "to": "CONTRACT-33230269",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-00231266",
+    "to": "CONTRACT-33230273",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-24236420",
+    "to": "CONTRACT-33230277",
+    "contract_date": "2025-10-27",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-00063703",
+    "to": "CONTRACT-33230281",
+    "contract_date": "2025-10-27",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08861072",
+    "to": "CONTRACT-33230285",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-08419183",
+    "to": "CONTRACT-33230289",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-05156998",
+    "to": "CONTRACT-33230293",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-04920171",
+    "to": "CONTRACT-33230297",
+    "contract_date": "2025-10-23",
+    "value": 800000.0
+  },
+  {
+    "from": "COMP-06237126",
+    "to": "CONTRACT-33230301",
+    "contract_date": "2025-10-21",
+    "value": 800000.0
+  }
+]

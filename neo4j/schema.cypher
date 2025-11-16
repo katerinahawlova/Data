@@ -1,61 +1,126 @@
 // Neo4j Schema Definition for MBA Thesis Project
-// Public Tenders Relationship Analysis
+// Czech Schema - Public Tenders Relationship Analysis
 
-// Create unique constraints for node IDs
-CREATE CONSTRAINT tender_id IF NOT EXISTS FOR (t:Tender) REQUIRE t.id IS UNIQUE;
-CREATE CONSTRAINT company_id IF NOT EXISTS FOR (c:Company) REQUIRE c.id IS UNIQUE;
-CREATE CONSTRAINT person_id IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE;
-CREATE CONSTRAINT org_id IF NOT EXISTS FOR (o:Organization) REQUIRE o.id IS UNIQUE;
+// ---------- UZLY: UNIQUE CONSTRAINTS ----------
 
-// Create indexes for common query patterns
-CREATE INDEX tender_status IF NOT EXISTS FOR (t:Tender) ON (t.status);
-CREATE INDEX tender_publication_date IF NOT EXISTS FOR (t:Tender) ON (t.publication_date);
-CREATE INDEX company_name IF NOT EXISTS FOR (c:Company) ON (c.name);
-CREATE INDEX company_country IF NOT EXISTS FOR (c:Company) ON (c.country);
-CREATE INDEX person_name IF NOT EXISTS FOR (p:Person) ON (p.name);
+// Osoba – interní ID
+CREATE CONSTRAINT osoba_id_unique IF NOT EXISTS
+FOR (o:Osoba)
+REQUIRE o.osoba_id IS UNIQUE;
 
-// Node Labels and Properties:
-// 
-// (:Tender)
-//   - id (unique)
-//   - title
-//   - description
-//   - value
-//   - currency
-//   - publication_date
-//   - deadline
-//   - status
-//   - source
-//
-// (:Company)
-//   - id (unique)
-//   - name
-//   - registration_number
-//   - country
-//   - address
-//   - founded_date
-//   - company_type
-//   - status
-//   - source
-//
-// (:Person)
-//   - id (unique)
-//   - name
-//   - role
-//   - nationality
-//   - source
-//
-// (:Organization)
-//   - id (unique)
-//   - name
-//   - type
-//   - country
-//
-// Relationship Types:
-//
-// (:Company)-[:SUBMITTED_BID {bid_value, bid_date, status}]->(:Tender)
-// (:Company)-[:WON {award_date, award_value}]->(:Tender)
-// (:Person)-[:WORKS_FOR {position, start_date, end_date}]->(:Company)
-// (:Person)-[:DIRECTS {role, appointment_date}]->(:Company)
-// (:Organization)-[:PUBLISHED {publication_date}]->(:Tender)
+// Firma – IČO
+CREATE CONSTRAINT firma_ico_unique IF NOT EXISTS
+FOR (f:Firma)
+REQUIRE f.ico IS UNIQUE;
 
+// Zadavatel – IČO (pokud existuje)
+CREATE CONSTRAINT zadavatel_id_unique IF NOT EXISTS
+FOR (z:Zadavatel)
+REQUIRE z.zadavatel_id IS UNIQUE;
+
+// Zakázka – ID
+CREATE CONSTRAINT zakazka_id_unique IF NOT EXISTS
+FOR (z:Zakazka)
+REQUIRE z.zakazka_id IS UNIQUE;
+
+// Škola – ID
+CREATE CONSTRAINT skola_id_unique IF NOT EXISTS
+FOR (s:Skola)
+REQUIRE s.skola_id IS UNIQUE;
+
+// Zdroj – ID
+CREATE CONSTRAINT zdroj_id_unique IF NOT EXISTS
+FOR (zd:Zdroj)
+REQUIRE zd.zdroj_id IS UNIQUE;
+
+// ---------- INDEXY PRO VYHLEDÁVÁNÍ ----------
+
+// Osoba – jméno + příjmení
+CREATE INDEX osoba_jmeno_index IF NOT EXISTS
+FOR (o:Osoba)
+ON (o.prijmeni, o.datum_narozeni);
+
+// Firma – název
+CREATE INDEX firma_nazev_index IF NOT EXISTS
+FOR (f:Firma)
+ON (f.nazev);
+
+// Zakázka – rok
+CREATE INDEX zakazka_rok_index IF NOT EXISTS
+FOR (z:Zakazka)
+ON (z.rok);
+
+// Zadavatel – název
+CREATE INDEX zadavatel_nazev_index IF NOT EXISTS
+FOR (z:Zadavatel)
+ON (z.nazev);
+
+// Škola – název + město
+CREATE INDEX skola_nazev_mesto_index IF NOT EXISTS
+FOR (s:Skola)
+ON (s.nazev, s.mesto);
+
+// ---------- NODE SCHEMA ----------
+
+// (:Osoba)
+//   - osoba_id (unique)
+//   - cele_jmeno
+//   - jmeno
+//   - prijmeni
+//   - datum_narozeni
+//   - statni_prislusnost
+//   - stav_zaznamu  // draft / overeny / odmitnuty
+
+// (:Firma)
+//   - firma_id
+//   - ico (unique)
+//   - nazev
+//   - jurisdikce
+//   - stav_zaznamu
+
+// (:Zadavatel)
+//   - zadavatel_id (unique)
+//   - ico
+//   - nazev
+//   - typ
+//   - uroven
+//   - jurisdikce
+//   - stav_zaznamu
+
+// (:Zakazka)
+//   - zakazka_id (unique)
+//   - nazev
+//   - stav_zaznamu
+//   - popis
+//   - stav  // vypsana / probiha / ukoncena
+//   - hodnota
+//   - mena
+//   - rok
+//   - jurisdikce
+//   - externi_id
+
+// (:Skola)
+//   - skola_id (unique)
+//   - nazev
+//   - mesto
+//   - typ
+//   - obor
+
+// (:Zdroj)
+//   - zdroj_id (unique)
+//   - nazev
+//   - url
+//   - typ
+//   - vydavatel
+//   - licence
+//   - datum_ziskani
+
+// ---------- RELATIONSHIP TYPES ----------
+
+// (:Osoba)-[:VYKONAVA_FUNKCI {role, platnost_od, platnost_do, zdroj_id}]->(:Firma)
+// (:Osoba)-[:VLASTNI_PODIL {podil_procent, platnost_od, platnost_do, zdroj_id}]->(:Firma)
+// (:Firma)-[:PODAVA_NABIDKU {datum_podani, nabidkova_cena, mena, zdroj_id}]->(:Zakazka)
+// (:Firma)-[:JE_PRIDELENA {smlouva_id, platnost_od, platnost_do, hodnota, mena, zdroj_id}]->(:Zakazka)
+// (:Osoba)-[:STUDOVAL_NA {obor, od, do, zdroj_id}]->(:Skola)
+// (:Any)-[:POCHAZI_Z {datum_ziskani}]->(:Zdroj)
+// (:Zadavatel)-[:VYHLASUJE_ZAKAZKU {datum_vyhlaseni, zdroj_id}]->(:Zakazka)

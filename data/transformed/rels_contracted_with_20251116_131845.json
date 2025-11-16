@@ -1,0 +1,402 @@
+[
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230305",
+    "contract_date": "2025-10-29",
+    "value": 59148.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230309",
+    "contract_date": "2025-10-29",
+    "value": 58104.73,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-44848200",
+    "contract_id": "33230313",
+    "contract_date": "2025-10-29",
+    "value": 77822.38,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230317",
+    "contract_date": "2025-10-29",
+    "value": 158655.35,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230321",
+    "contract_date": "2025-10-29",
+    "value": 849401.22,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-48041351",
+    "contract_id": "33230325",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-24148725",
+    "contract_id": "33230329",
+    "contract_date": "2025-10-29",
+    "value": 98563.14,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-26260654",
+    "contract_id": "33230333",
+    "contract_date": "2025-10-29",
+    "value": 233407.45,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230337",
+    "contract_date": "2025-10-29",
+    "value": 80012.24,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230341",
+    "contract_date": "2025-10-29",
+    "value": 193603.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230345",
+    "contract_date": "2025-10-29",
+    "value": 83095.48,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230349",
+    "contract_date": "2025-10-29",
+    "value": 425090.97,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-27529053",
+    "contract_id": "33230353",
+    "contract_date": "2025-10-29",
+    "value": 51632.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-49617052",
+    "contract_id": "33230357",
+    "contract_date": "2025-10-29",
+    "value": 80549.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-25099019",
+    "contract_id": "33230361",
+    "contract_date": "2025-10-29",
+    "value": 52712.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230365",
+    "contract_date": "2025-10-29",
+    "value": 240275.33,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230369",
+    "contract_date": "2025-10-29",
+    "value": 60312.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230373",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230377",
+    "contract_date": "2025-10-29",
+    "value": 78090.34,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230381",
+    "contract_date": "2025-10-29",
+    "value": 707065.89,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230385",
+    "contract_date": "2025-10-29",
+    "value": 129004.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230389",
+    "contract_date": "2025-10-29",
+    "value": 1038691.8,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-06616631",
+    "contract_id": "33230393",
+    "contract_date": "2025-10-29",
+    "value": 84055.1,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-28538153",
+    "contract_id": "33230397",
+    "contract_date": "2025-10-29",
+    "value": 72271.11,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-47913240",
+    "contract_id": "33230401",
+    "contract_date": "2025-10-29",
+    "value": 56124.07,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230305",
+    "contract_date": "2025-10-29",
+    "value": 59148.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230309",
+    "contract_date": "2025-10-29",
+    "value": 58104.73,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-44848200",
+    "contract_id": "33230313",
+    "contract_date": "2025-10-29",
+    "value": 77822.38,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230317",
+    "contract_date": "2025-10-29",
+    "value": 158655.35,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230321",
+    "contract_date": "2025-10-29",
+    "value": 849401.22,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-48041351",
+    "contract_id": "33230325",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-24148725",
+    "contract_id": "33230329",
+    "contract_date": "2025-10-29",
+    "value": 98563.14,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-26260654",
+    "contract_id": "33230333",
+    "contract_date": "2025-10-29",
+    "value": 233407.45,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230337",
+    "contract_date": "2025-10-29",
+    "value": 80012.24,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230341",
+    "contract_date": "2025-10-29",
+    "value": 193603.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230345",
+    "contract_date": "2025-10-29",
+    "value": 83095.48,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230349",
+    "contract_date": "2025-10-29",
+    "value": 425090.97,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-27529053",
+    "contract_id": "33230353",
+    "contract_date": "2025-10-29",
+    "value": 51632.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-49617052",
+    "contract_id": "33230357",
+    "contract_date": "2025-10-29",
+    "value": 80549.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-25099019",
+    "contract_id": "33230361",
+    "contract_date": "2025-10-29",
+    "value": 52712.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230365",
+    "contract_date": "2025-10-29",
+    "value": 240275.33,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230369",
+    "contract_date": "2025-10-29",
+    "value": 60312.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230373",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230377",
+    "contract_date": "2025-10-29",
+    "value": 78090.34,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230381",
+    "contract_date": "2025-10-29",
+    "value": 707065.89,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230385",
+    "contract_date": "2025-10-29",
+    "value": 129004.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230389",
+    "contract_date": "2025-10-29",
+    "value": 1038691.8,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-06616631",
+    "contract_id": "33230393",
+    "contract_date": "2025-10-29",
+    "value": 84055.1,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-28538153",
+    "contract_id": "33230397",
+    "contract_date": "2025-10-29",
+    "value": 72271.11,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-47913240",
+    "contract_id": "33230401",
+    "contract_date": "2025-10-29",
+    "value": 56124.07,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  }
+]

@@ -1,0 +1,2329 @@
+{
+  "nodes": {
+    "Tender": [
+      {
+        "id": "CONTRACT-33230189",
+        "contract_id": "33230189",
+        "version_id": "35425453",
+        "url": "https://smlouvy.gov.cz/smlouva/35425453",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:15+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018153.00.000 / HSAA-6-308/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230193",
+        "contract_id": "33230193",
+        "version_id": "35425457",
+        "url": "https://smlouvy.gov.cz/smlouva/35425457",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:29+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018154.00.000 / HSAA-6-307/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230197",
+        "contract_id": "33230197",
+        "version_id": "35425461",
+        "url": "https://smlouvy.gov.cz/smlouva/35425461",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:43+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018155.00.000 / HSAA-6-306/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230201",
+        "contract_id": "33230201",
+        "version_id": "35425465",
+        "url": "https://smlouvy.gov.cz/smlouva/35425465",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:57+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018156.00.000 / HSAA-6-305/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230205",
+        "contract_id": "33230205",
+        "version_id": "35425469",
+        "url": "https://smlouvy.gov.cz/smlouva/35425469",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:59:09+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018157.00.000 / HSAA-6-304/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230209",
+        "contract_id": "33230209",
+        "version_id": "35425473",
+        "url": "https://smlouvy.gov.cz/smlouva/35425473",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:59:21+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018158.00.000 / HSAA-6-303/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230213",
+        "contract_id": "33230213",
+        "version_id": "35425477",
+        "url": "https://smlouvy.gov.cz/smlouva/35425477",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:03:52+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018159.00.000 / HSAA-6-302/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230217",
+        "contract_id": "33230217",
+        "version_id": "35425481",
+        "url": "https://smlouvy.gov.cz/smlouva/35425481",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:17+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018161.00.000 / HSAA-6-301/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230221",
+        "contract_id": "33230221",
+        "version_id": "35425485",
+        "url": "https://smlouvy.gov.cz/smlouva/35425485",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:29+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018162.00.000 / HSAA-6-299/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230225",
+        "contract_id": "33230225",
+        "version_id": "35425489",
+        "url": "https://smlouvy.gov.cz/smlouva/35425489",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:42+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018163.00.000 / HSAA-6-298/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230229",
+        "contract_id": "33230229",
+        "version_id": "35425493",
+        "url": "https://smlouvy.gov.cz/smlouva/35425493",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:54+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018164.00.000 / HSAA-6-297/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230233",
+        "contract_id": "33230233",
+        "version_id": "35425497",
+        "url": "https://smlouvy.gov.cz/smlouva/35425497",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:33:38+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018160.00.000 / HSAA-6-300/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230241",
+        "contract_id": "33230241",
+        "version_id": "35425509",
+        "url": "https://smlouvy.gov.cz/smlouva/35425509",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:20:46+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018165.00.000 / HSAA-6-296/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230245",
+        "contract_id": "33230245",
+        "version_id": "35425513",
+        "url": "https://smlouvy.gov.cz/smlouva/35425513",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:20:58+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018166.00.000 / HSAA-6-295/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230249",
+        "contract_id": "33230249",
+        "version_id": "35425517",
+        "url": "https://smlouvy.gov.cz/smlouva/35425517",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:09+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018167.00.000 / ˇHSAA-6-294/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230253",
+        "contract_id": "33230253",
+        "version_id": "35425521",
+        "url": "https://smlouvy.gov.cz/smlouva/35425521",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:21+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018168.00.000 / HSAA-6-293/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230257",
+        "contract_id": "33230257",
+        "version_id": "35425525",
+        "url": "https://smlouvy.gov.cz/smlouva/35425525",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:43+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018169.00.000 / HSAA-6-292/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230265",
+        "contract_id": "33230265",
+        "version_id": "35425537",
+        "url": "https://smlouvy.gov.cz/smlouva/35425537",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:21+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018174.00.000 / HSAA-6-291/KOIS-2025.",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230269",
+        "contract_id": "33230269",
+        "version_id": "35425541",
+        "url": "https://smlouvy.gov.cz/smlouva/35425541",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:34+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018173.00.000 / HSAA-6-287/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230273",
+        "contract_id": "33230273",
+        "version_id": "35425545",
+        "url": "https://smlouvy.gov.cz/smlouva/35425545",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:48+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018172.00.000 / HSAA-6-288/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230277",
+        "contract_id": "33230277",
+        "version_id": "35425549",
+        "url": "https://smlouvy.gov.cz/smlouva/35425549",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:52:05+01:00",
+        "contract_date": "2025-10-27",
+        "contract_number": "910018171.00.000 / HSAA-6-289/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230281",
+        "contract_id": "33230281",
+        "version_id": "35425553",
+        "url": "https://smlouvy.gov.cz/smlouva/35425553",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:52:21+01:00",
+        "contract_date": "2025-10-27",
+        "contract_number": "910018170.00.000 / HSAA-6-290/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230285",
+        "contract_id": "33230285",
+        "version_id": "35425557",
+        "url": "https://smlouvy.gov.cz/smlouva/35425557",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:34:48+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018175.00.000 / HSAA-6-286/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230289",
+        "contract_id": "33230289",
+        "version_id": "35425561",
+        "url": "https://smlouvy.gov.cz/smlouva/35425561",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:01+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018176.00.000 / HSAA-6-285/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230293",
+        "contract_id": "33230293",
+        "version_id": "35425565",
+        "url": "https://smlouvy.gov.cz/smlouva/35425565",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:14+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018177.00.000 / HSAA-6-284/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230297",
+        "contract_id": "33230297",
+        "version_id": "35425569",
+        "url": "https://smlouvy.gov.cz/smlouva/35425569",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:34+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018178.00.000 / HSAA-6-283/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230301",
+        "contract_id": "33230301",
+        "version_id": "35425573",
+        "url": "https://smlouvy.gov.cz/smlouva/35425573",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:36:12+01:00",
+        "contract_date": "2025-10-21",
+        "contract_number": "910018179.00.000 / HSAA-6-281/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230189",
+        "contract_id": "33230189",
+        "version_id": "35425453",
+        "url": "https://smlouvy.gov.cz/smlouva/35425453",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:15+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018153.00.000 / HSAA-6-308/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230193",
+        "contract_id": "33230193",
+        "version_id": "35425457",
+        "url": "https://smlouvy.gov.cz/smlouva/35425457",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:29+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018154.00.000 / HSAA-6-307/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230197",
+        "contract_id": "33230197",
+        "version_id": "35425461",
+        "url": "https://smlouvy.gov.cz/smlouva/35425461",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:43+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018155.00.000 / HSAA-6-306/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230201",
+        "contract_id": "33230201",
+        "version_id": "35425465",
+        "url": "https://smlouvy.gov.cz/smlouva/35425465",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:58:57+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018156.00.000 / HSAA-6-305/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230205",
+        "contract_id": "33230205",
+        "version_id": "35425469",
+        "url": "https://smlouvy.gov.cz/smlouva/35425469",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:59:09+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018157.00.000 / HSAA-6-304/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230209",
+        "contract_id": "33230209",
+        "version_id": "35425473",
+        "url": "https://smlouvy.gov.cz/smlouva/35425473",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T18:59:21+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018158.00.000 / HSAA-6-303/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230213",
+        "contract_id": "33230213",
+        "version_id": "35425477",
+        "url": "https://smlouvy.gov.cz/smlouva/35425477",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:03:52+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018159.00.000 / HSAA-6-302/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230217",
+        "contract_id": "33230217",
+        "version_id": "35425481",
+        "url": "https://smlouvy.gov.cz/smlouva/35425481",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:17+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018161.00.000 / HSAA-6-301/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230221",
+        "contract_id": "33230221",
+        "version_id": "35425485",
+        "url": "https://smlouvy.gov.cz/smlouva/35425485",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:29+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018162.00.000 / HSAA-6-299/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230225",
+        "contract_id": "33230225",
+        "version_id": "35425489",
+        "url": "https://smlouvy.gov.cz/smlouva/35425489",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:42+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018163.00.000 / HSAA-6-298/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230229",
+        "contract_id": "33230229",
+        "version_id": "35425493",
+        "url": "https://smlouvy.gov.cz/smlouva/35425493",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:32:54+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018164.00.000 / HSAA-6-297/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230233",
+        "contract_id": "33230233",
+        "version_id": "35425497",
+        "url": "https://smlouvy.gov.cz/smlouva/35425497",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T19:33:38+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018160.00.000 / HSAA-6-300/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230241",
+        "contract_id": "33230241",
+        "version_id": "35425509",
+        "url": "https://smlouvy.gov.cz/smlouva/35425509",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:20:46+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018165.00.000 / HSAA-6-296/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230245",
+        "contract_id": "33230245",
+        "version_id": "35425513",
+        "url": "https://smlouvy.gov.cz/smlouva/35425513",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:20:58+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018166.00.000 / HSAA-6-295/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230249",
+        "contract_id": "33230249",
+        "version_id": "35425517",
+        "url": "https://smlouvy.gov.cz/smlouva/35425517",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:09+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018167.00.000 / ˇHSAA-6-294/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230253",
+        "contract_id": "33230253",
+        "version_id": "35425521",
+        "url": "https://smlouvy.gov.cz/smlouva/35425521",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:21+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018168.00.000 / HSAA-6-293/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230257",
+        "contract_id": "33230257",
+        "version_id": "35425525",
+        "url": "https://smlouvy.gov.cz/smlouva/35425525",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:21:43+01:00",
+        "contract_date": "2025-10-29",
+        "contract_number": "910018169.00.000 / HSAA-6-292/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230265",
+        "contract_id": "33230265",
+        "version_id": "35425537",
+        "url": "https://smlouvy.gov.cz/smlouva/35425537",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:21+01:00",
+        "contract_date": "2025-10-30",
+        "contract_number": "910018174.00.000 / HSAA-6-291/KOIS-2025.",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230269",
+        "contract_id": "33230269",
+        "version_id": "35425541",
+        "url": "https://smlouvy.gov.cz/smlouva/35425541",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:34+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018173.00.000 / HSAA-6-287/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230273",
+        "contract_id": "33230273",
+        "version_id": "35425545",
+        "url": "https://smlouvy.gov.cz/smlouva/35425545",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:51:48+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018172.00.000 / HSAA-6-288/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230277",
+        "contract_id": "33230277",
+        "version_id": "35425549",
+        "url": "https://smlouvy.gov.cz/smlouva/35425549",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:52:05+01:00",
+        "contract_date": "2025-10-27",
+        "contract_number": "910018171.00.000 / HSAA-6-289/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230281",
+        "contract_id": "33230281",
+        "version_id": "35425553",
+        "url": "https://smlouvy.gov.cz/smlouva/35425553",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T20:52:21+01:00",
+        "contract_date": "2025-10-27",
+        "contract_number": "910018170.00.000 / HSAA-6-290/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230285",
+        "contract_id": "33230285",
+        "version_id": "35425557",
+        "url": "https://smlouvy.gov.cz/smlouva/35425557",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:34:48+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018175.00.000 / HSAA-6-286/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230289",
+        "contract_id": "33230289",
+        "version_id": "35425561",
+        "url": "https://smlouvy.gov.cz/smlouva/35425561",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:01+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018176.00.000 / HSAA-6-285/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230293",
+        "contract_id": "33230293",
+        "version_id": "35425565",
+        "url": "https://smlouvy.gov.cz/smlouva/35425565",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:14+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018177.00.000 / HSAA-6-284/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230297",
+        "contract_id": "33230297",
+        "version_id": "35425569",
+        "url": "https://smlouvy.gov.cz/smlouva/35425569",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:35:34+01:00",
+        "contract_date": "2025-10-23",
+        "contract_number": "910018178.00.000 / HSAA-6-283/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "CONTRACT-33230301",
+        "contract_id": "33230301",
+        "version_id": "35425573",
+        "url": "https://smlouvy.gov.cz/smlouva/35425573",
+        "title": "připojení EPS na PCO",
+        "description": "připojení EPS na PCO",
+        "value": 800000.0,
+        "value_with_vat": 800000.0,
+        "currency": "CZK",
+        "publication_date": "2025-11-01T21:36:12+01:00",
+        "contract_date": "2025-10-21",
+        "contract_number": "910018179.00.000 / HSAA-6-281/KOIS-2025",
+        "approved_by": "brig. gen. Ing. Luděk Prudil",
+        "status": "completed",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      }
+    ],
+    "Company": [
+      {
+        "id": "COMP-70886288",
+        "ico": "70886288",
+        "name": "Hasičský záchranný sbor hlavního města Prahy",
+        "address": "Sokolská 1595/62, 12000 Praha 2, CZ",
+        "datova_schranka": "jm9aa6j",
+        "utvar": "HZS hl. m. Prahy",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-02015081",
+        "ico": "02015081",
+        "name": "Společenství vlastníků pro dům Karolina Plazza K1",
+        "address": "Sokolovská 694/100, Praha, 18600, CZ",
+        "datova_schranka": "g7db3mm",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-07757964",
+        "ico": "07757964",
+        "name": "Společenství vlastníků domu Škrábkových č.p. 882,",
+        "address": "Škrábkových 882/10, Praha, 19900, CZ",
+        "datova_schranka": "hcvz5fq",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-05223164",
+        "ico": "05223164",
+        "name": "Společenství vlastníků domu Pod Harfou č.p. 994, P",
+        "address": "Pod Harfou 994/21, Praha, 19000, CZ",
+        "datova_schranka": "ym8tesq",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-28198212",
+        "ico": "28198212",
+        "name": "PASSERINVEST BBC 1, s.r.o.",
+        "address": "Želetavská 1525/1, Praha, 14000, CZ",
+        "datova_schranka": "cs8fexg",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-09088725",
+        "ico": "09088725",
+        "name": "Společenství vlastníků jednotek Smrčkova 2512, Pra",
+        "address": "Smrčkova 2512/5, Praha, 18000, CZ",
+        "datova_schranka": "mcdrwt3",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-09443746",
+        "ico": "09443746",
+        "name": "Společenství vlastníků Harfa Design Residence, Kur",
+        "address": "Kurta Konráda 2517/1, Praha, 19000, CZ",
+        "datova_schranka": "ns4xk6m",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-09381805",
+        "ico": "09381805",
+        "name": "Společenství vlastníků Mantovská 790/6, Praha 10",
+        "address": "Mantovská 790/6, Praha, 10900, CZ",
+        "datova_schranka": "29gem7x",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-07452080",
+        "ico": "07452080",
+        "name": "Společenství vlastníků jednotek Menclova 2494, Pra",
+        "address": "Menclova 2494/2a, Praha, 18000, CZ",
+        "datova_schranka": "82vr3va",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06169643",
+        "ico": "06169643",
+        "name": "Společenství vlastníků domu Padovská č.p. 749, 109",
+        "address": "Padovská 749/7, Praha, 10900, CZ",
+        "datova_schranka": "c2qgwqd",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06343317",
+        "ico": "06343317",
+        "name": "Společenství vlastníků jednotek Altajská 1568, Pra",
+        "address": "Altajská 1568/2, Praha, 10000, CZ",
+        "datova_schranka": "cvjg43x",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06354009",
+        "ico": "06354009",
+        "name": "Společenství vlastníků jednotek v domě č. p. 398,",
+        "address": "Učňovská 398/2, Praha, 19000, CZ",
+        "datova_schranka": "exug5cw",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-05835151",
+        "ico": "05835151",
+        "name": "Společenství vlastníků U hranic 3419, Praha 10",
+        "address": "U hranic 3419/12b, Praha, 10000, CZ",
+        "datova_schranka": "ybsgh8i",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06229760",
+        "ico": "06229760",
+        "name": "Společenství vlastníků pro dům č.p. 1685 v ulici V",
+        "address": "Vindyšova 1685/2, Praha, 15300, CZ",
+        "datova_schranka": "pytgyze",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06508481",
+        "ico": "06508481",
+        "name": "Společenství vlastníků Chlebovická 824, Praha 9",
+        "address": "Chlebovická 824/18, Praha, 19900, CZ",
+        "datova_schranka": "q6ucp3d",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-04578031",
+        "ico": "04578031",
+        "name": "Společenství vlastníků Plzeňská 312,313,314,315, P",
+        "address": "Plzeňská 312/217b, Praha, 15000, CZ",
+        "datova_schranka": "673tzkc",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-24694151",
+        "ico": "24694151",
+        "name": "Společenství vlastníků jednotek pro dům Panuškova",
+        "address": "Panuškova 1301/4, Praha, 14000, CZ",
+        "datova_schranka": "e2f49ek",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-28243498",
+        "ico": "28243498",
+        "name": "Společenství vlastníků Rejchova 2319, Praha 6",
+        "address": "Rejchova 2319/2a, Praha, 16200, CZ",
+        "datova_schranka": "m3irvi3",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-08807213",
+        "ico": "08807213",
+        "name": "Společenství vlastníků jednotek Hradešínská 2583/5",
+        "address": "Hradešínská 2583/52, Praha, 10100, CZ",
+        "datova_schranka": "wc3xpjf",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-08531650",
+        "ico": "08531650",
+        "name": "Společenství vlastníků domu Naskové 1335, Praha 5",
+        "address": "Naskové 1335/1i, Praha, 15000, CZ",
+        "datova_schranka": "f4btgt3",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-00231266",
+        "ico": "00231266",
+        "name": "Městská část Praha-Ďáblice",
+        "address": "Osinalická 1104/13, Praha, 18200, CZ",
+        "datova_schranka": "dkvbw9b",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-24236420",
+        "ico": "24236420",
+        "name": "Společenství vlastníků pro dům č.p. 970, Praha 4,",
+        "address": "Jurkovičova 970, Praha 4, 14900, CZ",
+        "datova_schranka": "kkx44kk",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-00063703",
+        "ico": "00063703",
+        "name": "Městská část Praha 6",
+        "address": "Čs. armády 601/23, Praha, 16000, CZ",
+        "datova_schranka": "bmzbv7c",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-08861072",
+        "ico": "08861072",
+        "name": "Společenství vlastníků Svatošových 1014, Praha 9",
+        "address": "Svatošových 1014/5, Praha, 19000, CZ",
+        "datova_schranka": "gnkryrg",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-08419183",
+        "ico": "08419183",
+        "name": "Společenství vlastníků jednotek v bytovém domě Mod",
+        "address": "K Vystrkovu 2250/2, Praha, 14300, CZ",
+        "datova_schranka": "d5kjqs5",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-05156998",
+        "ico": "05156998",
+        "name": "Společenství vlastníků jednotek Kadečkové 774, Pra",
+        "address": "Kadečkové 774/12, Praha, 19900, CZ",
+        "datova_schranka": "sscrtpe",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-04920171",
+        "ico": "04920171",
+        "name": "Společenství vlastníků pro dům č.p. 2387, Praha 4,",
+        "address": "Babická 2387/4, Praha, 14900, CZ",
+        "datova_schranka": "hf9xacb",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      },
+      {
+        "id": "COMP-06237126",
+        "ico": "06237126",
+        "name": "Společenství vlastníků Miloše Havla 1246",
+        "address": "Miloše Havla 1246/3, Praha, 15200, CZ",
+        "datova_schranka": "aisp3dh",
+        "country": "CZ",
+        "source": "smlouvy_gov"
+      }
+    ],
+    "Person": [],
+    "Organization": []
+  },
+  "relationships": {
+    "SUBMITTED_BID": [],
+    "WON": [],
+    "WORKS_FOR": [],
+    "DIRECTS": [],
+    "PUBLISHED": [],
+    "CONTRACTED_WITH": [
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-02015081",
+        "contract_id": "33230189",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-07757964",
+        "contract_id": "33230193",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05223164",
+        "contract_id": "33230197",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-28198212",
+        "contract_id": "33230201",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09088725",
+        "contract_id": "33230205",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09443746",
+        "contract_id": "33230209",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09381805",
+        "contract_id": "33230213",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-07452080",
+        "contract_id": "33230217",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06169643",
+        "contract_id": "33230221",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06343317",
+        "contract_id": "33230225",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06354009",
+        "contract_id": "33230229",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05835151",
+        "contract_id": "33230233",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06229760",
+        "contract_id": "33230241",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06508481",
+        "contract_id": "33230245",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-04578031",
+        "contract_id": "33230249",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-24694151",
+        "contract_id": "33230253",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-28243498",
+        "contract_id": "33230257",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08807213",
+        "contract_id": "33230265",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08531650",
+        "contract_id": "33230269",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-00231266",
+        "contract_id": "33230273",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-24236420",
+        "contract_id": "33230277",
+        "contract_date": "2025-10-27",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-00063703",
+        "contract_id": "33230281",
+        "contract_date": "2025-10-27",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08861072",
+        "contract_id": "33230285",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08419183",
+        "contract_id": "33230289",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05156998",
+        "contract_id": "33230293",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-04920171",
+        "contract_id": "33230297",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06237126",
+        "contract_id": "33230301",
+        "contract_date": "2025-10-21",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-02015081",
+        "contract_id": "33230189",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-07757964",
+        "contract_id": "33230193",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05223164",
+        "contract_id": "33230197",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-28198212",
+        "contract_id": "33230201",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09088725",
+        "contract_id": "33230205",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09443746",
+        "contract_id": "33230209",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-09381805",
+        "contract_id": "33230213",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-07452080",
+        "contract_id": "33230217",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06169643",
+        "contract_id": "33230221",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06343317",
+        "contract_id": "33230225",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06354009",
+        "contract_id": "33230229",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05835151",
+        "contract_id": "33230233",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06229760",
+        "contract_id": "33230241",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06508481",
+        "contract_id": "33230245",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-04578031",
+        "contract_id": "33230249",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-24694151",
+        "contract_id": "33230253",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-28243498",
+        "contract_id": "33230257",
+        "contract_date": "2025-10-29",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08807213",
+        "contract_id": "33230265",
+        "contract_date": "2025-10-30",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08531650",
+        "contract_id": "33230269",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-00231266",
+        "contract_id": "33230273",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-24236420",
+        "contract_id": "33230277",
+        "contract_date": "2025-10-27",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-00063703",
+        "contract_id": "33230281",
+        "contract_date": "2025-10-27",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08861072",
+        "contract_id": "33230285",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-08419183",
+        "contract_id": "33230289",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-05156998",
+        "contract_id": "33230293",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-04920171",
+        "contract_id": "33230297",
+        "contract_date": "2025-10-23",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "COMP-06237126",
+        "contract_id": "33230301",
+        "contract_date": "2025-10-21",
+        "value": 800000.0,
+        "subject": "připojení EPS na PCO"
+      }
+    ],
+    "PUBLISHED_CONTRACT": [
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230189",
+        "publication_date": "2025-11-01T18:58:15+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230193",
+        "publication_date": "2025-11-01T18:58:29+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230197",
+        "publication_date": "2025-11-01T18:58:43+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230201",
+        "publication_date": "2025-11-01T18:58:57+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230205",
+        "publication_date": "2025-11-01T18:59:09+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230209",
+        "publication_date": "2025-11-01T18:59:21+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230213",
+        "publication_date": "2025-11-01T19:03:52+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230217",
+        "publication_date": "2025-11-01T19:32:17+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230221",
+        "publication_date": "2025-11-01T19:32:29+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230225",
+        "publication_date": "2025-11-01T19:32:42+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230229",
+        "publication_date": "2025-11-01T19:32:54+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230233",
+        "publication_date": "2025-11-01T19:33:38+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230241",
+        "publication_date": "2025-11-01T20:20:46+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230245",
+        "publication_date": "2025-11-01T20:20:58+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230249",
+        "publication_date": "2025-11-01T20:21:09+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230253",
+        "publication_date": "2025-11-01T20:21:21+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230257",
+        "publication_date": "2025-11-01T20:21:43+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230265",
+        "publication_date": "2025-11-01T20:51:21+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230269",
+        "publication_date": "2025-11-01T20:51:34+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230273",
+        "publication_date": "2025-11-01T20:51:48+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230277",
+        "publication_date": "2025-11-01T20:52:05+01:00",
+        "contract_date": "2025-10-27"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230281",
+        "publication_date": "2025-11-01T20:52:21+01:00",
+        "contract_date": "2025-10-27"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230285",
+        "publication_date": "2025-11-01T21:34:48+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230289",
+        "publication_date": "2025-11-01T21:35:01+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230293",
+        "publication_date": "2025-11-01T21:35:14+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230297",
+        "publication_date": "2025-11-01T21:35:34+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230301",
+        "publication_date": "2025-11-01T21:36:12+01:00",
+        "contract_date": "2025-10-21"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230189",
+        "publication_date": "2025-11-01T18:58:15+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230193",
+        "publication_date": "2025-11-01T18:58:29+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230197",
+        "publication_date": "2025-11-01T18:58:43+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230201",
+        "publication_date": "2025-11-01T18:58:57+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230205",
+        "publication_date": "2025-11-01T18:59:09+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230209",
+        "publication_date": "2025-11-01T18:59:21+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230213",
+        "publication_date": "2025-11-01T19:03:52+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230217",
+        "publication_date": "2025-11-01T19:32:17+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230221",
+        "publication_date": "2025-11-01T19:32:29+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230225",
+        "publication_date": "2025-11-01T19:32:42+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230229",
+        "publication_date": "2025-11-01T19:32:54+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230233",
+        "publication_date": "2025-11-01T19:33:38+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230241",
+        "publication_date": "2025-11-01T20:20:46+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230245",
+        "publication_date": "2025-11-01T20:20:58+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230249",
+        "publication_date": "2025-11-01T20:21:09+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230253",
+        "publication_date": "2025-11-01T20:21:21+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230257",
+        "publication_date": "2025-11-01T20:21:43+01:00",
+        "contract_date": "2025-10-29"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230265",
+        "publication_date": "2025-11-01T20:51:21+01:00",
+        "contract_date": "2025-10-30"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230269",
+        "publication_date": "2025-11-01T20:51:34+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230273",
+        "publication_date": "2025-11-01T20:51:48+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230277",
+        "publication_date": "2025-11-01T20:52:05+01:00",
+        "contract_date": "2025-10-27"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230281",
+        "publication_date": "2025-11-01T20:52:21+01:00",
+        "contract_date": "2025-10-27"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230285",
+        "publication_date": "2025-11-01T21:34:48+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230289",
+        "publication_date": "2025-11-01T21:35:01+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230293",
+        "publication_date": "2025-11-01T21:35:14+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230297",
+        "publication_date": "2025-11-01T21:35:34+01:00",
+        "contract_date": "2025-10-23"
+      },
+      {
+        "from": "COMP-70886288",
+        "to": "CONTRACT-33230301",
+        "publication_date": "2025-11-01T21:36:12+01:00",
+        "contract_date": "2025-10-21"
+      }
+    ],
+    "WON_CONTRACT": [
+      {
+        "from": "COMP-02015081",
+        "to": "CONTRACT-33230189",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-07757964",
+        "to": "CONTRACT-33230193",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05223164",
+        "to": "CONTRACT-33230197",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-28198212",
+        "to": "CONTRACT-33230201",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09088725",
+        "to": "CONTRACT-33230205",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09443746",
+        "to": "CONTRACT-33230209",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09381805",
+        "to": "CONTRACT-33230213",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-07452080",
+        "to": "CONTRACT-33230217",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06169643",
+        "to": "CONTRACT-33230221",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06343317",
+        "to": "CONTRACT-33230225",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06354009",
+        "to": "CONTRACT-33230229",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05835151",
+        "to": "CONTRACT-33230233",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06229760",
+        "to": "CONTRACT-33230241",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06508481",
+        "to": "CONTRACT-33230245",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-04578031",
+        "to": "CONTRACT-33230249",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-24694151",
+        "to": "CONTRACT-33230253",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-28243498",
+        "to": "CONTRACT-33230257",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08807213",
+        "to": "CONTRACT-33230265",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08531650",
+        "to": "CONTRACT-33230269",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-00231266",
+        "to": "CONTRACT-33230273",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-24236420",
+        "to": "CONTRACT-33230277",
+        "contract_date": "2025-10-27",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-00063703",
+        "to": "CONTRACT-33230281",
+        "contract_date": "2025-10-27",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08861072",
+        "to": "CONTRACT-33230285",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08419183",
+        "to": "CONTRACT-33230289",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05156998",
+        "to": "CONTRACT-33230293",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-04920171",
+        "to": "CONTRACT-33230297",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06237126",
+        "to": "CONTRACT-33230301",
+        "contract_date": "2025-10-21",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-02015081",
+        "to": "CONTRACT-33230189",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-07757964",
+        "to": "CONTRACT-33230193",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05223164",
+        "to": "CONTRACT-33230197",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-28198212",
+        "to": "CONTRACT-33230201",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09088725",
+        "to": "CONTRACT-33230205",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09443746",
+        "to": "CONTRACT-33230209",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-09381805",
+        "to": "CONTRACT-33230213",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-07452080",
+        "to": "CONTRACT-33230217",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06169643",
+        "to": "CONTRACT-33230221",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06343317",
+        "to": "CONTRACT-33230225",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06354009",
+        "to": "CONTRACT-33230229",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05835151",
+        "to": "CONTRACT-33230233",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06229760",
+        "to": "CONTRACT-33230241",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06508481",
+        "to": "CONTRACT-33230245",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-04578031",
+        "to": "CONTRACT-33230249",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-24694151",
+        "to": "CONTRACT-33230253",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-28243498",
+        "to": "CONTRACT-33230257",
+        "contract_date": "2025-10-29",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08807213",
+        "to": "CONTRACT-33230265",
+        "contract_date": "2025-10-30",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08531650",
+        "to": "CONTRACT-33230269",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-00231266",
+        "to": "CONTRACT-33230273",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-24236420",
+        "to": "CONTRACT-33230277",
+        "contract_date": "2025-10-27",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-00063703",
+        "to": "CONTRACT-33230281",
+        "contract_date": "2025-10-27",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08861072",
+        "to": "CONTRACT-33230285",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-08419183",
+        "to": "CONTRACT-33230289",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-05156998",
+        "to": "CONTRACT-33230293",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-04920171",
+        "to": "CONTRACT-33230297",
+        "contract_date": "2025-10-23",
+        "value": 800000.0
+      },
+      {
+        "from": "COMP-06237126",
+        "to": "CONTRACT-33230301",
+        "contract_date": "2025-10-21",
+        "value": 800000.0
+      }
+    ]
+  },
+  "timestamp": "20251116_131840"
+}

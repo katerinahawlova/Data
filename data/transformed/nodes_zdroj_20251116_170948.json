@@ -1,0 +1,10 @@
+[
+  {
+    "zdroj_id": "REGISTR_SMLUV",
+    "nazev": "Registr smluv",
+    "url": "https://smlouvy.gov.cz",
+    "typ": "registr",
+    "licence": "otevrena-data",
+    "datum_ziskani": "2025-11-16T17:09:48.339272"
+  }
+]

@@ -4,9 +4,11 @@ Focused on Czech Republic (Česká republika) data sources.
 """
 
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv is optional
 
 # Geographic Focus
 COUNTRY = "Czech Republic"

@@ -1,0 +1,1235 @@
+[
+  {
+    "id": "COMP-45359326",
+    "ico": "45359326",
+    "name": "PHOENIX lékárenský velkoobchod, s.r.o.",
+    "address": "K pérovně 945/7, 10200 Praha 10, CZ",
+    "datova_schranka": "2wrru4m",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00064165",
+    "ico": "00064165",
+    "name": "VŠEOBECNÁ FAKULTNÍ NEMOCNICE V PRAZE",
+    "address": "U nemocnice 499/2, 128 00 Praha 2, Nové Město",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-23223561",
+    "ico": "23223561",
+    "name": "Kutná Hora v pohybu, z.ú.",
+    "address": "Havlíčkovo náměstí 552/1, 28401 Kutná Hora, CZ",
+    "datova_schranka": "f2r7isz",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-71002090",
+    "ico": "71002090",
+    "name": "Základní škola T.G.Masarykova Kutná Hora, Jiráskovy sady 387",
+    "address": "Jiráskovy sady 387, 284 01 Kutná Hora",
+    "datova_schranka": "rh9mtb5",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00023001",
+    "ico": "00023001",
+    "name": "INSTITUT KLINICKÉ A EXPERIMENTÁLNÍ MEDICINY",
+    "address": "Vídeňská 1958/9, 140 00 Praha 4, Krč",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25488627",
+    "ico": "25488627",
+    "name": "Krajská zdravotní, a.s.",
+    "address": "Sociální péče 3316/12a, 400 11 Ústí nad Labem",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00064211",
+    "ico": "00064211",
+    "name": "Fakultní nemocnice Bulovka",
+    "address": "Budínova 67/2, 180 00 Praha 8, Libeň",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26095181",
+    "ico": "26095181",
+    "name": "Nemocnice Strakonice, a.s.",
+    "address": "Radomyšlská 336, 386 01 Strakonice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-22877606",
+    "ico": "22877606",
+    "name": "Trenéři ve škole, z.s.",
+    "address": "Pod Marjánkou 1906/12, 169 00 Praha 6 - Břevnov",
+    "datova_schranka": "2a8fp3a",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27256391",
+    "ico": "27256391",
+    "name": "Oblastní nemocnice Kolín, a.s., nemocnice Středočesk. kraje",
+    "address": "Žižkova 146, 280 02 Kolín",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00159816",
+    "ico": "00159816",
+    "name": "Fakultní nemocnice u sv. Anny v Brně",
+    "address": "Pekařská 664/53, 602 00 Brno - Staré Brno",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28462564",
+    "ico": "28462564",
+    "name": "Merck Sharp &amp; Dohme s.r.o.",
+    "address": "Na Valentince 3336/4, 15000 Praha 5, CZ",
+    "datova_schranka": "9hszftn",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00179906",
+    "ico": "00179906",
+    "name": "Fakultní nemocnice Hradec Králové",
+    "address": "Sokolská 581, 500 03 Hradec Králové",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27520536",
+    "ico": "27520536",
+    "name": "Nemocnice Pardubického kraje, a.s.",
+    "address": "Kyjevská 44, 530 03 Pardubice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27256537",
+    "ico": "27256537",
+    "name": "Oblastní nemocnice Kladno, a.s., nemocnice Středočesk. kraje",
+    "address": "Vančurova 1548, 272 01 Kladno",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26095149",
+    "ico": "26095149",
+    "name": "Nemocnice Český Krumlov, a.s.",
+    "address": "Nemocniční 429, 381 01 Horní Brána,Český Krumlov",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27256456",
+    "ico": "27256456",
+    "name": "Oblastní nemocnice Mladá Boleslav, a.s., nem. Středoč. kraje",
+    "address": "tř. Václava Klementa 147, 293 01 Mladá Boleslav",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26095203",
+    "ico": "26095203",
+    "name": "Nemocnice Tábor, a.s.",
+    "address": "Kpt. Jaroše 2000/10, 390 03 Tábor",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26095190",
+    "ico": "26095190",
+    "name": "Nemocnice Písek, a.s.",
+    "address": "Karla Čapka 589, 397 01 Písek",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27661989",
+    "ico": "27661989",
+    "name": "Krajská nemocnice T. Bati, a. s.",
+    "address": "Havlíčkovo nábřeží 600, 762 75 Zlín",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00842001",
+    "ico": "00842001",
+    "name": "Nemocnice Nové Město na Moravě, příspěvková organizace",
+    "address": "Žďárská 610, 592 31 Nové Město na Moravě",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00209805",
+    "ico": "00209805",
+    "name": "Masarykův onkologický ústav",
+    "address": "Žlutý kopec 543/7, 602 00 Brno",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-65269705",
+    "ico": "65269705",
+    "name": "Fakultní nemocnice Brno",
+    "address": "Jihlavská 340/20, 625 00 Brno - Bohunice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00390780",
+    "ico": "00390780",
+    "name": "Nemocnice Břeclav, příspěvková organizace",
+    "address": "U Nemocnice 3066/1, 690 74 Břeclav",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00226637",
+    "ico": "00226637",
+    "name": "Nemocnice TGM Hodonín, příspěvková organizace",
+    "address": "Purkyňova 2731/11, 695 01 Hodonín",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00839205",
+    "ico": "00839205",
+    "name": "Nemocnice Vyškov, příspěvková organizace",
+    "address": "Purkyňova 235/36, 682 01 Vyškov",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00669806",
+    "ico": "00669806",
+    "name": "Fakultní nemocnice Plzeň",
+    "address": "Edvarda Beneše 1128/13, 301 00 Plzeň-Bory",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26365804",
+    "ico": "26365804",
+    "name": "Karlovarská krajská nemocnice a.s.",
+    "address": "Bezručova 1190/19, 360 01 Karlovy Vary",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27085031",
+    "ico": "27085031",
+    "name": "Oblastní nemocnice Příbram, a.s.",
+    "address": "Gen. R. Tesaříka 80, 261 01 Příbram",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00098892",
+    "ico": "00098892",
+    "name": "Fakultní nemocnice Olomouc",
+    "address": "Zdravotníků 248/7, 779 00 Olomouc",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00843989",
+    "ico": "00843989",
+    "name": "Fakultní nemocnice Ostrava",
+    "address": "17. listopadu 1790/5, 708 52 Ostrava - Poruba",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00844641",
+    "ico": "00844641",
+    "name": "Sdružené zdravotnické zařízení Krnov, příspěvková organizace",
+    "address": "I. P. Pavlova 552/9, 794 01 Krnov",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00844853",
+    "ico": "00844853",
+    "name": "Nemocnice Karviná-Ráj, příspěvková organizace",
+    "address": "Vydmuchov 399/5, 734 01 Karviná - Ráj",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00534188",
+    "ico": "00534188",
+    "name": "Nemocnice ve Frýdku-Místku, příspěvková organizace",
+    "address": "El. Krásnohorské 321, 738 01 Frýdek-Místek",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00066001",
+    "ico": "00066001",
+    "name": "Krajská správa a údržba silnic Středočeského kraje, příspěvková organizace",
+    "address": "Zborovská 81/11, 15000 Praha 5, CZ",
+    "datova_schranka": "a6ejgmx",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25261282",
+    "ico": "25261282",
+    "name": "SILNICE ČÁSLAV - HOLDING, a.s.",
+    "address": "331, 28521, Zbraslavice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00090638",
+    "ico": "00090638",
+    "name": "Nemocnice Jihlava p.o.",
+    "address": "Vrchlického 59, 58633, Jihlava",
+    "datova_schranka": "4srk6jw",
+    "utvar": "Vrchlického 59, 58633, Jihlava",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25099019",
+    "ico": "25099019",
+    "name": "PROMEDICA PRAHA GROUP, a.s.",
+    "address": "Juárezova 1071, 16000, Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-14707420",
+    "ico": "14707420",
+    "name": "Alliance Healthcare nem 100284 BRNO",
+    "address": "Evropská 872, 66442, Brno Modřice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24148725",
+    "ico": "24148725",
+    "name": "AbbVie s.r.o.",
+    "address": "Bucharova 1328, 15800, Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24671819",
+    "ico": "24671819",
+    "name": "CEEMED s.r.o.",
+    "address": "Tlumačovská 2766, 15500, Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-49617052",
+    "ico": "49617052",
+    "name": "ROCHE s.r.o.",
+    "address": "Sokolovská 685, 18600, Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-63471507",
+    "ico": "63471507",
+    "name": "BioVendor - Laboratorní medicína a.s.",
+    "address": "Karásek 1767, 62100, Brno",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-19010290",
+    "ico": "19010290",
+    "name": "PHARMOS ver 607007",
+    "address": "Těšínská 1349, 71600, Ostrava",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24268551",
+    "ico": "24268551",
+    "name": "Gilead Sciences s.r.o.",
+    "address": "Na strži 65, 14000, Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-71154639",
+    "ico": "71154639",
+    "name": "VICTORIA Vysokoškolské sportovní centrum Ministerstva školství, mládeže a tělovýchovy",
+    "address": "Sámova 677/3, 10100 Praha 10, CZ",
+    "datova_schranka": "hismuye",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28225619",
+    "ico": "28225619",
+    "name": "INTER PARTNER ASSISTANCE, organizační složka",
+    "address": "Hvězdova 1689/2a, Nusle, 14000, Praha 4",
+    "datova_schranka": "y7sdfvp",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00006947",
+    "ico": "00006947",
+    "name": "Ministerstvo financí",
+    "address": "Letenská 525/15, 11800 Praha 1, CZ",
+    "datova_schranka": "xzeaauv",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-62363930",
+    "ico": "62363930",
+    "name": "ASD Software, s.r.o.",
+    "address": "Žerotínova 2981/55a, 78701 Šumperk",
+    "datova_schranka": "mjpcc37",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60457856",
+    "ico": "60457856",
+    "name": "Středisko společných činností AV ČR, v. v. i.",
+    "address": "Národní 1009/3, 11000 Praha 1, CZ",
+    "datova_schranka": "6vtfr9w",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-61388955",
+    "ico": "61388955",
+    "name": "Ústav fyzikální chemie J. Heyrovského AV ČR, v. v. i.",
+    "address": "Dolejškova 2155/3, Libeň, 18200, Praha 8",
+    "datova_schranka": "y3hncq4",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-68378041",
+    "ico": "68378041",
+    "name": "Ústav experimentální medicíny AV ČR, v. v. i.",
+    "address": "Vídeňská 1083, 142 20 Praha 4",
+    "datova_schranka": "kqcnc2p",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-47547715",
+    "ico": "47547715",
+    "name": "P+B elektromontáže,spol. s r.o.",
+    "address": "Heyrovského 299, 261 01 Příbram VI - Březové Hory",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-46350110",
+    "ico": "46350110",
+    "name": "TRIGON PLUS s.r.o.",
+    "address": "Západní 93, 251 01 Čestlice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-87869616",
+    "ico": "87869616",
+    "name": "Pavel Skřivan",
+    "address": "Janského 2371/89, 155 00 Praha - Stodůlky",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24665258",
+    "ico": "24665258",
+    "name": "EKOČEK s.r.o.",
+    "address": "Čejkovice 36, 671 78 Čejkovice",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-14888742",
+    "ico": "14888742",
+    "name": "ViaPharma s.r.o.",
+    "address": "Na Florenci 2116/15,Praha 1 - Nové Město,110 00,Česká republika",
+    "datova_schranka": "jkf7y8s",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-02795281",
+    "ico": "02795281",
+    "name": "Operátor ICT, a.s.",
+    "address": "Dělnická 213/12, 17000 Praha 7, CZ",
+    "datova_schranka": "3xqfe9b",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60437359",
+    "ico": "60437359",
+    "name": "Regionální organizátor pražské integrované dopravy, příspěvková organizace",
+    "address": "Regionální organizátor pražské integrované dopravy, příspěvková organizace\nRytířská 406/10 \n11000 Praha",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00559482",
+    "ico": "00559482",
+    "name": "Střední průmyslová škola Zlín",
+    "address": "třída Tomáše Bati 4187, 76001 Zlín, CZ",
+    "datova_schranka": "m2dwg8x",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-48117820",
+    "ico": "48117820",
+    "name": "RICOH Czech Republic s.r.o.",
+    "address": "Jihlavská 1558/21, Michle, 14000, Praha 4",
+    "datova_schranka": "kydbsry",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26925974",
+    "ico": "26925974",
+    "name": "Nemocnice Boskovice s.r.o. - veřejná část",
+    "address": "Otakara Kubína 179 \n680 21 Boskovice \nČeská republika",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60800691",
+    "ico": "60800691",
+    "name": "Vojenská nemocnice Olomouc",
+    "address": "Sušilovo nám. 1/5, 77900 Olomouc, CZ",
+    "datova_schranka": "mdasj3u",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-41692861",
+    "ico": "41692861",
+    "name": "Sandoz s.r.o.",
+    "address": "Pikrtova 1737/1a, Nusle, 14000, Praha 4",
+    "datova_schranka": "q8yy3nb",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-23186780",
+    "ico": "23186780",
+    "name": "Mateřská škola Čtyřlístek, Přerov-Předmostí, Pod Skalkou 13, příspěvková organizace",
+    "address": "Pod Skalkou 13/13, 75124 Přerov, CZ",
+    "datova_schranka": "gbnvjt3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-46960511",
+    "ico": "46960511",
+    "name": "BIOPAS, spol. s r.o.",
+    "address": "Kaplanova 2959/6, 76701, Kroměříž",
+    "datova_schranka": "r4zcda8",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25656112",
+    "ico": "25656112",
+    "name": "Pražská vodohospodářská společnost a.s.",
+    "address": "Evropská 866/67, Vokovice, 160 00 Praha 6",
+    "datova_schranka": "a75fsn2",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-71226401",
+    "ico": "71226401",
+    "name": "Vysoká škola polytechnická Jihlava",
+    "address": "Tolstého 1556/16, 58601 Jihlava, CZ",
+    "datova_schranka": "w9ej9jg",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60461373",
+    "ico": "60461373",
+    "name": "Vysoká škola chemicko-technologická v Praze",
+    "address": "Technická 1905/5, 160 00 PRAHA, CZE",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05448841",
+    "ico": "05448841",
+    "name": "Cardiomedical  s.r.o.",
+    "address": "Na poříčí 1079/3a , 11000, Praha",
+    "datova_schranka": "r2q39yv",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60719877",
+    "ico": "60719877",
+    "name": "CARDION s.r.o.",
+    "address": "Rybnická 257/136 , 63400, Brno",
+    "datova_schranka": "6nduzqt",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00216208",
+    "ico": "00216208",
+    "name": "Univerzita Karlova",
+    "address": "Ovocný trh 560/5, 11000 Praha 1, CZ",
+    "datova_schranka": "piyj9b4",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-GENEWIZ_Germany_GmbH",
+    "name": "GENEWIZ Germany GmbH",
+    "address": "Bahnhofstrasse 86, 04158 Leipzig, DEU",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-46747885",
+    "ico": "46747885",
+    "name": "Technická univerzita v Liberci",
+    "address": "Studentská 1402/2, Liberec 1, 46117",
+    "datova_schranka": "td7j9ft",
+    "utvar": "9730",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-UNIVERSITA'_DEGLI_STUDI_DI_BERGAMO",
+    "name": "UNIVERSITA' DEGLI STUDI DI BERGAMO",
+    "address": "UNIVERSITA' DEGLI STUDI DI BERGAMO, via Salvecchio 19, 24129  BERGAMO, Itálie",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-ANDRÁSSY_GYULA_BUDAPESTI_NÉMETNYELVU_EGYETEM_",
+    "name": "ANDRÁSSY GYULA BUDAPESTI NÉMETNYELVU EGYETEM ",
+    "address": "ANDRÁSSY GYULA BUDAPESTI NÉMETNYELVU EGYETEM , Pollack Mihály tér 3, 1088  BUDAPEST, Maďarsko",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-Městský_obvod_Pardubice_I",
+    "name": "Městský obvod Pardubice I",
+    "address": "U Divadla 828, 53002 Pardubice, CZ",
+    "datova_schranka": "5hpbxbt",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-07577621",
+    "ico": "07577621",
+    "name": "STROMOTOM, s.r.o.",
+    "address": "č.p. 107, 28128, Radovesnice II",
+    "datova_schranka": "q29m6tp",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-15049931",
+    "ico": "15049931",
+    "name": "Jezdinský, spol. s r.o.",
+    "address": "č.p. 23, 53002, Barchov",
+    "datova_schranka": "p33dtm4",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-UNIVERSITA_DEGLI_STUDI_DI_FIRENZE_",
+    "name": "UNIVERSITA DEGLI STUDI DI FIRENZE ",
+    "address": "UNIVERSITA DEGLI STUDI DI FIRENZE , Piazza di San Marco 4, 50121  FIRENZE, Itálie",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-70886288",
+    "ico": "70886288",
+    "name": "Hasičský záchranný sbor hlavního města Prahy",
+    "address": "Sokolská 1595/62, 12000 Praha 2, CZ",
+    "datova_schranka": "jm9aa6j",
+    "utvar": "HZS hl. m. Prahy",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-02015081",
+    "ico": "02015081",
+    "name": "Společenství vlastníků pro dům Karolina Plazza K1",
+    "address": "Sokolovská 694/100, Praha, 18600, CZ",
+    "datova_schranka": "g7db3mm",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-07757964",
+    "ico": "07757964",
+    "name": "Společenství vlastníků domu Škrábkových č.p. 882,",
+    "address": "Škrábkových 882/10, Praha, 19900, CZ",
+    "datova_schranka": "hcvz5fq",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05223164",
+    "ico": "05223164",
+    "name": "Společenství vlastníků domu Pod Harfou č.p. 994, P",
+    "address": "Pod Harfou 994/21, Praha, 19000, CZ",
+    "datova_schranka": "ym8tesq",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28198212",
+    "ico": "28198212",
+    "name": "PASSERINVEST BBC 1, s.r.o.",
+    "address": "Želetavská 1525/1, Praha, 14000, CZ",
+    "datova_schranka": "cs8fexg",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09088725",
+    "ico": "09088725",
+    "name": "Společenství vlastníků jednotek Smrčkova 2512, Pra",
+    "address": "Smrčkova 2512/5, Praha, 18000, CZ",
+    "datova_schranka": "mcdrwt3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09443746",
+    "ico": "09443746",
+    "name": "Společenství vlastníků Harfa Design Residence, Kur",
+    "address": "Kurta Konráda 2517/1, Praha, 19000, CZ",
+    "datova_schranka": "ns4xk6m",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09381805",
+    "ico": "09381805",
+    "name": "Společenství vlastníků Mantovská 790/6, Praha 10",
+    "address": "Mantovská 790/6, Praha, 10900, CZ",
+    "datova_schranka": "29gem7x",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-07452080",
+    "ico": "07452080",
+    "name": "Společenství vlastníků jednotek Menclova 2494, Pra",
+    "address": "Menclova 2494/2a, Praha, 18000, CZ",
+    "datova_schranka": "82vr3va",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06169643",
+    "ico": "06169643",
+    "name": "Společenství vlastníků domu Padovská č.p. 749, 109",
+    "address": "Padovská 749/7, Praha, 10900, CZ",
+    "datova_schranka": "c2qgwqd",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06343317",
+    "ico": "06343317",
+    "name": "Společenství vlastníků jednotek Altajská 1568, Pra",
+    "address": "Altajská 1568/2, Praha, 10000, CZ",
+    "datova_schranka": "cvjg43x",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06354009",
+    "ico": "06354009",
+    "name": "Společenství vlastníků jednotek v domě č. p. 398,",
+    "address": "Učňovská 398/2, Praha, 19000, CZ",
+    "datova_schranka": "exug5cw",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05835151",
+    "ico": "05835151",
+    "name": "Společenství vlastníků U hranic 3419, Praha 10",
+    "address": "U hranic 3419/12b, Praha, 10000, CZ",
+    "datova_schranka": "ybsgh8i",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-62690094",
+    "ico": "62690094",
+    "name": "Univerzita Hradec Králové",
+    "address": "Rokitanského 62/26, 50003 Hradec Králové, CZ",
+    "datova_schranka": "k3xj9dz",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-Coursera__Inc.",
+    "name": "Coursera , Inc.",
+    "address": "2440 West El Camino Real , Suite 500 , Mountain View , CA 94040",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06229760",
+    "ico": "06229760",
+    "name": "Společenství vlastníků pro dům č.p. 1685 v ulici V",
+    "address": "Vindyšova 1685/2, Praha, 15300, CZ",
+    "datova_schranka": "pytgyze",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06508481",
+    "ico": "06508481",
+    "name": "Společenství vlastníků Chlebovická 824, Praha 9",
+    "address": "Chlebovická 824/18, Praha, 19900, CZ",
+    "datova_schranka": "q6ucp3d",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-04578031",
+    "ico": "04578031",
+    "name": "Společenství vlastníků Plzeňská 312,313,314,315, P",
+    "address": "Plzeňská 312/217b, Praha, 15000, CZ",
+    "datova_schranka": "673tzkc",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24694151",
+    "ico": "24694151",
+    "name": "Společenství vlastníků jednotek pro dům Panuškova",
+    "address": "Panuškova 1301/4, Praha, 14000, CZ",
+    "datova_schranka": "e2f49ek",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28243498",
+    "ico": "28243498",
+    "name": "Společenství vlastníků Rejchova 2319, Praha 6",
+    "address": "Rejchova 2319/2a, Praha, 16200, CZ",
+    "datova_schranka": "m3irvi3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60077638",
+    "ico": "60077638",
+    "name": "Dům dětí a mládeže, České Budějovice, U Zimního stadionu 1",
+    "address": "U Zimního stadionu 19/1, 37001 České Budějovice, CZ",
+    "datova_schranka": "wwzfcfy",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08670269",
+    "ico": "08670269",
+    "name": "RUDOVSKY s.r.o.",
+    "address": "Holašovice 40, 37384, Jankov",
+    "datova_schranka": "5r7gw5v",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-70837881",
+    "ico": "70837881",
+    "name": "Vyšší odborná škola a Střední průmyslová škola elektrotechnická Františka Křižíka, Praha 1, Na Příkopě 16",
+    "address": "Na příkopě 856/16, 11000 Praha 1, CZ",
+    "datova_schranka": "buuzmpw",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-48108375",
+    "ico": "48108375",
+    "name": "AV MEDIA SYSTEMS, a.s.",
+    "address": "Pražská 1335/63, Hostivař, 10200, Praha 10",
+    "datova_schranka": "9qhcyw5",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08807213",
+    "ico": "08807213",
+    "name": "Společenství vlastníků jednotek Hradešínská 2583/5",
+    "address": "Hradešínská 2583/52, Praha, 10100, CZ",
+    "datova_schranka": "wc3xpjf",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08531650",
+    "ico": "08531650",
+    "name": "Společenství vlastníků domu Naskové 1335, Praha 5",
+    "address": "Naskové 1335/1i, Praha, 15000, CZ",
+    "datova_schranka": "f4btgt3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00231266",
+    "ico": "00231266",
+    "name": "Městská část Praha-Ďáblice",
+    "address": "Osinalická 1104/13, Praha, 18200, CZ",
+    "datova_schranka": "dkvbw9b",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24236420",
+    "ico": "24236420",
+    "name": "Společenství vlastníků pro dům č.p. 970, Praha 4,",
+    "address": "Jurkovičova 970, Praha 4, 14900, CZ",
+    "datova_schranka": "kkx44kk",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00063703",
+    "ico": "00063703",
+    "name": "Městská část Praha 6",
+    "address": "Čs. armády 601/23, Praha, 16000, CZ",
+    "datova_schranka": "bmzbv7c",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08861072",
+    "ico": "08861072",
+    "name": "Společenství vlastníků Svatošových 1014, Praha 9",
+    "address": "Svatošových 1014/5, Praha, 19000, CZ",
+    "datova_schranka": "gnkryrg",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08419183",
+    "ico": "08419183",
+    "name": "Společenství vlastníků jednotek v bytovém domě Mod",
+    "address": "K Vystrkovu 2250/2, Praha, 14300, CZ",
+    "datova_schranka": "d5kjqs5",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05156998",
+    "ico": "05156998",
+    "name": "Společenství vlastníků jednotek Kadečkové 774, Pra",
+    "address": "Kadečkové 774/12, Praha, 19900, CZ",
+    "datova_schranka": "sscrtpe",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-04920171",
+    "ico": "04920171",
+    "name": "Společenství vlastníků pro dům č.p. 2387, Praha 4,",
+    "address": "Babická 2387/4, Praha, 14900, CZ",
+    "datova_schranka": "hf9xacb",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06237126",
+    "ico": "06237126",
+    "name": "Společenství vlastníků Miloše Havla 1246",
+    "address": "Miloše Havla 1246/3, Praha, 15200, CZ",
+    "datova_schranka": "aisp3dh",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00064190",
+    "ico": "00064190",
+    "name": "Fakultní Thomayerova nemocnice",
+    "address": "Vídeňská 800, 14000 Praha 4, CZ",
+    "datova_schranka": "asykkbj",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-44848200",
+    "ico": "44848200",
+    "name": "Sanofi s.r.o.",
+    "address": "Generala Piky 430/26 160 00 Praha 6",
+    "datova_schranka": "z77y4vd",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60469803",
+    "ico": "60469803",
+    "name": "Takeda Pharmaceuticals Czech Republic s.r.o.",
+    "address": "Skretova 490/12 120 00 Praha 2",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-48041351",
+    "ico": "48041351",
+    "name": "GRIFOLS s.r.o.",
+    "address": "ROHANSKE NABREZI 670/17 18600 PRAHA8-KARLIN",
+    "datova_schranka": "jmt842i",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26260654",
+    "ico": "26260654",
+    "name": "Avenier, a.s.",
+    "address": "Bidlaky 20/837 639 00 Brno",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27529053",
+    "ico": "27529053",
+    "name": "POLYMED medical CZ,a.s.",
+    "address": "Petra Jilemnickeho 14/51 50301 Hradec Kralove",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06616631",
+    "ico": "06616631",
+    "name": "DYNEX LabSolutions, s.r.o.",
+    "address": "Senovazne namesti 978/23 110 00 Praha 1, Nove Mesto",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28538153",
+    "ico": "28538153",
+    "name": "Phadia,s.r.o.",
+    "address": "Drahobejlova 1019/27 190 00 Praha 9",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-47913240",
+    "ico": "47913240",
+    "name": "TestLine Clinical.Diagnostics s.r.o.",
+    "address": "Krizikova 68 612 00 Brno",
+    "utvar": "Obchodni oddeleni",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-61387142",
+    "ico": "61387142",
+    "name": "Národní technická knihovna",
+    "address": "Technická 2710/6, 16000 Praha 6, CZ",
+    "datova_schranka": "syd69w9",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-67985815",
+    "ico": "67985815",
+    "name": "Astronomický ústav AV ČR, v. v. i.",
+    "address": "Fričova 298, 25165, Ondřejov",
+    "datova_schranka": "49qnh3h",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-44994575",
+    "ico": "44994575",
+    "name": "Centrum dopravního výzkumu, v. v. i.",
+    "address": "Líšeňská 2657/33a, Líšeň, 63600, Brno",
+    "datova_schranka": "pzkgw87",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-60077344",
+    "ico": "60077344",
+    "name": "Biologické centrum AV ČR, v. v. i.",
+    "address": "Branišovská 1160/31, České Budějovice 2, 37005, České Budějovice",
+    "datova_schranka": "r84nds8",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-67985955",
+    "ico": "67985955",
+    "name": "Filosofický ústav AV ČR, v. v. i.",
+    "address": "Jilská 361/1, Staré Město, 11000, Praha 1",
+    "datova_schranka": "v9ant9g",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-62156462",
+    "ico": "62156462",
+    "name": "Janáčkova akademie múzických umění",
+    "address": "Beethovenova 650/2, Brno-město, 60200, Brno",
+    "datova_schranka": "7ckj9g2",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-70950164",
+    "ico": "70950164",
+    "name": "Krajská knihovna Vysočiny",
+    "address": "Žižkova 4344, 58001, Havlíčkův Brod",
+    "datova_schranka": "gztkk6d",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05082013",
+    "ico": "05082013",
+    "name": "IN ENERGIE s.r.o.",
+    "address": "Závodní 1219/93, 70030 OSTRAVA, CZE",
+    "datova_schranka": "qnrvm5c",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27283518",
+    "ico": "27283518",
+    "name": "Nemocnice s poliklinikou Česká Lípa, a.s.",
+    "address": "Purkyňova 1849, 470 77 Česká Lípa",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27283933",
+    "ico": "27283933",
+    "name": "Krajská nemocnice Liberec, a.s.",
+    "address": "Husova 1430/34, 460 01 Liberec I - Staré Město",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-25375601",
+    "ico": "25375601",
+    "name": "Technické služby Havířov a.s.",
+    "address": "Karvinská 1461/66, Město, 736 01, Havířov",
+    "datova_schranka": "dyjtrwn",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-54299853",
+    "ico": "54299853",
+    "name": "MAT s.r.o.",
+    "address": "Slovenských partizánov 1991/65, Považská Bystrica, 01701",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08438749",
+    "ico": "08438749",
+    "name": "Přemysl Halabica",
+    "address": " 131, Žermanice, 73937",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00179540",
+    "ico": "00179540",
+    "name": "Nemocnice Havlíčkův Brod, příspěvková organizace",
+    "address": "Husova 2624, 580 01 Havlíčkův Brod",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-27530981",
+    "ico": "27530981",
+    "name": "Královéhradecká lékárna a.s.",
+    "address": "Kladská 1065, 500 03 Hradec Králové",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00023884",
+    "ico": "00023884",
+    "name": "Nemocnice na Homolce",
+    "address": "Roentgenova 2, 150 30 Praha 5",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00023736",
+    "ico": "00023736",
+    "name": "ÚSTAV HEMATOLOGIE A KREVNÍ TRANSFUZE",
+    "address": "U nemocnice 2094/1, 128 00 Praha 2",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28051955",
+    "ico": "28051955",
+    "name": "Jaromír Ďoubal",
+    "address": "Kouřimská 304, 284 01 Kutná Hora",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-26071970",
+    "ico": "26071970",
+    "name": "SK MALEŠOV z.s.-oddíl kopané-zastoupený Vladislavem Novotným",
+    "address": "Puškinská 659, 284 01 Kutná Hora",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-19111975",
+    "ico": "19111975",
+    "name": "Jan Winkler",
+    "address": "Kouřimská 304, 284 01 Kutná Hora",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-19041974",
+    "ico": "19041974",
+    "name": "Radek Procházka",
+    "address": "Křesetice 92, 285 47 Křesetice okr. Kutná Hora",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  }
+]

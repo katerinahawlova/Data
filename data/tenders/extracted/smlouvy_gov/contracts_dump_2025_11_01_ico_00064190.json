@@ -1,0 +1,702 @@
+[
+  {
+    "contract_id": "33230305",
+    "version_id": "35425577",
+    "url": "https://smlouvy.gov.cz/smlouva/35425577",
+    "published_date": "2025-11-01T21:42:13+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304420",
+    "approved_by": "",
+    "value_with_vat": 59148.0,
+    "value_without_vat": 52810.71,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230309",
+    "version_id": "35425581",
+    "url": "https://smlouvy.gov.cz/smlouva/35425581",
+    "published_date": "2025-11-01T21:42:17+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304428",
+    "approved_by": "",
+    "value_with_vat": 58104.73,
+    "value_without_vat": 51879.22,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230313",
+    "version_id": "35425585",
+    "url": "https://smlouvy.gov.cz/smlouva/35425585",
+    "published_date": "2025-11-01T21:42:20+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "44848200",
+      "name": "Sanofi s.r.o.",
+      "address": "Generala Piky 430/26 160 00 Praha 6",
+      "datova_schranka": "z77y4vd",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304433",
+    "approved_by": "",
+    "value_with_vat": 77822.38,
+    "value_without_vat": 69484.27,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230317",
+    "version_id": "35425589",
+    "url": "https://smlouvy.gov.cz/smlouva/35425589",
+    "published_date": "2025-11-01T21:42:24+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304437",
+    "approved_by": "",
+    "value_with_vat": 158655.35,
+    "value_without_vat": 141656.56,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230321",
+    "version_id": "35425593",
+    "url": "https://smlouvy.gov.cz/smlouva/35425593",
+    "published_date": "2025-11-01T21:42:27+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "60469803",
+      "name": "Takeda Pharmaceuticals Czech Republic s.r.o.",
+      "address": "Skretova 490/12 120 00 Praha 2",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304441",
+    "approved_by": "",
+    "value_with_vat": 849401.22,
+    "value_without_vat": 758393.95,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230325",
+    "version_id": "35425597",
+    "url": "https://smlouvy.gov.cz/smlouva/35425597",
+    "published_date": "2025-11-01T21:42:30+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "48041351",
+      "name": "GRIFOLS s.r.o.",
+      "address": "ROHANSKE NABREZI 670/17 18600 PRAHA8-KARLIN",
+      "datova_schranka": "jmt842i",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304446",
+    "approved_by": "",
+    "value_with_vat": 403200.0,
+    "value_without_vat": 360000.0,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230329",
+    "version_id": "35425601",
+    "url": "https://smlouvy.gov.cz/smlouva/35425601",
+    "published_date": "2025-11-01T21:42:34+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "24148725",
+      "name": "AbbVie s.r.o.",
+      "address": "Bucharova 2817/13, Budova C 158 00 Praha 5 - Nove Butovice",
+      "datova_schranka": "weh43tn",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304447",
+    "approved_by": "",
+    "value_with_vat": 98563.14,
+    "value_without_vat": 88002.8,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230333",
+    "version_id": "35425605",
+    "url": "https://smlouvy.gov.cz/smlouva/35425605",
+    "published_date": "2025-11-01T21:42:37+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "26260654",
+      "name": "Avenier, a.s.",
+      "address": "Bidlaky 20/837 639 00 Brno",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304448",
+    "approved_by": "",
+    "value_with_vat": 233407.45,
+    "value_without_vat": 208399.51,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230337",
+    "version_id": "35425609",
+    "url": "https://smlouvy.gov.cz/smlouva/35425609",
+    "published_date": "2025-11-01T21:42:40+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304449",
+    "approved_by": "",
+    "value_with_vat": 80012.24,
+    "value_without_vat": 71439.5,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230341",
+    "version_id": "35425613",
+    "url": "https://smlouvy.gov.cz/smlouva/35425613",
+    "published_date": "2025-11-01T21:42:43+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304468",
+    "approved_by": "",
+    "value_with_vat": 193603.2,
+    "value_without_vat": 172860.0,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230345",
+    "version_id": "35425617",
+    "url": "https://smlouvy.gov.cz/smlouva/35425617",
+    "published_date": "2025-11-01T21:42:47+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "19010290",
+      "name": "PHARMOS,a.s.",
+      "address": "Tesinska 1349/296 71600 Ostrava - Radvanice",
+      "datova_schranka": "mfecgmh",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304469",
+    "approved_by": "",
+    "value_with_vat": 83095.48,
+    "value_without_vat": 74192.39,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230349",
+    "version_id": "35425621",
+    "url": "https://smlouvy.gov.cz/smlouva/35425621",
+    "published_date": "2025-11-01T21:42:50+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304473",
+    "approved_by": "",
+    "value_with_vat": 425090.97,
+    "value_without_vat": 379545.51,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230353",
+    "version_id": "35425625",
+    "url": "https://smlouvy.gov.cz/smlouva/35425625",
+    "published_date": "2025-11-01T21:42:53+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "27529053",
+      "name": "POLYMED medical CZ,a.s.",
+      "address": "Petra Jilemnickeho 14/51 50301 Hradec Kralove",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304477",
+    "approved_by": "",
+    "value_with_vat": 51632.0,
+    "value_without_vat": 45028.93,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230357",
+    "version_id": "35425629",
+    "url": "https://smlouvy.gov.cz/smlouva/35425629",
+    "published_date": "2025-11-01T21:42:57+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "49617052",
+      "name": "ROCHE s.r.o.",
+      "address": "Sokolovska 685/136f, Karlin 18600 Praha 8",
+      "datova_schranka": "23qxxkv",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304485",
+    "approved_by": "",
+    "value_with_vat": 80549.84,
+    "value_without_vat": 71919.5,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230361",
+    "version_id": "35425633",
+    "url": "https://smlouvy.gov.cz/smlouva/35425633",
+    "published_date": "2025-11-01T21:43:00+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "25099019",
+      "name": "PROMEDICA PRAHA GROUP,a.s.",
+      "address": "JUAREZOVA 1071/17 16000 Praha 4",
+      "datova_schranka": "k6sfuej",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304486",
+    "approved_by": "",
+    "value_with_vat": 52712.2,
+    "value_without_vat": 47064.46,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230365",
+    "version_id": "35425637",
+    "url": "https://smlouvy.gov.cz/smlouva/35425637",
+    "published_date": "2025-11-01T21:43:03+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "14707420",
+      "name": "Alliance Healthcare",
+      "address": "Podle trati 624/7 108 00 Praha 10-Malesice",
+      "datova_schranka": "jv9ktdg",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304490",
+    "approved_by": "",
+    "value_with_vat": 240275.33,
+    "value_without_vat": 214531.54,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230369",
+    "version_id": "35425641",
+    "url": "https://smlouvy.gov.cz/smlouva/35425641",
+    "published_date": "2025-11-01T21:43:06+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "60469803",
+      "name": "Takeda Pharmaceuticals Czech Republic s.r.o.",
+      "address": "Skretova 490/12 120 00 Praha 2",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304506",
+    "approved_by": "",
+    "value_with_vat": 60312.0,
+    "value_without_vat": 53850.0,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230373",
+    "version_id": "35425645",
+    "url": "https://smlouvy.gov.cz/smlouva/35425645",
+    "published_date": "2025-11-01T21:43:09+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "60469803",
+      "name": "Takeda Pharmaceuticals Czech Republic s.r.o.",
+      "address": "Skretova 490/12 120 00 Praha 2",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304509",
+    "approved_by": "",
+    "value_with_vat": 403200.0,
+    "value_without_vat": 360000.0,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230377",
+    "version_id": "35425649",
+    "url": "https://smlouvy.gov.cz/smlouva/35425649",
+    "published_date": "2025-11-01T21:43:13+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "19010290",
+      "name": "PHARMOS,a.s.",
+      "address": "Tesinska 1349/296 71600 Ostrava - Radvanice",
+      "datova_schranka": "mfecgmh",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304510",
+    "approved_by": "",
+    "value_with_vat": 78090.34,
+    "value_without_vat": 69723.52,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230381",
+    "version_id": "35425653",
+    "url": "https://smlouvy.gov.cz/smlouva/35425653",
+    "published_date": "2025-11-01T21:43:16+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "45359326",
+      "name": "PHOENIX LV,s.r.o.",
+      "address": "K Perovne 945/7 102 00 Praha 10 - Hostivar",
+      "datova_schranka": "2wrru4m",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304512",
+    "approved_by": "",
+    "value_with_vat": 707065.89,
+    "value_without_vat": 631308.83,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230385",
+    "version_id": "35425657",
+    "url": "https://smlouvy.gov.cz/smlouva/35425657",
+    "published_date": "2025-11-01T21:43:19+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "14707420",
+      "name": "Alliance Healthcare",
+      "address": "Podle trati 624/7 108 00 Praha 10-Malesice",
+      "datova_schranka": "jv9ktdg",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304515",
+    "approved_by": "",
+    "value_with_vat": 129004.84,
+    "value_without_vat": 115182.89,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230389",
+    "version_id": "35425661",
+    "url": "https://smlouvy.gov.cz/smlouva/35425661",
+    "published_date": "2025-11-01T21:43:22+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "14707420",
+      "name": "Alliance Healthcare",
+      "address": "Podle trati 624/7 108 00 Praha 10-Malesice",
+      "datova_schranka": "jv9ktdg",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304519",
+    "approved_by": "",
+    "value_with_vat": 1038691.8,
+    "value_without_vat": 927403.39,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230393",
+    "version_id": "35425665",
+    "url": "https://smlouvy.gov.cz/smlouva/35425665",
+    "published_date": "2025-11-01T21:43:25+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "06616631",
+      "name": "DYNEX LabSolutions, s.r.o.",
+      "address": "Senovazne namesti 978/23 110 00 Praha 1, Nove Mesto",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304521",
+    "approved_by": "",
+    "value_with_vat": 84055.1,
+    "value_without_vat": 75049.2,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230397",
+    "version_id": "35425669",
+    "url": "https://smlouvy.gov.cz/smlouva/35425669",
+    "published_date": "2025-11-01T21:43:29+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "28538153",
+      "name": "Phadia,s.r.o.",
+      "address": "Drahobejlova 1019/27 190 00 Praha 9",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304522",
+    "approved_by": "",
+    "value_with_vat": 72271.11,
+    "value_without_vat": 59728.19,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  },
+  {
+    "contract_id": "33230401",
+    "version_id": "35425673",
+    "url": "https://smlouvy.gov.cz/smlouva/35425673",
+    "published_date": "2025-11-01T21:43:32+01:00",
+    "authority": {
+      "ico": "00064190",
+      "name": "Fakultní Thomayerova nemocnice",
+      "address": "Vídeňská 800, 14000 Praha 4, CZ",
+      "datova_schranka": "asykkbj",
+      "utvar": ""
+    },
+    "contractor": {
+      "ico": "47913240",
+      "name": "TestLine Clinical.Diagnostics s.r.o.",
+      "address": "Krizikova 68 612 00 Brno",
+      "datova_schranka": "",
+      "utvar": "Obchodni oddeleni"
+    },
+    "subject": "Objednavka leciv a zdravotnickeho materialu",
+    "contract_date": "2025-10-29",
+    "contract_number": "LEKTN-304524",
+    "approved_by": "",
+    "value_with_vat": 56124.07,
+    "value_without_vat": 47056.0,
+    "attachments": [],
+    "source": "smlouvy_gov"
+  }
+]

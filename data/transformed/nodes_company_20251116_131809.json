@@ -1,0 +1,255 @@
+[
+  {
+    "id": "COMP-70886288",
+    "ico": "70886288",
+    "name": "Hasičský záchranný sbor hlavního města Prahy",
+    "address": "Sokolská 1595/62, 12000 Praha 2, CZ",
+    "datova_schranka": "jm9aa6j",
+    "utvar": "HZS hl. m. Prahy",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-02015081",
+    "ico": "02015081",
+    "name": "Společenství vlastníků pro dům Karolina Plazza K1",
+    "address": "Sokolovská 694/100, Praha, 18600, CZ",
+    "datova_schranka": "g7db3mm",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-07757964",
+    "ico": "07757964",
+    "name": "Společenství vlastníků domu Škrábkových č.p. 882,",
+    "address": "Škrábkových 882/10, Praha, 19900, CZ",
+    "datova_schranka": "hcvz5fq",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05223164",
+    "ico": "05223164",
+    "name": "Společenství vlastníků domu Pod Harfou č.p. 994, P",
+    "address": "Pod Harfou 994/21, Praha, 19000, CZ",
+    "datova_schranka": "ym8tesq",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28198212",
+    "ico": "28198212",
+    "name": "PASSERINVEST BBC 1, s.r.o.",
+    "address": "Želetavská 1525/1, Praha, 14000, CZ",
+    "datova_schranka": "cs8fexg",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09088725",
+    "ico": "09088725",
+    "name": "Společenství vlastníků jednotek Smrčkova 2512, Pra",
+    "address": "Smrčkova 2512/5, Praha, 18000, CZ",
+    "datova_schranka": "mcdrwt3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09443746",
+    "ico": "09443746",
+    "name": "Společenství vlastníků Harfa Design Residence, Kur",
+    "address": "Kurta Konráda 2517/1, Praha, 19000, CZ",
+    "datova_schranka": "ns4xk6m",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-09381805",
+    "ico": "09381805",
+    "name": "Společenství vlastníků Mantovská 790/6, Praha 10",
+    "address": "Mantovská 790/6, Praha, 10900, CZ",
+    "datova_schranka": "29gem7x",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-07452080",
+    "ico": "07452080",
+    "name": "Společenství vlastníků jednotek Menclova 2494, Pra",
+    "address": "Menclova 2494/2a, Praha, 18000, CZ",
+    "datova_schranka": "82vr3va",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06169643",
+    "ico": "06169643",
+    "name": "Společenství vlastníků domu Padovská č.p. 749, 109",
+    "address": "Padovská 749/7, Praha, 10900, CZ",
+    "datova_schranka": "c2qgwqd",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06343317",
+    "ico": "06343317",
+    "name": "Společenství vlastníků jednotek Altajská 1568, Pra",
+    "address": "Altajská 1568/2, Praha, 10000, CZ",
+    "datova_schranka": "cvjg43x",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06354009",
+    "ico": "06354009",
+    "name": "Společenství vlastníků jednotek v domě č. p. 398,",
+    "address": "Učňovská 398/2, Praha, 19000, CZ",
+    "datova_schranka": "exug5cw",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05835151",
+    "ico": "05835151",
+    "name": "Společenství vlastníků U hranic 3419, Praha 10",
+    "address": "U hranic 3419/12b, Praha, 10000, CZ",
+    "datova_schranka": "ybsgh8i",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06229760",
+    "ico": "06229760",
+    "name": "Společenství vlastníků pro dům č.p. 1685 v ulici V",
+    "address": "Vindyšova 1685/2, Praha, 15300, CZ",
+    "datova_schranka": "pytgyze",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06508481",
+    "ico": "06508481",
+    "name": "Společenství vlastníků Chlebovická 824, Praha 9",
+    "address": "Chlebovická 824/18, Praha, 19900, CZ",
+    "datova_schranka": "q6ucp3d",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-04578031",
+    "ico": "04578031",
+    "name": "Společenství vlastníků Plzeňská 312,313,314,315, P",
+    "address": "Plzeňská 312/217b, Praha, 15000, CZ",
+    "datova_schranka": "673tzkc",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24694151",
+    "ico": "24694151",
+    "name": "Společenství vlastníků jednotek pro dům Panuškova",
+    "address": "Panuškova 1301/4, Praha, 14000, CZ",
+    "datova_schranka": "e2f49ek",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-28243498",
+    "ico": "28243498",
+    "name": "Společenství vlastníků Rejchova 2319, Praha 6",
+    "address": "Rejchova 2319/2a, Praha, 16200, CZ",
+    "datova_schranka": "m3irvi3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08807213",
+    "ico": "08807213",
+    "name": "Společenství vlastníků jednotek Hradešínská 2583/5",
+    "address": "Hradešínská 2583/52, Praha, 10100, CZ",
+    "datova_schranka": "wc3xpjf",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08531650",
+    "ico": "08531650",
+    "name": "Společenství vlastníků domu Naskové 1335, Praha 5",
+    "address": "Naskové 1335/1i, Praha, 15000, CZ",
+    "datova_schranka": "f4btgt3",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00231266",
+    "ico": "00231266",
+    "name": "Městská část Praha-Ďáblice",
+    "address": "Osinalická 1104/13, Praha, 18200, CZ",
+    "datova_schranka": "dkvbw9b",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-24236420",
+    "ico": "24236420",
+    "name": "Společenství vlastníků pro dům č.p. 970, Praha 4,",
+    "address": "Jurkovičova 970, Praha 4, 14900, CZ",
+    "datova_schranka": "kkx44kk",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-00063703",
+    "ico": "00063703",
+    "name": "Městská část Praha 6",
+    "address": "Čs. armády 601/23, Praha, 16000, CZ",
+    "datova_schranka": "bmzbv7c",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08861072",
+    "ico": "08861072",
+    "name": "Společenství vlastníků Svatošových 1014, Praha 9",
+    "address": "Svatošových 1014/5, Praha, 19000, CZ",
+    "datova_schranka": "gnkryrg",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-08419183",
+    "ico": "08419183",
+    "name": "Společenství vlastníků jednotek v bytovém domě Mod",
+    "address": "K Vystrkovu 2250/2, Praha, 14300, CZ",
+    "datova_schranka": "d5kjqs5",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-05156998",
+    "ico": "05156998",
+    "name": "Společenství vlastníků jednotek Kadečkové 774, Pra",
+    "address": "Kadečkové 774/12, Praha, 19900, CZ",
+    "datova_schranka": "sscrtpe",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-04920171",
+    "ico": "04920171",
+    "name": "Společenství vlastníků pro dům č.p. 2387, Praha 4,",
+    "address": "Babická 2387/4, Praha, 14900, CZ",
+    "datova_schranka": "hf9xacb",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  },
+  {
+    "id": "COMP-06237126",
+    "ico": "06237126",
+    "name": "Společenství vlastníků Miloše Havla 1246",
+    "address": "Miloše Havla 1246/3, Praha, 15200, CZ",
+    "datova_schranka": "aisp3dh",
+    "country": "CZ",
+    "source": "smlouvy_gov"
+  }
+]

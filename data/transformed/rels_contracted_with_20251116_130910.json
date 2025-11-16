@@ -1,0 +1,2256 @@
+[
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33229601",
+    "contract_date": "2025-10-30",
+    "value": 265866.1,
+    "subject": "Potvrzení objednávky č. 1901865/1253400091"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33229605",
+    "contract_date": "2025-10-30",
+    "value": 57588.4,
+    "subject": "Potvrzení objednávky č. 1900301/1024012235"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-71002090",
+    "contract_id": "33229609",
+    "contract_date": "2025-09-01",
+    "value": 127600.0,
+    "subject": "Smlouva o využití sportoviště-Hala BIOS_KHvP_ZŠ T.G.Masaryka, Jiráskovy sady 387, KH"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023001",
+    "contract_id": "33229613",
+    "contract_date": "2025-10-30",
+    "value": 81554.65,
+    "subject": "Potvrzení objednávky č. 1900239/210798"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-25488627",
+    "contract_id": "33229617",
+    "contract_date": "2025-10-30",
+    "value": 147997.51,
+    "subject": "Potvrzení objednávky č. 1401348/0399763"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064211",
+    "contract_id": "33229621",
+    "contract_date": "2025-10-30",
+    "value": 111953.6,
+    "subject": "Potvrzení objednávky č. 1970605/0273724"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095181",
+    "contract_id": "33229625",
+    "contract_date": "2025-10-30",
+    "value": 50616.26,
+    "subject": "Potvrzení objednávky č. 1201033/1687"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-22877606",
+    "contract_id": "33229629",
+    "contract_date": "2025-09-01",
+    "value": 52200.0,
+    "subject": "Smlouva o využití sportoviště-Hala BIOS_KHvP_Trenéři ve škole, z.s."
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023001",
+    "contract_id": "33229633",
+    "contract_date": "2025-10-30",
+    "value": 512876.01,
+    "subject": "Potvrzení objednávky č. 1900239/210794"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256391",
+    "contract_id": "33229637",
+    "contract_date": "2025-10-30",
+    "value": 76450.81,
+    "subject": "Potvrzení objednávky č. 1101824/46301"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33229641",
+    "contract_date": "2025-10-30",
+    "value": 163839.0,
+    "subject": "Potvrzení objednávky č. 1602001/1253400553"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00023001",
+    "contract_id": "33229645",
+    "contract_date": "2025-10-30",
+    "value": 90703.62,
+    "subject": "Potvrzení objednávky č. 1902098/210818"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023001",
+    "contract_id": "33229649",
+    "contract_date": "2025-10-30",
+    "value": 72856.95,
+    "subject": "Potvrzení objednávky č. 1902098/210814"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179906",
+    "contract_id": "33229653",
+    "contract_date": "2025-10-30",
+    "value": 164000.0,
+    "subject": "Potvrzení objednávky č. 1502000/1253401115"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064211",
+    "contract_id": "33229657",
+    "contract_date": "2025-10-30",
+    "value": 126411.05,
+    "subject": "Potvrzení objednávky č. 1911402/0273732"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27520536",
+    "contract_id": "33229661",
+    "contract_date": "2025-10-30",
+    "value": 64696.81,
+    "subject": "Potvrzení objednávky č. 1503712/16414"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256537",
+    "contract_id": "33229665",
+    "contract_date": "2025-10-30",
+    "value": 161908.02,
+    "subject": "Potvrzení objednávky č. 1101912/9897"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095149",
+    "contract_id": "33229669",
+    "contract_date": "2025-10-30",
+    "value": 101715.99,
+    "subject": "Potvrzení objednávky č. 1201041/8588"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256456",
+    "contract_id": "33229673",
+    "contract_date": "2025-10-30",
+    "value": 95496.13,
+    "subject": "Potvrzení objednávky č. 1101277/99726"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095203",
+    "contract_id": "33229677",
+    "contract_date": "2025-10-30",
+    "value": 72431.27,
+    "subject": "Potvrzení objednávky č. 1201034/1820"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00064165",
+    "contract_id": "33229681",
+    "contract_date": "2025-10-30",
+    "value": 302345.4,
+    "subject": "Potvrzení objednávky č. 1900327/1024014952"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095190",
+    "contract_id": "33229685",
+    "contract_date": "2025-10-30",
+    "value": 86172.05,
+    "subject": "Potvrzení objednávky č. 1201027/1242"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33229689",
+    "contract_date": "2025-10-30",
+    "value": 1060500.0,
+    "subject": "Potvrzení objednávky č. 1900301/2251323058"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27661989",
+    "contract_id": "33229693",
+    "contract_date": "2025-10-30",
+    "value": 126213.72,
+    "subject": "Potvrzení objednávky č. 1602218/130504"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00842001",
+    "contract_id": "33229697",
+    "contract_date": "2025-10-30",
+    "value": 55961.83,
+    "subject": "Potvrzení objednávky č. 1602323/191934"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00209805",
+    "contract_id": "33229701",
+    "contract_date": "2025-10-30",
+    "value": 671355.2,
+    "subject": "Potvrzení objednávky č. 1602002/2024006401"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229705",
+    "contract_date": "2025-10-30",
+    "value": 77444.25,
+    "subject": "Potvrzení objednávky č. 1602486/2251323632"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00390780",
+    "contract_id": "33229709",
+    "contract_date": "2025-10-30",
+    "value": 204277.29,
+    "subject": "Potvrzení objednávky č. 1603692/2024007225"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00209805",
+    "contract_id": "33229713",
+    "contract_date": "2025-10-30",
+    "value": 67362.0,
+    "subject": "Potvrzení objednávky č. 1602002/0010510"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00226637",
+    "contract_id": "33229717",
+    "contract_date": "2025-10-30",
+    "value": 115629.16,
+    "subject": "Potvrzení objednávky č. 1606013/79255"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00226637",
+    "contract_id": "33229721",
+    "contract_date": "2025-10-30",
+    "value": 64487.28,
+    "subject": "Potvrzení objednávky č. 1604168/79257"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00159816",
+    "contract_id": "33229725",
+    "contract_date": "2025-10-30",
+    "value": 268542.08,
+    "subject": "Potvrzení objednávky č. 1602001/2024008282"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229729",
+    "contract_date": "2025-10-30",
+    "value": 475438.06,
+    "subject": "Potvrzení objednávky č. 1604425/2024009255"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-65269705",
+    "contract_id": "33229733",
+    "contract_date": "2025-10-30",
+    "value": 671355.2,
+    "subject": "Potvrzení objednávky č. 1604425/2024009255"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229737",
+    "contract_date": "2025-10-30",
+    "value": 75699.8,
+    "subject": "Potvrzení objednávky č. 1604425/2024009800"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-27661989",
+    "contract_id": "33229741",
+    "contract_date": "2025-10-30",
+    "value": 167838.8,
+    "subject": "Potvrzení objednávky č. 1602218/130537"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229745",
+    "contract_date": "2025-10-30",
+    "value": 500155.06,
+    "subject": "Potvrzení objednávky č. 1605367/2251326004"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229749",
+    "contract_date": "2025-10-30",
+    "value": 335027.86,
+    "subject": "Potvrzení objednávky č. 1600041/2130745929"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00839205",
+    "contract_id": "33229753",
+    "contract_date": "2025-10-30",
+    "value": 60034.13,
+    "subject": "Potvrzení objednávky č. 1612090/65867"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33229757",
+    "contract_date": "2025-10-30",
+    "value": 74517.19,
+    "subject": "Potvrzení objednávky č. 1602007/116225"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229761",
+    "contract_date": "2025-10-30",
+    "value": 127184.7,
+    "subject": "Potvrzení objednávky č. 1605367/2024012103"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00226637",
+    "contract_id": "33229765",
+    "contract_date": "2025-10-30",
+    "value": 63347.95,
+    "subject": "Potvrzení objednávky č. 1600695/79290"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33229769",
+    "contract_date": "2025-10-30",
+    "value": 99994.86,
+    "subject": "Potvrzení objednávky č. 1602006/116229"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33229773",
+    "contract_date": "2025-10-30",
+    "value": 186071.64,
+    "subject": "Potvrzení objednávky č. 1602001/2251326577"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00842001",
+    "contract_id": "33229777",
+    "contract_date": "2025-10-30",
+    "value": 60180.11,
+    "subject": "Potvrzení objednávky č. 1602323/191938"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229781",
+    "contract_date": "2025-10-30",
+    "value": 301120.0,
+    "subject": "Potvrzení objednávky č. 1302060/3024004780"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26365804",
+    "contract_id": "33229785",
+    "contract_date": "2025-10-30",
+    "value": 190274.4,
+    "subject": "Potvrzení objednávky č. 1300423/28943"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-25488627",
+    "contract_id": "33229789",
+    "contract_date": "2025-10-30",
+    "value": 58824.22,
+    "subject": "Potvrzení objednávky č. 1401345/1024008191"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229793",
+    "contract_date": "2025-10-30",
+    "value": 115585.68,
+    "subject": "Potvrzení objednávky č. 1300418/0463777"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229797",
+    "contract_date": "2025-10-30",
+    "value": 152085.06,
+    "subject": "Potvrzení objednávky č. 1301100/0463778"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229801",
+    "contract_date": "2025-10-30",
+    "value": 61955.0,
+    "subject": "Potvrzení objednávky č. 1301000/0463793"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229805",
+    "contract_date": "2025-10-30",
+    "value": 119777.83,
+    "subject": "Potvrzení objednávky č. 1302271/0463818"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27085031",
+    "contract_id": "33229809",
+    "contract_date": "2025-10-30",
+    "value": 83492.01,
+    "subject": "Potvrzení objednávky č. 1100345/VL3428"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00669806",
+    "contract_id": "33229813",
+    "contract_date": "2025-10-30",
+    "value": 237715.28,
+    "subject": "Potvrzení objednávky č. 1302272/0463838"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229817",
+    "contract_date": "2025-10-30",
+    "value": 131831.6,
+    "subject": "Potvrzení objednávky č. 1703730/0181574"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229821",
+    "contract_date": "2025-10-30",
+    "value": 500493.25,
+    "subject": "Potvrzení objednávky č. 1702357/0158331"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229825",
+    "contract_date": "2025-10-30",
+    "value": 147513.48,
+    "subject": "Potvrzení objednávky č. 1705000/0181603"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00843989",
+    "contract_id": "33229829",
+    "contract_date": "2025-10-30",
+    "value": 116155.67,
+    "subject": "Potvrzení objednávky č. 1704034/5024007671"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00844641",
+    "contract_id": "33229833",
+    "contract_date": "2025-10-30",
+    "value": 92663.21,
+    "subject": "Potvrzení objednávky č. 1701640/5024009344"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00844853",
+    "contract_id": "33229837",
+    "contract_date": "2025-10-30",
+    "value": 52726.7,
+    "subject": "Potvrzení objednávky č. 1700319/44263"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00098892",
+    "contract_id": "33229841",
+    "contract_date": "2025-10-30",
+    "value": 134271.04,
+    "subject": "Potvrzení objednávky č. 1702357/0158342"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00534188",
+    "contract_id": "33229845",
+    "contract_date": "2025-10-30",
+    "value": 56115.0,
+    "subject": "Potvrzení objednávky č. 1701699/19027565"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229849",
+    "contract_date": "2025-10-30",
+    "value": 63863.25,
+    "subject": "Potvrzení objednávky č. 1702500/0181631"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229853",
+    "contract_date": "2025-10-30",
+    "value": 244189.69,
+    "subject": "Potvrzení objednávky č. 1702357/0158343"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00098892",
+    "contract_id": "33229857",
+    "contract_date": "2025-10-30",
+    "value": 839194.0,
+    "subject": "Potvrzení objednávky č. 1702357/0158343"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00844641",
+    "contract_id": "33229861",
+    "contract_date": "2025-10-30",
+    "value": 292384.97,
+    "subject": "Potvrzení objednávky č. 1700468/71742"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33229865",
+    "contract_date": "2025-10-30",
+    "value": 1687614.64,
+    "subject": "Potvrzení objednávky č. 1705000/0181644"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00534188",
+    "contract_id": "33229869",
+    "contract_date": "2025-10-30",
+    "value": 64381.57,
+    "subject": "Potvrzení objednávky č. 1702001/5024012028"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00843989",
+    "contract_id": "33229873",
+    "contract_date": "2025-10-30",
+    "value": 108774.52,
+    "subject": "Potvrzení objednávky č. 1707001/5024012044"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00843989",
+    "contract_id": "33229877",
+    "contract_date": "2025-10-30",
+    "value": 892336.37,
+    "subject": "Potvrzení objednávky č. 1704034/5024012601"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00843989",
+    "contract_id": "33229881",
+    "contract_date": "2025-10-30",
+    "value": 228978.26,
+    "subject": "Potvrzení objednávky č. 1704034/5024012601"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00843989",
+    "contract_id": "33229885",
+    "contract_date": "2025-10-30",
+    "value": 150560.0,
+    "subject": "Potvrzení objednávky č. 1704034/5024013189"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179906",
+    "contract_id": "33229889",
+    "contract_date": "2025-10-30",
+    "value": 543189.34,
+    "subject": "Potvrzení objednávky č. 1502000/12868"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00179906",
+    "contract_id": "33229893",
+    "contract_date": "2025-10-30",
+    "value": 1510549.2,
+    "subject": "Potvrzení objednávky č. 1502000/12868"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179906",
+    "contract_id": "33229897",
+    "contract_date": "2025-10-30",
+    "value": 83441.94,
+    "subject": "Potvrzení objednávky č. 1502000/7014514522"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064211",
+    "contract_id": "33229901",
+    "contract_date": "2025-10-30",
+    "value": 629906.04,
+    "subject": "Potvrzení objednávky č. 1970605/273691"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00064211",
+    "contract_id": "33229905",
+    "contract_date": "2025-10-30",
+    "value": 67135.52,
+    "subject": "Potvrzení objednávky č. 1903274/273679"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00179906",
+    "contract_id": "33229909",
+    "contract_date": "2025-10-30",
+    "value": 201406.56,
+    "subject": "Potvrzení objednávky č. 1502000/7014514692"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00064211",
+    "contract_id": "33229913",
+    "contract_date": "2025-10-30",
+    "value": 67135.52,
+    "subject": "Potvrzení objednávky č. 1903274/273680"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229917",
+    "contract_date": "2025-10-30",
+    "value": 68655.65,
+    "subject": "Potvrzení objednávky č. 1600155/7022815517"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33229921",
+    "contract_date": "2025-10-30",
+    "value": 559189.25,
+    "subject": "Potvrzení objednávky č. 1602486/7022815560"
+  },
+  {
+    "from": "COMP-00066001",
+    "to": "COMP-25261282",
+    "contract_id": "33229925",
+    "contract_date": "2025-10-31",
+    "value": 338913.78,
+    "subject": "CMS Kolín BÚ od:1.11.2025 - do:15.11.2025"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-25099019",
+    "contract_id": "33229929",
+    "contract_date": "2025-10-29",
+    "value": 172366.16,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229933",
+    "contract_date": "2025-10-29",
+    "value": 389991.75,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-24148725",
+    "contract_id": "33229937",
+    "contract_date": "2025-10-29",
+    "value": 184369.07,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-24148725",
+    "contract_id": "33229941",
+    "contract_date": "2025-10-29",
+    "value": 724553.8,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-24671819",
+    "contract_id": "33229945",
+    "contract_date": "2025-10-29",
+    "value": 100576.0,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-49617052",
+    "contract_id": "33229949",
+    "contract_date": "2025-10-29",
+    "value": 124726.8,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-63471507",
+    "contract_id": "33229953",
+    "contract_date": "2025-10-29",
+    "value": 92400.0,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229957",
+    "contract_date": "2025-10-29",
+    "value": 195854.94,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-19010290",
+    "contract_id": "33229961",
+    "contract_date": "2025-10-27",
+    "value": 101530.75,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-24268551",
+    "contract_id": "33229965",
+    "contract_date": "2025-10-29",
+    "value": 455760.0,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229969",
+    "contract_date": "2025-10-29",
+    "value": 180769.24,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229973",
+    "contract_date": "2025-10-29",
+    "value": 61725.17,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229977",
+    "contract_date": "2025-10-29",
+    "value": 154663.12,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229981",
+    "contract_date": "2025-10-29",
+    "value": 628376.94,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229985",
+    "contract_date": "2025-10-29",
+    "value": 83715.84,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33229989",
+    "contract_date": "2025-10-29",
+    "value": 223869.81,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-45359326",
+    "contract_id": "33229993",
+    "contract_date": "2025-10-29",
+    "value": 381317.6,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-45359326",
+    "contract_id": "33229997",
+    "contract_date": "2025-10-29",
+    "value": 105117.12,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-25099019",
+    "contract_id": "33230001",
+    "contract_date": "2025-10-29",
+    "value": 256637.06,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-24268551",
+    "contract_id": "33230005",
+    "contract_date": "2025-10-29",
+    "value": 150864.0,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-19010290",
+    "contract_id": "33230009",
+    "contract_date": "2025-10-27",
+    "value": 423809.26,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-14707420",
+    "contract_id": "33230013",
+    "contract_date": "2025-10-29",
+    "value": 245613.92,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-45359326",
+    "contract_id": "33230017",
+    "contract_date": "2025-10-29",
+    "value": 68623.44,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-25099019",
+    "contract_id": "33230021",
+    "contract_date": "2025-10-29",
+    "value": 335521.0,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-45359326",
+    "contract_id": "33230025",
+    "contract_date": "2025-10-29",
+    "value": 544829.04,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-49617052",
+    "contract_id": "33230029",
+    "contract_date": "2025-10-29",
+    "value": 93059.22,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-19010290",
+    "contract_id": "33230033",
+    "contract_date": "2025-10-29",
+    "value": 67636.64,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-19010290",
+    "contract_id": "33230037",
+    "contract_date": "2025-10-29",
+    "value": 94188.95,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-00090638",
+    "to": "COMP-45359326",
+    "contract_id": "33230041",
+    "contract_date": "2025-10-29",
+    "value": 95710.4,
+    "subject": "Objednávka"
+  },
+  {
+    "from": "COMP-71154639",
+    "to": "COMP-28225619",
+    "contract_id": "33114161",
+    "contract_date": "2025-10-13",
+    "value": 53644.0,
+    "subject": "Pojištění osob do zahraničí."
+  },
+  {
+    "from": "COMP-00006947",
+    "to": "COMP-62363930",
+    "contract_id": "33230049",
+    "contract_date": "2025-10-24",
+    "value": 39535095.93,
+    "subject": "ZAJIŠTĚNÍ PODPORY A DALŠÍHO ROZVOJE INFORMAČNÍHO SYSTÉMU APLIKAČNÍ PODPORA AUDITNÍHO ORGÁNU (AVISme 2025002800)"
+  },
+  {
+    "from": "COMP-60457856",
+    "to": "COMP-61388955",
+    "contract_id": "33230053",
+    "contract_date": "2025-10-31",
+    "value": 129702.0,
+    "subject": "VL Zajištění konferenční akce - 56. Symposium on Catalysis 10.11.2025"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-47547715",
+    "contract_id": "33230057",
+    "contract_date": "2025-09-25",
+    "value": 35271.81,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-47547715",
+    "contract_id": "33230061",
+    "contract_date": "2025-09-25",
+    "value": 60480.75,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-47547715",
+    "contract_id": "33230065",
+    "contract_date": "2025-09-25",
+    "value": 11861.2,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-46350110",
+    "contract_id": "33230069",
+    "contract_date": "2025-09-26",
+    "value": 3841.75,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-47547715",
+    "contract_id": "33230073",
+    "contract_date": "2025-09-30",
+    "value": 193452.39,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-87869616",
+    "contract_id": "33230077",
+    "contract_date": "2025-09-30",
+    "value": 87325.7,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-24665258",
+    "contract_id": "33230081",
+    "contract_date": "2025-09-30",
+    "value": 192377.11,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-68378041",
+    "to": "COMP-24665258",
+    "contract_id": "33230085",
+    "contract_date": "2025-09-30",
+    "value": 43704.85,
+    "subject": "Obecná objednávka"
+  },
+  {
+    "from": "COMP-14888742",
+    "to": "COMP-26095181",
+    "contract_id": "33230089",
+    "contract_date": "2025-11-01",
+    "value": 62196.0,
+    "subject": "Kupní smlouva - léčiva a/nebo jiné zboží"
+  },
+  {
+    "from": "COMP-02795281",
+    "to": "COMP-60437359",
+    "contract_id": "33230093",
+    "contract_date": "2025-10-08",
+    "subject": "Smlouva o provozování služeb nad datovou platformou Golemio"
+  },
+  {
+    "from": "COMP-00559482",
+    "to": "COMP-48117820",
+    "contract_id": "33230097",
+    "contract_date": "2025-10-30",
+    "subject": "Nájemní smlouva se servisními službami"
+  },
+  {
+    "from": "COMP-00559482",
+    "to": "COMP-48117820",
+    "contract_id": "33230101",
+    "contract_date": "2025-10-30",
+    "subject": "Nájemní smlouva se servisními službami"
+  },
+  {
+    "from": "COMP-14888742",
+    "to": "COMP-26925974",
+    "contract_id": "33230105",
+    "contract_date": "2025-11-01",
+    "value": 158040.0,
+    "subject": "Kupní smlouva - léčiva a/nebo jiné zboží"
+  },
+  {
+    "from": "COMP-60800691",
+    "to": "COMP-41692861",
+    "contract_id": "33230109",
+    "contract_date": "2025-10-29",
+    "subject": "Dodatek č.6 ke smlouvě o podmínkách obratového zvýhodnění"
+  },
+  {
+    "from": "COMP-23186780",
+    "to": "COMP-46960511",
+    "contract_id": "33230113",
+    "contract_date": "2025-08-22",
+    "subject": "Smlouva o odvozu a odstranění ostatních a nebezpečných odpadů"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230117",
+    "contract_date": "2025-11-22",
+    "subject": "Smlouva č. 0373/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230121",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0350/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230125",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0377/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230129",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0376/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230133",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0180/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230137",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0313/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230141",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0312/25"
+  },
+  {
+    "from": "COMP-25656112",
+    "to": "COMP-25656112",
+    "contract_id": "33230145",
+    "contract_date": "2025-10-22",
+    "subject": "Smlouva č. 0366/25"
+  },
+  {
+    "from": "COMP-71226401",
+    "to": "COMP-60461373",
+    "contract_id": "33230153",
+    "contract_date": "2025-10-14",
+    "value": 365000.0,
+    "subject": "Zpracování ESG reportu"
+  },
+  {
+    "from": "COMP-00159816",
+    "to": "COMP-05448841",
+    "contract_id": "33230157",
+    "contract_date": "2025-11-01",
+    "value": 146630.0,
+    "subject": "Dodavatelská objednávka č. DKS3365/25   pro středisko 00157300 - I.IKAK-Arytmologické prac. - sál"
+  },
+  {
+    "from": "COMP-00159816",
+    "to": "COMP-60719877",
+    "contract_id": "33230161",
+    "contract_date": "2025-11-01",
+    "value": 103868.79,
+    "subject": "Dodavatelská objednávka č. DKS3366/25   pro středisko 00157300 - I.IKAK-Arytmologické prac. - sál"
+  },
+  {
+    "from": "COMP-00216208",
+    "to": "COMP-GENEWIZ_Germany_GmbH",
+    "contract_id": "33230165",
+    "contract_date": "2025-10-31",
+    "subject": "1. LF UK GO Dodávka sekvenačních služeb"
+  },
+  {
+    "from": "COMP-46747885",
+    "to": "COMP-UNIVERSITA'_DEGLI_STUDI_DI_BERGAMO",
+    "contract_id": "33230169",
+    "contract_date": "2025-10-22",
+    "subject": "Meziinstitucionální smlouva_UNIVERSITA&#039; DEGLI STUDI DI BERGAMO EF EWP"
+  },
+  {
+    "from": "COMP-46747885",
+    "to": "COMP-ANDRÁSSY_GYULA_BUDAPESTI_NÉMETNYELVU_EGYETEM_",
+    "contract_id": "33230173",
+    "contract_date": "2025-10-30",
+    "subject": "Meziinstitucionální smlouva_ANDRÁSSY GYULA BUDAPESTI NÉMETNYELVU EGYETEM EF BIP EWP"
+  },
+  {
+    "from": "COMP-Městský_obvod_Pardubice_I",
+    "to": "COMP-07577621",
+    "contract_id": "33230177",
+    "contract_date": "2025-10-24",
+    "value": 1256379.3,
+    "subject": "Ošetření stromů"
+  },
+  {
+    "from": "COMP-Městský_obvod_Pardubice_I",
+    "to": "COMP-15049931",
+    "contract_id": "33230181",
+    "contract_date": "2025-09-08",
+    "value": 73011.4,
+    "subject": "Objednávka dřevěného materiálu na opravy laviček"
+  },
+  {
+    "from": "COMP-46747885",
+    "to": "COMP-UNIVERSITA_DEGLI_STUDI_DI_FIRENZE_",
+    "contract_id": "33230185",
+    "contract_date": "2025-10-30",
+    "subject": "Meziinstitucionální smlouva_UNIVERSITA DEGLI STUDI DI FIRENZE FS EWP"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-02015081",
+    "contract_id": "33230189",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-07757964",
+    "contract_id": "33230193",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05223164",
+    "contract_id": "33230197",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-28198212",
+    "contract_id": "33230201",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09088725",
+    "contract_id": "33230205",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09443746",
+    "contract_id": "33230209",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09381805",
+    "contract_id": "33230213",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-07452080",
+    "contract_id": "33230217",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06169643",
+    "contract_id": "33230221",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06343317",
+    "contract_id": "33230225",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06354009",
+    "contract_id": "33230229",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05835151",
+    "contract_id": "33230233",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-62690094",
+    "to": "COMP-Coursera__Inc.",
+    "contract_id": "33230237",
+    "contract_date": "2025-10-31",
+    "subject": "Coursera order form - Coursera User License"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06229760",
+    "contract_id": "33230241",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06508481",
+    "contract_id": "33230245",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-04578031",
+    "contract_id": "33230249",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-24694151",
+    "contract_id": "33230253",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-28243498",
+    "contract_id": "33230257",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-60077638",
+    "to": "COMP-08670269",
+    "contract_id": "32290705",
+    "contract_date": "2025-10-13",
+    "value": 6592812.82,
+    "subject": "Dodatek č. 1 ke smlouvě o dílo_navýšení ceny díla"
+  },
+  {
+    "from": "COMP-70837881",
+    "to": "COMP-48108375",
+    "contract_id": "33230261",
+    "contract_date": "2025-10-30",
+    "value": 441095.0,
+    "subject": "Kupní smlouva ve věci VŘ - Interaktivní zařízení 2025"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08807213",
+    "contract_id": "33230265",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08531650",
+    "contract_id": "33230269",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-00231266",
+    "contract_id": "33230273",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-24236420",
+    "contract_id": "33230277",
+    "contract_date": "2025-10-27",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-00063703",
+    "contract_id": "33230281",
+    "contract_date": "2025-10-27",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08861072",
+    "contract_id": "33230285",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08419183",
+    "contract_id": "33230289",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05156998",
+    "contract_id": "33230293",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-04920171",
+    "contract_id": "33230297",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06237126",
+    "contract_id": "33230301",
+    "contract_date": "2025-10-21",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230305",
+    "contract_date": "2025-10-29",
+    "value": 59148.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230309",
+    "contract_date": "2025-10-29",
+    "value": 58104.73,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-44848200",
+    "contract_id": "33230313",
+    "contract_date": "2025-10-29",
+    "value": 77822.38,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230317",
+    "contract_date": "2025-10-29",
+    "value": 158655.35,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230321",
+    "contract_date": "2025-10-29",
+    "value": 849401.22,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-48041351",
+    "contract_id": "33230325",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-24148725",
+    "contract_id": "33230329",
+    "contract_date": "2025-10-29",
+    "value": 98563.14,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-26260654",
+    "contract_id": "33230333",
+    "contract_date": "2025-10-29",
+    "value": 233407.45,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230337",
+    "contract_date": "2025-10-29",
+    "value": 80012.24,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230341",
+    "contract_date": "2025-10-29",
+    "value": 193603.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230345",
+    "contract_date": "2025-10-29",
+    "value": 83095.48,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230349",
+    "contract_date": "2025-10-29",
+    "value": 425090.97,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-27529053",
+    "contract_id": "33230353",
+    "contract_date": "2025-10-29",
+    "value": 51632.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-49617052",
+    "contract_id": "33230357",
+    "contract_date": "2025-10-29",
+    "value": 80549.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-25099019",
+    "contract_id": "33230361",
+    "contract_date": "2025-10-29",
+    "value": 52712.2,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230365",
+    "contract_date": "2025-10-29",
+    "value": 240275.33,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230369",
+    "contract_date": "2025-10-29",
+    "value": 60312.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-60469803",
+    "contract_id": "33230373",
+    "contract_date": "2025-10-29",
+    "value": 403200.0,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-19010290",
+    "contract_id": "33230377",
+    "contract_date": "2025-10-29",
+    "value": 78090.34,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-45359326",
+    "contract_id": "33230381",
+    "contract_date": "2025-10-29",
+    "value": 707065.89,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230385",
+    "contract_date": "2025-10-29",
+    "value": 129004.84,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-14707420",
+    "contract_id": "33230389",
+    "contract_date": "2025-10-29",
+    "value": 1038691.8,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-06616631",
+    "contract_id": "33230393",
+    "contract_date": "2025-10-29",
+    "value": 84055.1,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-28538153",
+    "contract_id": "33230397",
+    "contract_date": "2025-10-29",
+    "value": 72271.11,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-00064190",
+    "to": "COMP-47913240",
+    "contract_id": "33230401",
+    "contract_date": "2025-10-29",
+    "value": 56124.07,
+    "subject": "Objednavka leciv a zdravotnickeho materialu"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-67985815",
+    "contract_id": "33230405",
+    "contract_date": "2025-10-31",
+    "value": 5811669.66,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-44994575",
+    "contract_id": "33230409",
+    "contract_date": "2025-10-31",
+    "value": 2706403.68,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-60077344",
+    "contract_id": "33230413",
+    "contract_date": "2025-10-31",
+    "value": 12795643.63,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-67985955",
+    "contract_id": "33230417",
+    "contract_date": "2025-10-31",
+    "value": 604600.17,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-65269705",
+    "contract_id": "33230421",
+    "contract_date": "2025-10-31",
+    "value": 6813691.62,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-62156462",
+    "contract_id": "33230425",
+    "contract_date": "2025-10-31",
+    "value": 72284.94,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-00023001",
+    "contract_id": "33230429",
+    "contract_date": "2025-10-31",
+    "value": 14291651.98,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-61387142",
+    "to": "COMP-70950164",
+    "contract_id": "33230433",
+    "contract_date": "2025-10-31",
+    "value": 788150.02,
+    "subject": "CZECHELIB - Rámcová smlouva o centralizovaném zadávání 2026+"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00098892",
+    "contract_id": "33230437",
+    "contract_date": "2025-10-31",
+    "value": 117810.0,
+    "subject": "Potvrzení objednávky č. 1702357/1253409016"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064211",
+    "contract_id": "33230441",
+    "contract_date": "2025-10-31",
+    "value": 154267.12,
+    "subject": "Potvrzení objednávky č. 1911402/0273805"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230445",
+    "contract_date": "2025-10-31",
+    "value": 415579.56,
+    "subject": "Potvrzení objednávky č. 1900882/1024018430"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230449",
+    "contract_date": "2025-10-31",
+    "value": 139271.56,
+    "subject": "Potvrzení objednávky č. 1900301/1024018646"
+  },
+  {
+    "from": "COMP-71226401",
+    "to": "COMP-05082013",
+    "contract_id": "33230453",
+    "contract_date": "2025-10-29",
+    "value": 2088000.0,
+    "subject": "Smlouva o sdružených službách dodávky zemního plynu rp VO a SO - Tolstého"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27283518",
+    "contract_id": "33230457",
+    "contract_date": "2025-10-31",
+    "value": 248531.29,
+    "subject": "Potvrzení objednávky č. 1401320/5225"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256391",
+    "contract_id": "33230461",
+    "contract_date": "2025-10-31",
+    "value": 286502.78,
+    "subject": "Potvrzení objednávky č. 1102046/54313"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27283933",
+    "contract_id": "33230465",
+    "contract_date": "2025-10-31",
+    "value": 82928.54,
+    "subject": "Potvrzení objednávky č. 1401317/1024022344"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256391",
+    "contract_id": "33230469",
+    "contract_date": "2025-10-31",
+    "value": 96499.67,
+    "subject": "Potvrzení objednávky č. 1100984/54315"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256391",
+    "contract_id": "33230473",
+    "contract_date": "2025-10-31",
+    "value": 94461.55,
+    "subject": "Potvrzení objednávky č. 1100983/20770"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179906",
+    "contract_id": "33230477",
+    "contract_date": "2025-10-31",
+    "value": 110417.86,
+    "subject": "Potvrzení objednávky č. 1503735/2603"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-25488627",
+    "contract_id": "33230481",
+    "contract_date": "2025-10-31",
+    "value": 671027.1,
+    "subject": "Potvrzení objednávky č. 1401963/1024022860"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256456",
+    "contract_id": "33230485",
+    "contract_date": "2025-10-31",
+    "value": 104702.93,
+    "subject": "Potvrzení objednávky č. 1100954/1024023002"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230489",
+    "contract_date": "2025-10-31",
+    "value": 263329.59,
+    "subject": "Potvrzení objednávky č. 1900327/40694"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230493",
+    "contract_date": "2025-10-31",
+    "value": 141876.0,
+    "subject": "Potvrzení objednávky č. 1900634/49072"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-25488627",
+    "contract_id": "33230497",
+    "contract_date": "2025-10-31",
+    "value": 233344.69,
+    "subject": "Potvrzení objednávky č. 1401338/0399876"
+  },
+  {
+    "from": "COMP-25375601",
+    "to": "COMP-54299853",
+    "contract_id": "33230501",
+    "contract_date": "2025-10-24",
+    "value": 136730.0,
+    "subject": "Objednávka - Vodorovné dopravní značení OKS/233/2025"
+  },
+  {
+    "from": "COMP-25375601",
+    "to": "COMP-08438749",
+    "contract_id": "25361431",
+    "contract_date": "2023-12-29",
+    "value": 60500.0,
+    "subject": "Rámcová kupní smlouva"
+  },
+  {
+    "from": "COMP-25375601",
+    "to": "COMP-54299853",
+    "contract_id": "33230505",
+    "contract_date": "2025-10-24",
+    "value": 204490.0,
+    "subject": "Objednávka - Vodorovné dopravní značení OKS/262/2025"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179540",
+    "contract_id": "33230509",
+    "contract_date": "2025-10-31",
+    "value": 62995.0,
+    "subject": "Potvrzení objednávky č. 1501420/34063"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095203",
+    "contract_id": "33230513",
+    "contract_date": "2025-10-31",
+    "value": 79003.54,
+    "subject": "Potvrzení objednávky č. 1201034/1829"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27256456",
+    "contract_id": "33230517",
+    "contract_date": "2025-10-31",
+    "value": 58923.66,
+    "subject": "Potvrzení objednávky č. 1100955/99738"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00179906",
+    "contract_id": "33230521",
+    "contract_date": "2025-10-31",
+    "value": 1342710.4,
+    "subject": "Potvrzení objednávky č. 1502000/12951"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27530981",
+    "contract_id": "33230525",
+    "contract_date": "2025-10-31",
+    "value": 50851.53,
+    "subject": "Potvrzení objednávky č. 1502842/31400"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023884",
+    "contract_id": "33230529",
+    "contract_date": "2025-10-31",
+    "value": 112461.13,
+    "subject": "Potvrzení objednávky č. 1902492/16858"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023736",
+    "contract_id": "33230533",
+    "contract_date": "2025-10-31",
+    "value": 447351.4,
+    "subject": "Potvrzení objednávky č. 1906102/8081"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230537",
+    "contract_date": "2025-10-31",
+    "value": 2309353.0,
+    "subject": "Potvrzení objednávky č. 1900634/49080"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27530981",
+    "contract_id": "33230541",
+    "contract_date": "2025-10-31",
+    "value": 71944.65,
+    "subject": "Potvrzení objednávky č. 1502842/1253414406"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27283933",
+    "contract_id": "33230545",
+    "contract_date": "2025-10-31",
+    "value": 84455.07,
+    "subject": "Potvrzení objednávky č. 1504129/1819"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33230549",
+    "contract_date": "2025-10-31",
+    "value": 147455.1,
+    "subject": "Potvrzení objednávky č. 1602001/1253414733"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27283518",
+    "contract_id": "33230553",
+    "contract_date": "2025-10-31",
+    "value": 75333.15,
+    "subject": "Potvrzení objednávky č. 1401320/1024023791"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023001",
+    "contract_id": "33230557",
+    "contract_date": "2025-10-31",
+    "value": 404617.0,
+    "subject": "Potvrzení objednávky č. 1900239/210878"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-28051955",
+    "contract_id": "33230561",
+    "contract_date": "2025-09-01",
+    "value": 26100.0,
+    "subject": "Smlouva o  využití sportoviště-Hala BIOS_KHvP_Jaromír Ďoubal"
+  },
+  {
+    "from": "COMP-28462564",
+    "to": "COMP-00023001",
+    "contract_id": "33230565",
+    "contract_date": "2025-10-31",
+    "value": 90703.62,
+    "subject": "Potvrzení objednávky č. 1902098/210904"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-26071970",
+    "contract_id": "33230569",
+    "contract_date": "2025-09-01",
+    "value": 26100.0,
+    "subject": "Smlouva o využití sportoviště-Hala BIOS_KHvP_SK Malešov-oddíl kopané"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00064165",
+    "contract_id": "33230573",
+    "contract_date": "2025-10-31",
+    "value": 76884.5,
+    "subject": "Potvrzení objednávky č. 1900301/1253415307"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-28051955",
+    "contract_id": "33230577",
+    "contract_date": "2025-09-01",
+    "value": 26100.0,
+    "subject": "Smlouva o  využití sportoviště-Hala BIOS_KHvP_Jaromír Ďoubal"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00023001",
+    "contract_id": "33230581",
+    "contract_date": "2025-10-31",
+    "value": 95706.62,
+    "subject": "Potvrzení objednávky č. 1900239/210880"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-19111975",
+    "contract_id": "33230585",
+    "contract_date": "2025-10-01",
+    "value": 26100.0,
+    "subject": "Smlouva o  využití sportoviště-Hala BIOS_KHvP_Jan Winkler"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00179906",
+    "contract_id": "33230589",
+    "contract_date": "2025-10-31",
+    "value": 1036049.92,
+    "subject": "Potvrzení objednávky č. 1502000/12965"
+  },
+  {
+    "from": "COMP-23223561",
+    "to": "COMP-19041974",
+    "contract_id": "33230593",
+    "contract_date": "2025-09-01",
+    "value": 52200.0,
+    "subject": "Smlouva o využití sportoviště-Hala BIOS_KHvP_Radek Procházka"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-26095190",
+    "contract_id": "33230597",
+    "contract_date": "2025-10-31",
+    "value": 118080.75,
+    "subject": "Potvrzení objednávky č. 1201027/1243"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33230601",
+    "contract_date": "2025-10-31",
+    "value": 343305.9,
+    "subject": "Potvrzení objednávky č. 1602001/2251329539"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33230605",
+    "contract_date": "2025-10-31",
+    "value": 425437.25,
+    "subject": "Potvrzení objednávky č. 1605367/2024017099"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33230609",
+    "contract_date": "2025-10-31",
+    "value": 4817080.2,
+    "subject": "Potvrzení objednávky č. 1600041/2251329946"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-27661989",
+    "contract_id": "33230613",
+    "contract_date": "2025-10-31",
+    "value": 250035.12,
+    "subject": "Potvrzení objednávky č. 1602218/130551"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-65269705",
+    "contract_id": "33230617",
+    "contract_date": "2025-10-31",
+    "value": 79326.99,
+    "subject": "Potvrzení objednávky č. 1600041/2024021265"
+  },
+  {
+    "from": "COMP-45359326",
+    "to": "COMP-00159816",
+    "contract_id": "33230621",
+    "contract_date": "2025-10-31",
+    "value": 50056.1,
+    "subject": "Potvrzení objednávky č. 1602007/2024021457"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-02015081",
+    "contract_id": "33230189",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-07757964",
+    "contract_id": "33230193",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05223164",
+    "contract_id": "33230197",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-28198212",
+    "contract_id": "33230201",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09088725",
+    "contract_id": "33230205",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09443746",
+    "contract_id": "33230209",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-09381805",
+    "contract_id": "33230213",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-07452080",
+    "contract_id": "33230217",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06169643",
+    "contract_id": "33230221",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06343317",
+    "contract_id": "33230225",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06354009",
+    "contract_id": "33230229",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05835151",
+    "contract_id": "33230233",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06229760",
+    "contract_id": "33230241",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06508481",
+    "contract_id": "33230245",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-04578031",
+    "contract_id": "33230249",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-24694151",
+    "contract_id": "33230253",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-28243498",
+    "contract_id": "33230257",
+    "contract_date": "2025-10-29",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08807213",
+    "contract_id": "33230265",
+    "contract_date": "2025-10-30",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08531650",
+    "contract_id": "33230269",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-00231266",
+    "contract_id": "33230273",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-24236420",
+    "contract_id": "33230277",
+    "contract_date": "2025-10-27",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-00063703",
+    "contract_id": "33230281",
+    "contract_date": "2025-10-27",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08861072",
+    "contract_id": "33230285",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-08419183",
+    "contract_id": "33230289",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-05156998",
+    "contract_id": "33230293",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-04920171",
+    "contract_id": "33230297",
+    "contract_date": "2025-10-23",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  },
+  {
+    "from": "COMP-70886288",
+    "to": "COMP-06237126",
+    "contract_id": "33230301",
+    "contract_date": "2025-10-21",
+    "value": 800000.0,
+    "subject": "připojení EPS na PCO"
+  }
+]
