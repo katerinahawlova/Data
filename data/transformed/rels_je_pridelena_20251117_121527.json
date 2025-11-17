@@ -1,0 +1,2765 @@
+[
+  {
+    "from": "45359326",
+    "to": "33230305",
+    "smlouva_id": "33230305",
+    "platnost_od": "2025-10-29",
+    "hodnota": 59148.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230309",
+    "smlouva_id": "33230309",
+    "platnost_od": "2025-10-29",
+    "hodnota": 58104.73,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "44848200",
+    "to": "33230313",
+    "smlouva_id": "33230313",
+    "platnost_od": "2025-10-29",
+    "hodnota": 77822.38,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230317",
+    "smlouva_id": "33230317",
+    "platnost_od": "2025-10-29",
+    "hodnota": 158655.35,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230321",
+    "smlouva_id": "33230321",
+    "platnost_od": "2025-10-29",
+    "hodnota": 849401.22,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "48041351",
+    "to": "33230325",
+    "smlouva_id": "33230325",
+    "platnost_od": "2025-10-29",
+    "hodnota": 403200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24148725",
+    "to": "33230329",
+    "smlouva_id": "33230329",
+    "platnost_od": "2025-10-29",
+    "hodnota": 98563.14,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26260654",
+    "to": "33230333",
+    "smlouva_id": "33230333",
+    "platnost_od": "2025-10-29",
+    "hodnota": 233407.45,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230337",
+    "smlouva_id": "33230337",
+    "platnost_od": "2025-10-29",
+    "hodnota": 80012.24,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230341",
+    "smlouva_id": "33230341",
+    "platnost_od": "2025-10-29",
+    "hodnota": 193603.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230345",
+    "smlouva_id": "33230345",
+    "platnost_od": "2025-10-29",
+    "hodnota": 83095.48,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230349",
+    "smlouva_id": "33230349",
+    "platnost_od": "2025-10-29",
+    "hodnota": 425090.97,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27529053",
+    "to": "33230353",
+    "smlouva_id": "33230353",
+    "platnost_od": "2025-10-29",
+    "hodnota": 51632.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "49617052",
+    "to": "33230357",
+    "smlouva_id": "33230357",
+    "platnost_od": "2025-10-29",
+    "hodnota": 80549.84,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25099019",
+    "to": "33230361",
+    "smlouva_id": "33230361",
+    "platnost_od": "2025-10-29",
+    "hodnota": 52712.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230365",
+    "smlouva_id": "33230365",
+    "platnost_od": "2025-10-29",
+    "hodnota": 240275.33,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230369",
+    "smlouva_id": "33230369",
+    "platnost_od": "2025-10-29",
+    "hodnota": 60312.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230373",
+    "smlouva_id": "33230373",
+    "platnost_od": "2025-10-29",
+    "hodnota": 403200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230377",
+    "smlouva_id": "33230377",
+    "platnost_od": "2025-10-29",
+    "hodnota": 78090.34,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230381",
+    "smlouva_id": "33230381",
+    "platnost_od": "2025-10-29",
+    "hodnota": 707065.89,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230385",
+    "smlouva_id": "33230385",
+    "platnost_od": "2025-10-29",
+    "hodnota": 129004.84,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230389",
+    "smlouva_id": "33230389",
+    "platnost_od": "2025-10-29",
+    "hodnota": 1038691.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06616631",
+    "to": "33230393",
+    "smlouva_id": "33230393",
+    "platnost_od": "2025-10-29",
+    "hodnota": 84055.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28538153",
+    "to": "33230397",
+    "smlouva_id": "33230397",
+    "platnost_od": "2025-10-29",
+    "hodnota": 72271.11,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47913240",
+    "to": "33230401",
+    "smlouva_id": "33230401",
+    "platnost_od": "2025-10-29",
+    "hodnota": 56124.07,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33229601",
+    "smlouva_id": "33229601",
+    "platnost_od": "2025-10-30",
+    "hodnota": 265866.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33229605",
+    "smlouva_id": "33229605",
+    "platnost_od": "2025-10-30",
+    "hodnota": 57588.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "71002090",
+    "to": "33229609",
+    "smlouva_id": "33229609",
+    "platnost_od": "2025-09-01",
+    "hodnota": 127600.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33229613",
+    "smlouva_id": "33229613",
+    "platnost_od": "2025-10-30",
+    "hodnota": 81554.65,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25488627",
+    "to": "33229617",
+    "smlouva_id": "33229617",
+    "platnost_od": "2025-10-30",
+    "hodnota": 147997.51,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33229621",
+    "smlouva_id": "33229621",
+    "platnost_od": "2025-10-30",
+    "hodnota": 111953.6,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095181",
+    "to": "33229625",
+    "smlouva_id": "33229625",
+    "platnost_od": "2025-10-30",
+    "hodnota": 50616.26,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "22877606",
+    "to": "33229629",
+    "smlouva_id": "33229629",
+    "platnost_od": "2025-09-01",
+    "hodnota": 52200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33229633",
+    "smlouva_id": "33229633",
+    "platnost_od": "2025-10-30",
+    "hodnota": 512876.01,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256391",
+    "to": "33229637",
+    "smlouva_id": "33229637",
+    "platnost_od": "2025-10-30",
+    "hodnota": 76450.81,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33229641",
+    "smlouva_id": "33229641",
+    "platnost_od": "2025-10-30",
+    "hodnota": 163839.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33229645",
+    "smlouva_id": "33229645",
+    "platnost_od": "2025-10-30",
+    "hodnota": 90703.62,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33229649",
+    "smlouva_id": "33229649",
+    "platnost_od": "2025-10-30",
+    "hodnota": 72856.95,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33229653",
+    "smlouva_id": "33229653",
+    "platnost_od": "2025-10-30",
+    "hodnota": 164000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33229657",
+    "smlouva_id": "33229657",
+    "platnost_od": "2025-10-30",
+    "hodnota": 126411.05,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27520536",
+    "to": "33229661",
+    "smlouva_id": "33229661",
+    "platnost_od": "2025-10-30",
+    "hodnota": 64696.81,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256537",
+    "to": "33229665",
+    "smlouva_id": "33229665",
+    "platnost_od": "2025-10-30",
+    "hodnota": 161908.02,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095149",
+    "to": "33229669",
+    "smlouva_id": "33229669",
+    "platnost_od": "2025-10-30",
+    "hodnota": 101715.99,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256456",
+    "to": "33229673",
+    "smlouva_id": "33229673",
+    "platnost_od": "2025-10-30",
+    "hodnota": 95496.13,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095203",
+    "to": "33229677",
+    "smlouva_id": "33229677",
+    "platnost_od": "2025-10-30",
+    "hodnota": 72431.27,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33229681",
+    "smlouva_id": "33229681",
+    "platnost_od": "2025-10-30",
+    "hodnota": 302345.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095190",
+    "to": "33229685",
+    "smlouva_id": "33229685",
+    "platnost_od": "2025-10-30",
+    "hodnota": 86172.05,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33229689",
+    "smlouva_id": "33229689",
+    "platnost_od": "2025-10-30",
+    "hodnota": 1060500.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27661989",
+    "to": "33229693",
+    "smlouva_id": "33229693",
+    "platnost_od": "2025-10-30",
+    "hodnota": 126213.72,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00842001",
+    "to": "33229697",
+    "smlouva_id": "33229697",
+    "platnost_od": "2025-10-30",
+    "hodnota": 55961.83,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00209805",
+    "to": "33229701",
+    "smlouva_id": "33229701",
+    "platnost_od": "2025-10-30",
+    "hodnota": 671355.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229705",
+    "smlouva_id": "33229705",
+    "platnost_od": "2025-10-30",
+    "hodnota": 77444.25,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00390780",
+    "to": "33229709",
+    "smlouva_id": "33229709",
+    "platnost_od": "2025-10-30",
+    "hodnota": 204277.29,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00209805",
+    "to": "33229713",
+    "smlouva_id": "33229713",
+    "platnost_od": "2025-10-30",
+    "hodnota": 67362.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00226637",
+    "to": "33229717",
+    "smlouva_id": "33229717",
+    "platnost_od": "2025-10-30",
+    "hodnota": 115629.16,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00226637",
+    "to": "33229721",
+    "smlouva_id": "33229721",
+    "platnost_od": "2025-10-30",
+    "hodnota": 64487.28,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33229725",
+    "smlouva_id": "33229725",
+    "platnost_od": "2025-10-30",
+    "hodnota": 268542.08,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229729",
+    "smlouva_id": "33229729",
+    "platnost_od": "2025-10-30",
+    "hodnota": 475438.06,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229733",
+    "smlouva_id": "33229733",
+    "platnost_od": "2025-10-30",
+    "hodnota": 671355.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229737",
+    "smlouva_id": "33229737",
+    "platnost_od": "2025-10-30",
+    "hodnota": 75699.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27661989",
+    "to": "33229741",
+    "smlouva_id": "33229741",
+    "platnost_od": "2025-10-30",
+    "hodnota": 167838.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229745",
+    "smlouva_id": "33229745",
+    "platnost_od": "2025-10-30",
+    "hodnota": 500155.06,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229749",
+    "smlouva_id": "33229749",
+    "platnost_od": "2025-10-30",
+    "hodnota": 335027.86,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00839205",
+    "to": "33229753",
+    "smlouva_id": "33229753",
+    "platnost_od": "2025-10-30",
+    "hodnota": 60034.13,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33229757",
+    "smlouva_id": "33229757",
+    "platnost_od": "2025-10-30",
+    "hodnota": 74517.19,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229761",
+    "smlouva_id": "33229761",
+    "platnost_od": "2025-10-30",
+    "hodnota": 127184.7,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00226637",
+    "to": "33229765",
+    "smlouva_id": "33229765",
+    "platnost_od": "2025-10-30",
+    "hodnota": 63347.95,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33229769",
+    "smlouva_id": "33229769",
+    "platnost_od": "2025-10-30",
+    "hodnota": 99994.86,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33229773",
+    "smlouva_id": "33229773",
+    "platnost_od": "2025-10-30",
+    "hodnota": 186071.64,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00842001",
+    "to": "33229777",
+    "smlouva_id": "33229777",
+    "platnost_od": "2025-10-30",
+    "hodnota": 60180.11,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229781",
+    "smlouva_id": "33229781",
+    "platnost_od": "2025-10-30",
+    "hodnota": 301120.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26365804",
+    "to": "33229785",
+    "smlouva_id": "33229785",
+    "platnost_od": "2025-10-30",
+    "hodnota": 190274.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25488627",
+    "to": "33229789",
+    "smlouva_id": "33229789",
+    "platnost_od": "2025-10-30",
+    "hodnota": 58824.22,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229793",
+    "smlouva_id": "33229793",
+    "platnost_od": "2025-10-30",
+    "hodnota": 115585.68,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229797",
+    "smlouva_id": "33229797",
+    "platnost_od": "2025-10-30",
+    "hodnota": 152085.06,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229801",
+    "smlouva_id": "33229801",
+    "platnost_od": "2025-10-30",
+    "hodnota": 61955.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229805",
+    "smlouva_id": "33229805",
+    "platnost_od": "2025-10-30",
+    "hodnota": 119777.83,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27085031",
+    "to": "33229809",
+    "smlouva_id": "33229809",
+    "platnost_od": "2025-10-30",
+    "hodnota": 83492.01,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00669806",
+    "to": "33229813",
+    "smlouva_id": "33229813",
+    "platnost_od": "2025-10-30",
+    "hodnota": 237715.28,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229817",
+    "smlouva_id": "33229817",
+    "platnost_od": "2025-10-30",
+    "hodnota": 131831.6,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229821",
+    "smlouva_id": "33229821",
+    "platnost_od": "2025-10-30",
+    "hodnota": 500493.25,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229825",
+    "smlouva_id": "33229825",
+    "platnost_od": "2025-10-30",
+    "hodnota": 147513.48,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00843989",
+    "to": "33229829",
+    "smlouva_id": "33229829",
+    "platnost_od": "2025-10-30",
+    "hodnota": 116155.67,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00844641",
+    "to": "33229833",
+    "smlouva_id": "33229833",
+    "platnost_od": "2025-10-30",
+    "hodnota": 92663.21,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00844853",
+    "to": "33229837",
+    "smlouva_id": "33229837",
+    "platnost_od": "2025-10-30",
+    "hodnota": 52726.7,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229841",
+    "smlouva_id": "33229841",
+    "platnost_od": "2025-10-30",
+    "hodnota": 134271.04,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00534188",
+    "to": "33229845",
+    "smlouva_id": "33229845",
+    "platnost_od": "2025-10-30",
+    "hodnota": 56115.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229849",
+    "smlouva_id": "33229849",
+    "platnost_od": "2025-10-30",
+    "hodnota": 63863.25,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229853",
+    "smlouva_id": "33229853",
+    "platnost_od": "2025-10-30",
+    "hodnota": 244189.69,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229857",
+    "smlouva_id": "33229857",
+    "platnost_od": "2025-10-30",
+    "hodnota": 839194.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00844641",
+    "to": "33229861",
+    "smlouva_id": "33229861",
+    "platnost_od": "2025-10-30",
+    "hodnota": 292384.97,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33229865",
+    "smlouva_id": "33229865",
+    "platnost_od": "2025-10-30",
+    "hodnota": 1687614.64,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00534188",
+    "to": "33229869",
+    "smlouva_id": "33229869",
+    "platnost_od": "2025-10-30",
+    "hodnota": 64381.57,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00843989",
+    "to": "33229873",
+    "smlouva_id": "33229873",
+    "platnost_od": "2025-10-30",
+    "hodnota": 108774.52,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00843989",
+    "to": "33229877",
+    "smlouva_id": "33229877",
+    "platnost_od": "2025-10-30",
+    "hodnota": 892336.37,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00843989",
+    "to": "33229881",
+    "smlouva_id": "33229881",
+    "platnost_od": "2025-10-30",
+    "hodnota": 228978.26,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00843989",
+    "to": "33229885",
+    "smlouva_id": "33229885",
+    "platnost_od": "2025-10-30",
+    "hodnota": 150560.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33229889",
+    "smlouva_id": "33229889",
+    "platnost_od": "2025-10-30",
+    "hodnota": 543189.34,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33229893",
+    "smlouva_id": "33229893",
+    "platnost_od": "2025-10-30",
+    "hodnota": 1510549.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33229897",
+    "smlouva_id": "33229897",
+    "platnost_od": "2025-10-30",
+    "hodnota": 83441.94,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33229901",
+    "smlouva_id": "33229901",
+    "platnost_od": "2025-10-30",
+    "hodnota": 629906.04,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33229905",
+    "smlouva_id": "33229905",
+    "platnost_od": "2025-10-30",
+    "hodnota": 67135.52,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33229909",
+    "smlouva_id": "33229909",
+    "platnost_od": "2025-10-30",
+    "hodnota": 201406.56,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33229913",
+    "smlouva_id": "33229913",
+    "platnost_od": "2025-10-30",
+    "hodnota": 67135.52,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229917",
+    "smlouva_id": "33229917",
+    "platnost_od": "2025-10-30",
+    "hodnota": 68655.65,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33229921",
+    "smlouva_id": "33229921",
+    "platnost_od": "2025-10-30",
+    "hodnota": 559189.25,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25261282",
+    "to": "33229925",
+    "smlouva_id": "33229925",
+    "platnost_od": "2025-10-31",
+    "hodnota": 338913.78,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25099019",
+    "to": "33229929",
+    "smlouva_id": "33229929",
+    "platnost_od": "2025-10-29",
+    "hodnota": 172366.16,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229933",
+    "smlouva_id": "33229933",
+    "platnost_od": "2025-10-29",
+    "hodnota": 389991.75,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24148725",
+    "to": "33229937",
+    "smlouva_id": "33229937",
+    "platnost_od": "2025-10-29",
+    "hodnota": 184369.07,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24148725",
+    "to": "33229941",
+    "smlouva_id": "33229941",
+    "platnost_od": "2025-10-29",
+    "hodnota": 724553.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24671819",
+    "to": "33229945",
+    "smlouva_id": "33229945",
+    "platnost_od": "2025-10-29",
+    "hodnota": 100576.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "49617052",
+    "to": "33229949",
+    "smlouva_id": "33229949",
+    "platnost_od": "2025-10-29",
+    "hodnota": 124726.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "63471507",
+    "to": "33229953",
+    "smlouva_id": "33229953",
+    "platnost_od": "2025-10-29",
+    "hodnota": 92400.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229957",
+    "smlouva_id": "33229957",
+    "platnost_od": "2025-10-29",
+    "hodnota": 195854.94,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33229961",
+    "smlouva_id": "33229961",
+    "platnost_od": "2025-10-27",
+    "hodnota": 101530.75,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24268551",
+    "to": "33229965",
+    "smlouva_id": "33229965",
+    "platnost_od": "2025-10-29",
+    "hodnota": 455760.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229969",
+    "smlouva_id": "33229969",
+    "platnost_od": "2025-10-29",
+    "hodnota": 180769.24,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229973",
+    "smlouva_id": "33229973",
+    "platnost_od": "2025-10-29",
+    "hodnota": 61725.17,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229977",
+    "smlouva_id": "33229977",
+    "platnost_od": "2025-10-29",
+    "hodnota": 154663.12,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229981",
+    "smlouva_id": "33229981",
+    "platnost_od": "2025-10-29",
+    "hodnota": 628376.94,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229985",
+    "smlouva_id": "33229985",
+    "platnost_od": "2025-10-29",
+    "hodnota": 83715.84,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33229989",
+    "smlouva_id": "33229989",
+    "platnost_od": "2025-10-29",
+    "hodnota": 223869.81,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33229993",
+    "smlouva_id": "33229993",
+    "platnost_od": "2025-10-29",
+    "hodnota": 381317.6,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33229997",
+    "smlouva_id": "33229997",
+    "platnost_od": "2025-10-29",
+    "hodnota": 105117.12,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25099019",
+    "to": "33230001",
+    "smlouva_id": "33230001",
+    "platnost_od": "2025-10-29",
+    "hodnota": 256637.06,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24268551",
+    "to": "33230005",
+    "smlouva_id": "33230005",
+    "platnost_od": "2025-10-29",
+    "hodnota": 150864.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230009",
+    "smlouva_id": "33230009",
+    "platnost_od": "2025-10-27",
+    "hodnota": 423809.26,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230013",
+    "smlouva_id": "33230013",
+    "platnost_od": "2025-10-29",
+    "hodnota": 245613.92,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230017",
+    "smlouva_id": "33230017",
+    "platnost_od": "2025-10-29",
+    "hodnota": 68623.44,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25099019",
+    "to": "33230021",
+    "smlouva_id": "33230021",
+    "platnost_od": "2025-10-29",
+    "hodnota": 335521.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230025",
+    "smlouva_id": "33230025",
+    "platnost_od": "2025-10-29",
+    "hodnota": 544829.04,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "49617052",
+    "to": "33230029",
+    "smlouva_id": "33230029",
+    "platnost_od": "2025-10-29",
+    "hodnota": 93059.22,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230033",
+    "smlouva_id": "33230033",
+    "platnost_od": "2025-10-29",
+    "hodnota": 67636.64,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230037",
+    "smlouva_id": "33230037",
+    "platnost_od": "2025-10-29",
+    "hodnota": 94188.95,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230041",
+    "smlouva_id": "33230041",
+    "platnost_od": "2025-10-29",
+    "hodnota": 95710.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28225619",
+    "to": "33114161",
+    "smlouva_id": "33114161",
+    "platnost_od": "2025-10-13",
+    "hodnota": 53644.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "62363930",
+    "to": "33230049",
+    "smlouva_id": "33230049",
+    "platnost_od": "2025-10-24",
+    "hodnota": 39535095.93,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "61388955",
+    "to": "33230053",
+    "smlouva_id": "33230053",
+    "platnost_od": "2025-10-31",
+    "hodnota": 129702.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47547715",
+    "to": "33230057",
+    "smlouva_id": "33230057",
+    "platnost_od": "2025-09-25",
+    "hodnota": 35271.81,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47547715",
+    "to": "33230061",
+    "smlouva_id": "33230061",
+    "platnost_od": "2025-09-25",
+    "hodnota": 60480.75,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47547715",
+    "to": "33230065",
+    "smlouva_id": "33230065",
+    "platnost_od": "2025-09-25",
+    "hodnota": 11861.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "46350110",
+    "to": "33230069",
+    "smlouva_id": "33230069",
+    "platnost_od": "2025-09-26",
+    "hodnota": 3841.75,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47547715",
+    "to": "33230073",
+    "smlouva_id": "33230073",
+    "platnost_od": "2025-09-30",
+    "hodnota": 193452.39,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "87869616",
+    "to": "33230077",
+    "smlouva_id": "33230077",
+    "platnost_od": "2025-09-30",
+    "hodnota": 87325.7,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24665258",
+    "to": "33230081",
+    "smlouva_id": "33230081",
+    "platnost_od": "2025-09-30",
+    "hodnota": 192377.11,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24665258",
+    "to": "33230085",
+    "smlouva_id": "33230085",
+    "platnost_od": "2025-09-30",
+    "hodnota": 43704.85,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095181",
+    "to": "33230089",
+    "smlouva_id": "33230089",
+    "platnost_od": "2025-11-01",
+    "hodnota": 62196.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60437359",
+    "to": "33230093",
+    "smlouva_id": "33230093",
+    "platnost_od": "2025-10-08",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "48117820",
+    "to": "33230097",
+    "smlouva_id": "33230097",
+    "platnost_od": "2025-10-30",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "48117820",
+    "to": "33230101",
+    "smlouva_id": "33230101",
+    "platnost_od": "2025-10-30",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26925974",
+    "to": "33230105",
+    "smlouva_id": "33230105",
+    "platnost_od": "2025-11-01",
+    "hodnota": 158040.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "41692861",
+    "to": "33230109",
+    "smlouva_id": "33230109",
+    "platnost_od": "2025-10-29",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "46960511",
+    "to": "33230113",
+    "smlouva_id": "33230113",
+    "platnost_od": "2025-08-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230117",
+    "smlouva_id": "33230117",
+    "platnost_od": "2025-11-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230121",
+    "smlouva_id": "33230121",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230125",
+    "smlouva_id": "33230125",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230129",
+    "smlouva_id": "33230129",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230133",
+    "smlouva_id": "33230133",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230137",
+    "smlouva_id": "33230137",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230141",
+    "smlouva_id": "33230141",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25656112",
+    "to": "33230145",
+    "smlouva_id": "33230145",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60461373",
+    "to": "33230153",
+    "smlouva_id": "33230153",
+    "platnost_od": "2025-10-14",
+    "hodnota": 365000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05448841",
+    "to": "33230157",
+    "smlouva_id": "33230157",
+    "platnost_od": "2025-11-01",
+    "hodnota": 146630.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60719877",
+    "to": "33230161",
+    "smlouva_id": "33230161",
+    "platnost_od": "2025-11-01",
+    "hodnota": 103868.79,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "NO_ICO_GENEWIZ_Germany_GmbH",
+    "to": "33230165",
+    "smlouva_id": "33230165",
+    "platnost_od": "2025-10-31",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "NO_ICO_UNIVERSITA'_DEGLI_ST",
+    "to": "33230169",
+    "smlouva_id": "33230169",
+    "platnost_od": "2025-10-22",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "NO_ICO_ANDRÁSSY_GYULA_BUDAP",
+    "to": "33230173",
+    "smlouva_id": "33230173",
+    "platnost_od": "2025-10-30",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "07577621",
+    "to": "33230177",
+    "smlouva_id": "33230177",
+    "platnost_od": "2025-10-24",
+    "hodnota": 1256379.3,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "15049931",
+    "to": "33230181",
+    "smlouva_id": "33230181",
+    "platnost_od": "2025-09-08",
+    "hodnota": 73011.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "NO_ICO_UNIVERSITA_DEGLI_STU",
+    "to": "33230185",
+    "smlouva_id": "33230185",
+    "platnost_od": "2025-10-30",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "02015081",
+    "to": "33230189",
+    "smlouva_id": "33230189",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "07757964",
+    "to": "33230193",
+    "smlouva_id": "33230193",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05223164",
+    "to": "33230197",
+    "smlouva_id": "33230197",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28198212",
+    "to": "33230201",
+    "smlouva_id": "33230201",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09088725",
+    "to": "33230205",
+    "smlouva_id": "33230205",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09443746",
+    "to": "33230209",
+    "smlouva_id": "33230209",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09381805",
+    "to": "33230213",
+    "smlouva_id": "33230213",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "07452080",
+    "to": "33230217",
+    "smlouva_id": "33230217",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06169643",
+    "to": "33230221",
+    "smlouva_id": "33230221",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06343317",
+    "to": "33230225",
+    "smlouva_id": "33230225",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06354009",
+    "to": "33230229",
+    "smlouva_id": "33230229",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05835151",
+    "to": "33230233",
+    "smlouva_id": "33230233",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "NO_ICO_Coursera__Inc.",
+    "to": "33230237",
+    "smlouva_id": "33230237",
+    "platnost_od": "2025-10-31",
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06229760",
+    "to": "33230241",
+    "smlouva_id": "33230241",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06508481",
+    "to": "33230245",
+    "smlouva_id": "33230245",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "04578031",
+    "to": "33230249",
+    "smlouva_id": "33230249",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24694151",
+    "to": "33230253",
+    "smlouva_id": "33230253",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28243498",
+    "to": "33230257",
+    "smlouva_id": "33230257",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08670269",
+    "to": "32290705",
+    "smlouva_id": "32290705",
+    "platnost_od": "2025-10-13",
+    "hodnota": 6592812.82,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "48108375",
+    "to": "33230261",
+    "smlouva_id": "33230261",
+    "platnost_od": "2025-10-30",
+    "hodnota": 441095.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08807213",
+    "to": "33230265",
+    "smlouva_id": "33230265",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08531650",
+    "to": "33230269",
+    "smlouva_id": "33230269",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00231266",
+    "to": "33230273",
+    "smlouva_id": "33230273",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24236420",
+    "to": "33230277",
+    "smlouva_id": "33230277",
+    "platnost_od": "2025-10-27",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00063703",
+    "to": "33230281",
+    "smlouva_id": "33230281",
+    "platnost_od": "2025-10-27",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08861072",
+    "to": "33230285",
+    "smlouva_id": "33230285",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08419183",
+    "to": "33230289",
+    "smlouva_id": "33230289",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05156998",
+    "to": "33230293",
+    "smlouva_id": "33230293",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "04920171",
+    "to": "33230297",
+    "smlouva_id": "33230297",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06237126",
+    "to": "33230301",
+    "smlouva_id": "33230301",
+    "platnost_od": "2025-10-21",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230305",
+    "smlouva_id": "33230305",
+    "platnost_od": "2025-10-29",
+    "hodnota": 59148.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230309",
+    "smlouva_id": "33230309",
+    "platnost_od": "2025-10-29",
+    "hodnota": 58104.73,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "44848200",
+    "to": "33230313",
+    "smlouva_id": "33230313",
+    "platnost_od": "2025-10-29",
+    "hodnota": 77822.38,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230317",
+    "smlouva_id": "33230317",
+    "platnost_od": "2025-10-29",
+    "hodnota": 158655.35,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230321",
+    "smlouva_id": "33230321",
+    "platnost_od": "2025-10-29",
+    "hodnota": 849401.22,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "48041351",
+    "to": "33230325",
+    "smlouva_id": "33230325",
+    "platnost_od": "2025-10-29",
+    "hodnota": 403200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24148725",
+    "to": "33230329",
+    "smlouva_id": "33230329",
+    "platnost_od": "2025-10-29",
+    "hodnota": 98563.14,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26260654",
+    "to": "33230333",
+    "smlouva_id": "33230333",
+    "platnost_od": "2025-10-29",
+    "hodnota": 233407.45,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230337",
+    "smlouva_id": "33230337",
+    "platnost_od": "2025-10-29",
+    "hodnota": 80012.24,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230341",
+    "smlouva_id": "33230341",
+    "platnost_od": "2025-10-29",
+    "hodnota": 193603.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230345",
+    "smlouva_id": "33230345",
+    "platnost_od": "2025-10-29",
+    "hodnota": 83095.48,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230349",
+    "smlouva_id": "33230349",
+    "platnost_od": "2025-10-29",
+    "hodnota": 425090.97,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27529053",
+    "to": "33230353",
+    "smlouva_id": "33230353",
+    "platnost_od": "2025-10-29",
+    "hodnota": 51632.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "49617052",
+    "to": "33230357",
+    "smlouva_id": "33230357",
+    "platnost_od": "2025-10-29",
+    "hodnota": 80549.84,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25099019",
+    "to": "33230361",
+    "smlouva_id": "33230361",
+    "platnost_od": "2025-10-29",
+    "hodnota": 52712.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230365",
+    "smlouva_id": "33230365",
+    "platnost_od": "2025-10-29",
+    "hodnota": 240275.33,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230369",
+    "smlouva_id": "33230369",
+    "platnost_od": "2025-10-29",
+    "hodnota": 60312.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60469803",
+    "to": "33230373",
+    "smlouva_id": "33230373",
+    "platnost_od": "2025-10-29",
+    "hodnota": 403200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19010290",
+    "to": "33230377",
+    "smlouva_id": "33230377",
+    "platnost_od": "2025-10-29",
+    "hodnota": 78090.34,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "45359326",
+    "to": "33230381",
+    "smlouva_id": "33230381",
+    "platnost_od": "2025-10-29",
+    "hodnota": 707065.89,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230385",
+    "smlouva_id": "33230385",
+    "platnost_od": "2025-10-29",
+    "hodnota": 129004.84,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "14707420",
+    "to": "33230389",
+    "smlouva_id": "33230389",
+    "platnost_od": "2025-10-29",
+    "hodnota": 1038691.8,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06616631",
+    "to": "33230393",
+    "smlouva_id": "33230393",
+    "platnost_od": "2025-10-29",
+    "hodnota": 84055.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28538153",
+    "to": "33230397",
+    "smlouva_id": "33230397",
+    "platnost_od": "2025-10-29",
+    "hodnota": 72271.11,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "47913240",
+    "to": "33230401",
+    "smlouva_id": "33230401",
+    "platnost_od": "2025-10-29",
+    "hodnota": 56124.07,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "67985815",
+    "to": "33230405",
+    "smlouva_id": "33230405",
+    "platnost_od": "2025-10-31",
+    "hodnota": 5811669.66,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "44994575",
+    "to": "33230409",
+    "smlouva_id": "33230409",
+    "platnost_od": "2025-10-31",
+    "hodnota": 2706403.68,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "60077344",
+    "to": "33230413",
+    "smlouva_id": "33230413",
+    "platnost_od": "2025-10-31",
+    "hodnota": 12795643.63,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "67985955",
+    "to": "33230417",
+    "smlouva_id": "33230417",
+    "platnost_od": "2025-10-31",
+    "hodnota": 604600.17,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33230421",
+    "smlouva_id": "33230421",
+    "platnost_od": "2025-10-31",
+    "hodnota": 6813691.62,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "62156462",
+    "to": "33230425",
+    "smlouva_id": "33230425",
+    "platnost_od": "2025-10-31",
+    "hodnota": 72284.94,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33230429",
+    "smlouva_id": "33230429",
+    "platnost_od": "2025-10-31",
+    "hodnota": 14291651.98,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "70950164",
+    "to": "33230433",
+    "smlouva_id": "33230433",
+    "platnost_od": "2025-10-31",
+    "hodnota": 788150.02,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00098892",
+    "to": "33230437",
+    "smlouva_id": "33230437",
+    "platnost_od": "2025-10-31",
+    "hodnota": 117810.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064211",
+    "to": "33230441",
+    "smlouva_id": "33230441",
+    "platnost_od": "2025-10-31",
+    "hodnota": 154267.12,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230445",
+    "smlouva_id": "33230445",
+    "platnost_od": "2025-10-31",
+    "hodnota": 415579.56,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230449",
+    "smlouva_id": "33230449",
+    "platnost_od": "2025-10-31",
+    "hodnota": 139271.56,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05082013",
+    "to": "33230453",
+    "smlouva_id": "33230453",
+    "platnost_od": "2025-10-29",
+    "hodnota": 2088000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27283518",
+    "to": "33230457",
+    "smlouva_id": "33230457",
+    "platnost_od": "2025-10-31",
+    "hodnota": 248531.29,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256391",
+    "to": "33230461",
+    "smlouva_id": "33230461",
+    "platnost_od": "2025-10-31",
+    "hodnota": 286502.78,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27283933",
+    "to": "33230465",
+    "smlouva_id": "33230465",
+    "platnost_od": "2025-10-31",
+    "hodnota": 82928.54,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256391",
+    "to": "33230469",
+    "smlouva_id": "33230469",
+    "platnost_od": "2025-10-31",
+    "hodnota": 96499.67,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256391",
+    "to": "33230473",
+    "smlouva_id": "33230473",
+    "platnost_od": "2025-10-31",
+    "hodnota": 94461.55,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33230477",
+    "smlouva_id": "33230477",
+    "platnost_od": "2025-10-31",
+    "hodnota": 110417.86,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25488627",
+    "to": "33230481",
+    "smlouva_id": "33230481",
+    "platnost_od": "2025-10-31",
+    "hodnota": 671027.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256456",
+    "to": "33230485",
+    "smlouva_id": "33230485",
+    "platnost_od": "2025-10-31",
+    "hodnota": 104702.93,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230489",
+    "smlouva_id": "33230489",
+    "platnost_od": "2025-10-31",
+    "hodnota": 263329.59,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230493",
+    "smlouva_id": "33230493",
+    "platnost_od": "2025-10-31",
+    "hodnota": 141876.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "25488627",
+    "to": "33230497",
+    "smlouva_id": "33230497",
+    "platnost_od": "2025-10-31",
+    "hodnota": 233344.69,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "54299853",
+    "to": "33230501",
+    "smlouva_id": "33230501",
+    "platnost_od": "2025-10-24",
+    "hodnota": 136730.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08438749",
+    "to": "25361431",
+    "smlouva_id": "25361431",
+    "platnost_od": "2023-12-29",
+    "hodnota": 60500.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "54299853",
+    "to": "33230505",
+    "smlouva_id": "33230505",
+    "platnost_od": "2025-10-24",
+    "hodnota": 204490.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179540",
+    "to": "33230509",
+    "smlouva_id": "33230509",
+    "platnost_od": "2025-10-31",
+    "hodnota": 62995.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095203",
+    "to": "33230513",
+    "smlouva_id": "33230513",
+    "platnost_od": "2025-10-31",
+    "hodnota": 79003.54,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27256456",
+    "to": "33230517",
+    "smlouva_id": "33230517",
+    "platnost_od": "2025-10-31",
+    "hodnota": 58923.66,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33230521",
+    "smlouva_id": "33230521",
+    "platnost_od": "2025-10-31",
+    "hodnota": 1342710.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27530981",
+    "to": "33230525",
+    "smlouva_id": "33230525",
+    "platnost_od": "2025-10-31",
+    "hodnota": 50851.53,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023884",
+    "to": "33230529",
+    "smlouva_id": "33230529",
+    "platnost_od": "2025-10-31",
+    "hodnota": 112461.13,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023736",
+    "to": "33230533",
+    "smlouva_id": "33230533",
+    "platnost_od": "2025-10-31",
+    "hodnota": 447351.4,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230537",
+    "smlouva_id": "33230537",
+    "platnost_od": "2025-10-31",
+    "hodnota": 2309353.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27530981",
+    "to": "33230541",
+    "smlouva_id": "33230541",
+    "platnost_od": "2025-10-31",
+    "hodnota": 71944.65,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27283933",
+    "to": "33230545",
+    "smlouva_id": "33230545",
+    "platnost_od": "2025-10-31",
+    "hodnota": 84455.07,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33230549",
+    "smlouva_id": "33230549",
+    "platnost_od": "2025-10-31",
+    "hodnota": 147455.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27283518",
+    "to": "33230553",
+    "smlouva_id": "33230553",
+    "platnost_od": "2025-10-31",
+    "hodnota": 75333.15,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33230557",
+    "smlouva_id": "33230557",
+    "platnost_od": "2025-10-31",
+    "hodnota": 404617.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28051955",
+    "to": "33230561",
+    "smlouva_id": "33230561",
+    "platnost_od": "2025-09-01",
+    "hodnota": 26100.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33230565",
+    "smlouva_id": "33230565",
+    "platnost_od": "2025-10-31",
+    "hodnota": 90703.62,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26071970",
+    "to": "33230569",
+    "smlouva_id": "33230569",
+    "platnost_od": "2025-09-01",
+    "hodnota": 26100.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00064165",
+    "to": "33230573",
+    "smlouva_id": "33230573",
+    "platnost_od": "2025-10-31",
+    "hodnota": 76884.5,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28051955",
+    "to": "33230577",
+    "smlouva_id": "33230577",
+    "platnost_od": "2025-09-01",
+    "hodnota": 26100.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00023001",
+    "to": "33230581",
+    "smlouva_id": "33230581",
+    "platnost_od": "2025-10-31",
+    "hodnota": 95706.62,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19111975",
+    "to": "33230585",
+    "smlouva_id": "33230585",
+    "platnost_od": "2025-10-01",
+    "hodnota": 26100.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00179906",
+    "to": "33230589",
+    "smlouva_id": "33230589",
+    "platnost_od": "2025-10-31",
+    "hodnota": 1036049.92,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "19041974",
+    "to": "33230593",
+    "smlouva_id": "33230593",
+    "platnost_od": "2025-09-01",
+    "hodnota": 52200.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "26095190",
+    "to": "33230597",
+    "smlouva_id": "33230597",
+    "platnost_od": "2025-10-31",
+    "hodnota": 118080.75,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33230601",
+    "smlouva_id": "33230601",
+    "platnost_od": "2025-10-31",
+    "hodnota": 343305.9,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33230605",
+    "smlouva_id": "33230605",
+    "platnost_od": "2025-10-31",
+    "hodnota": 425437.25,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33230609",
+    "smlouva_id": "33230609",
+    "platnost_od": "2025-10-31",
+    "hodnota": 4817080.2,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "27661989",
+    "to": "33230613",
+    "smlouva_id": "33230613",
+    "platnost_od": "2025-10-31",
+    "hodnota": 250035.12,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "65269705",
+    "to": "33230617",
+    "smlouva_id": "33230617",
+    "platnost_od": "2025-10-31",
+    "hodnota": 79326.99,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00159816",
+    "to": "33230621",
+    "smlouva_id": "33230621",
+    "platnost_od": "2025-10-31",
+    "hodnota": 50056.1,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "02015081",
+    "to": "33230189",
+    "smlouva_id": "33230189",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "07757964",
+    "to": "33230193",
+    "smlouva_id": "33230193",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05223164",
+    "to": "33230197",
+    "smlouva_id": "33230197",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28198212",
+    "to": "33230201",
+    "smlouva_id": "33230201",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09088725",
+    "to": "33230205",
+    "smlouva_id": "33230205",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09443746",
+    "to": "33230209",
+    "smlouva_id": "33230209",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "09381805",
+    "to": "33230213",
+    "smlouva_id": "33230213",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "07452080",
+    "to": "33230217",
+    "smlouva_id": "33230217",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06169643",
+    "to": "33230221",
+    "smlouva_id": "33230221",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06343317",
+    "to": "33230225",
+    "smlouva_id": "33230225",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06354009",
+    "to": "33230229",
+    "smlouva_id": "33230229",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05835151",
+    "to": "33230233",
+    "smlouva_id": "33230233",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06229760",
+    "to": "33230241",
+    "smlouva_id": "33230241",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06508481",
+    "to": "33230245",
+    "smlouva_id": "33230245",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "04578031",
+    "to": "33230249",
+    "smlouva_id": "33230249",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24694151",
+    "to": "33230253",
+    "smlouva_id": "33230253",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "28243498",
+    "to": "33230257",
+    "smlouva_id": "33230257",
+    "platnost_od": "2025-10-29",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08807213",
+    "to": "33230265",
+    "smlouva_id": "33230265",
+    "platnost_od": "2025-10-30",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08531650",
+    "to": "33230269",
+    "smlouva_id": "33230269",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00231266",
+    "to": "33230273",
+    "smlouva_id": "33230273",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "24236420",
+    "to": "33230277",
+    "smlouva_id": "33230277",
+    "platnost_od": "2025-10-27",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "00063703",
+    "to": "33230281",
+    "smlouva_id": "33230281",
+    "platnost_od": "2025-10-27",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08861072",
+    "to": "33230285",
+    "smlouva_id": "33230285",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "08419183",
+    "to": "33230289",
+    "smlouva_id": "33230289",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "05156998",
+    "to": "33230293",
+    "smlouva_id": "33230293",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "04920171",
+    "to": "33230297",
+    "smlouva_id": "33230297",
+    "platnost_od": "2025-10-23",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  },
+  {
+    "from": "06237126",
+    "to": "33230301",
+    "smlouva_id": "33230301",
+    "platnost_od": "2025-10-21",
+    "hodnota": 800000.0,
+    "mena": "CZK",
+    "zdroj_id": "REGISTR_SMLUV"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "zdroj_id": "REGISTR_SMLUV",
+    "nazev": "Registr smluv",
+    "url": "https://smlouvy.gov.cz",
+    "typ": "registr",
+    "licence": "otevrena-data",
+    "datum_ziskani": "2025-11-17T12:10:02.349971"
+  },
+  {
+    "zdroj_id": "RZP",
+    "nazev": "Registr živnostenského podnikání",
+    "url": "https://rzp.gov.cz",
+    "typ": "registr",
+    "licence": "otevrena-data",
+    "datum_ziskani": "2025-11-17T12:10:02.370780"
+  }
+]

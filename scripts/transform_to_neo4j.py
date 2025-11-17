@@ -9,6 +9,18 @@ import glob
 from datetime import datetime
 import sys
 from pathlib import Path
+from typing import Optional
+
+def normalize_ico(ico: Optional[str]) -> Optional[str]:
+    """Normalizuje IČO na formát bez mezer a s leading zeros."""
+    if not ico:
+        return None
+    ico_clean = ''.join(filter(str.isdigit, str(ico)))
+    if len(ico_clean) < 8:
+        ico_clean = ico_clean.zfill(8)
+    elif len(ico_clean) > 8:
+        ico_clean = ico_clean[:8]
+    return ico_clean if ico_clean else None
 
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -207,6 +219,22 @@ class Neo4jTransformer:
         for file in people_files:
             if "transformed" not in file:
                 self.transform_people(file)
+        
+        # Create Zdroj for RZP
+        zdroj_rzp = self.get_or_create_zdroj(
+            "RZP",
+            "Registr živnostenského podnikání",
+            "https://rzp.gov.cz",
+            "registr"
+        )
+        
+        # Transform RZP data (from extracted directory)
+        rzp_dir = Path(__file__).parent.parent / "data" / "people" / "extracted" / "rzp"
+        if rzp_dir.exists():
+            rzp_files = list(rzp_dir.glob("rzp_persons_*.json"))
+            for file in rzp_files:
+                if "transformed" not in str(file):
+                    self.transform_rzp_data(str(file), zdroj_rzp, filter_ico=filter_ico)
         
         # Save transformed data
         self.save_transformed_data()
@@ -441,6 +469,180 @@ class Neo4jTransformer:
                 # Clean None values
                 rel = {k: v for k, v in rel.items() if v is not None and v != ""}
                 self.relationships["VYKONAVA_FUNKCI"].append(rel)
+    
+    def transform_rzp_data(self, file_path, zdroj_id: str, filter_ico=None):
+        """
+        Transformuje data z RZP do Neo4j formátu.
+        
+        Czech schema:
+        - Osoba nodes (živnostníci)
+        - Firma nodes (pokud ještě neexistují)
+        - Relationships: VYKONAVA_FUNKCI (Osoba -> Firma), VLASTNI_PODIL (Osoba -> Firma)
+        """
+        print(f"Processing RZP data from {os.path.basename(file_path)}...")
+        
+        with open(file_path, 'r', encoding='utf-8') as f:
+            rzp_persons = json.load(f)
+        
+        persons_processed = 0
+        
+        for person_data in rzp_persons:
+            # Filtrování podle IČO (pokud je zadáno)
+            if filter_ico:
+                person_ico = person_data.get("ico")
+                if person_ico != normalize_ico(filter_ico):
+                    continue
+            
+            # Vytvořit Osoba node
+            person_ico = person_data.get("ico")
+            if person_ico:
+                osoba_id = f"OSOBA-{person_ico}"
+            else:
+                # Fallback - použít jméno
+                jmeno = person_data.get("jmeno", "")
+                prijmeni = person_data.get("prijmeni", "")
+                osoba_id = f"OSOBA-{jmeno}_{prijmeni}".replace(" ", "_")[:30]
+            
+            # Zkontrolovat, zda už osoba neexistuje
+            if any(o.get("osoba_id") == osoba_id for o in self.nodes["Osoba"]):
+                # Osoba už existuje, použít existující
+                pass
+            else:
+                # Vytvořit nový Osoba node
+                jmeno = person_data.get("jmeno", "")
+                prijmeni = person_data.get("prijmeni", "")
+                cele_jmeno = person_data.get("cele_jmeno", f"{jmeno} {prijmeni}".strip())
+                
+                osoba_node = {
+                    "osoba_id": osoba_id,
+                    "cele_jmeno": cele_jmeno,
+                    "jmeno": jmeno,
+                    "prijmeni": prijmeni,
+                    "datum_narozeni": person_data.get("datum_narozeni"),
+                    "statni_prislusnost": "CZ",
+                    "stav_zaznamu": "overeny"
+                }
+                
+                # Clean None values
+                osoba_node = {k: v for k, v in osoba_node.items() if v is not None and v != ""}
+                self.nodes["Osoba"].append(osoba_node)
+            
+            # Propojit se Zdroj
+            rel_zdroj = {
+                "from": osoba_id,
+                "to": zdroj_id,
+                "datum_ziskani": datetime.now().isoformat()
+            }
+            self.relationships["POCHAZI_Z"].append(rel_zdroj)
+            
+            # Vytvořit vztahy s firmami
+            relationships = person_data.get("relationships", [])
+            for relationship in relationships:
+                firma_ico = relationship.get("firma_ico")
+                if not firma_ico:
+                    continue
+                
+                # Zajistit, že Firma node existuje
+                # Použijeme prázdný název, protože z RZP nemusíme mít název firmy
+                firma_id = self.get_or_create_firma(
+                    {"ico": firma_ico, "name": ""},
+                    zdroj_id
+                )
+                
+                # Vytvořit VYKONAVA_FUNKCI relationship
+                if relationship.get("type") == "VYKONAVA_FUNKCI":
+                    rel = {
+                        "from": osoba_id,
+                        "to": firma_ico,  # Firma používá IČO jako ID
+                        "role": relationship.get("role", ""),
+                        "platnost_od": relationship.get("platnost_od", ""),
+                        "platnost_do": relationship.get("platnost_do", ""),
+                        "zdroj_id": zdroj_id
+                    }
+                    rel = {k: v for k, v in rel.items() if v is not None and v != ""}
+                    self.relationships["VYKONAVA_FUNKCI"].append(rel)
+                
+                # Vytvořit VLASTNI_PODIL relationship
+                elif relationship.get("type") == "VLASTNI_PODIL":
+                    rel = {
+                        "from": osoba_id,
+                        "to": firma_ico,
+                        "podil_procent": relationship.get("podil_procent"),
+                        "platnost_od": relationship.get("platnost_od", ""),
+                        "platnost_do": relationship.get("platnost_do", ""),
+                        "zdroj_id": zdroj_id
+                    }
+                    rel = {k: v for k, v in rel.items() if v is not None and v != ""}
+                    self.relationships["VLASTNI_PODIL"].append(rel)
+        
+        # Zpracovat relationships, které mají osoba_jmeno místo osoba_id
+        # (např. ze statutárního orgánu, kde osoba ještě neexistuje jako node)
+        for person_data in rzp_persons:
+            relationships = person_data.get("relationships", [])
+            for relationship in relationships:
+                # Pokud relationship má osoba_jmeno, vytvořit nebo najít Osoba node
+                osoba_jmeno = relationship.get("osoba_jmeno")
+                if osoba_jmeno:
+                    # Zkusit najít existující osobu podle jména
+                    jmeno_parts = osoba_jmeno.split(" ", 1)
+                    jmeno = jmeno_parts[0] if jmeno_parts else ""
+                    prijmeni = jmeno_parts[1] if len(jmeno_parts) > 1 else ""
+                    
+                    # Zkusit najít existující osobu
+                    osoba_id = None
+                    for osoba in self.nodes["Osoba"]:
+                        if (osoba.get("jmeno") == jmeno and 
+                            osoba.get("prijmeni") == prijmeni):
+                            osoba_id = osoba.get("osoba_id")
+                            break
+                    
+                    # Pokud osoba neexistuje, vytvořit novou
+                    if not osoba_id:
+                        osoba_id = f"OSOBA-{jmeno}_{prijmeni}".replace(" ", "_")[:30]
+                        osoba_node = {
+                            "osoba_id": osoba_id,
+                            "cele_jmeno": osoba_jmeno,
+                            "jmeno": jmeno,
+                            "prijmeni": prijmeni,
+                            "statni_prislusnost": "CZ",
+                            "stav_zaznamu": "overeny"
+                        }
+                        osoba_node = {k: v for k, v in osoba_node.items() if v is not None and v != ""}
+                        self.nodes["Osoba"].append(osoba_node)
+                        
+                        # Propojit se Zdroj
+                        rel_zdroj = {
+                            "from": osoba_id,
+                            "to": zdroj_id,
+                            "datum_ziskani": datetime.now().isoformat()
+                        }
+                        self.relationships["POCHAZI_Z"].append(rel_zdroj)
+                    
+                    # Vytvořit relationship s firmou
+                    firma_ico = relationship.get("firma_ico")
+                    firma_nazev = relationship.get("firma_nazev", "")
+                    if firma_ico:
+                        # Použít název firmy z relationship, pokud je k dispozici
+                        firma_id = self.get_or_create_firma(
+                            {"ico": firma_ico, "name": firma_nazev},
+                            zdroj_id
+                        )
+                        
+                        if relationship.get("type") == "VYKONAVA_FUNKCI":
+                            rel = {
+                                "from": osoba_id,
+                                "to": firma_ico,
+                                "role": relationship.get("role", ""),
+                                "platnost_od": relationship.get("platnost_od", ""),
+                                "platnost_do": relationship.get("platnost_do", ""),
+                                "zdroj_id": zdroj_id
+                            }
+                            rel = {k: v for k, v in rel.items() if v is not None and v != ""}
+                            self.relationships["VYKONAVA_FUNKCI"].append(rel)
+            
+            persons_processed += 1
+        
+        print(f"  Processed {persons_processed} persons from RZP")
     
     def save_transformed_data(self):
         """Save transformed nodes and relationships to JSON files."""

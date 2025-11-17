@@ -1,0 +1,244 @@
+[
+  {
+    "zadavatel_id": "00064190",
+    "ico": "00064190",
+    "nazev": "Fakultní Thomayerova nemocnice",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "45359326",
+    "ico": "45359326",
+    "nazev": "PHOENIX lékárenský velkoobchod, s.r.o.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "23223561",
+    "ico": "23223561",
+    "nazev": "Kutná Hora v pohybu, z.ú.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "28462564",
+    "ico": "28462564",
+    "nazev": "Merck Sharp &amp; Dohme s.r.o.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00066001",
+    "ico": "00066001",
+    "nazev": "Krajská správa a údržba silnic Středočeského kraje, příspěvková organizace",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00090638",
+    "ico": "00090638",
+    "nazev": "Nemocnice Jihlava p.o.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "71154639",
+    "ico": "71154639",
+    "nazev": "VICTORIA Vysokoškolské sportovní centrum Ministerstva školství, mládeže a tělovýchovy",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00006947",
+    "ico": "00006947",
+    "nazev": "Ministerstvo financí",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "60457856",
+    "ico": "60457856",
+    "nazev": "Středisko společných činností AV ČR, v. v. i.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "68378041",
+    "ico": "68378041",
+    "nazev": "Ústav experimentální medicíny AV ČR, v. v. i.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "14888742",
+    "ico": "14888742",
+    "nazev": "ViaPharma s.r.o.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "02795281",
+    "ico": "02795281",
+    "nazev": "Operátor ICT, a.s.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00559482",
+    "ico": "00559482",
+    "nazev": "Střední průmyslová škola Zlín",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "60800691",
+    "ico": "60800691",
+    "nazev": "Vojenská nemocnice Olomouc",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "23186780",
+    "ico": "23186780",
+    "nazev": "Mateřská škola Čtyřlístek, Přerov-Předmostí, Pod Skalkou 13, příspěvková organizace",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "25656112",
+    "ico": "25656112",
+    "nazev": "Pražská vodohospodářská společnost a.s.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "71226401",
+    "ico": "71226401",
+    "nazev": "Vysoká škola polytechnická Jihlava",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00159816",
+    "ico": "00159816",
+    "nazev": "Fakultní nemocnice u sv. Anny v Brně",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "00216208",
+    "ico": "00216208",
+    "nazev": "Univerzita Karlova",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "46747885",
+    "ico": "46747885",
+    "nazev": "Technická univerzita v Liberci",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "ZADAVATEL_Městský_obvod_Pardub",
+    "nazev": "Městský obvod Pardubice I",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "70886288",
+    "ico": "70886288",
+    "nazev": "Hasičský záchranný sbor hlavního města Prahy",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "62690094",
+    "ico": "62690094",
+    "nazev": "Univerzita Hradec Králové",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "60077638",
+    "ico": "60077638",
+    "nazev": "Dům dětí a mládeže, České Budějovice, U Zimního stadionu 1",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "70837881",
+    "ico": "70837881",
+    "nazev": "Vyšší odborná škola a Střední průmyslová škola elektrotechnická Františka Křižíka, Praha 1, Na Příkopě 16",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "61387142",
+    "ico": "61387142",
+    "nazev": "Národní technická knihovna",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "zadavatel_id": "25375601",
+    "ico": "25375601",
+    "nazev": "Technické služby Havířov a.s.",
+    "typ": "ministerstvo",
+    "uroven": "centralni",
+    "jurisdikce": "CZ",
+    "stav_zaznamu": "overeny"
+  }
+]
