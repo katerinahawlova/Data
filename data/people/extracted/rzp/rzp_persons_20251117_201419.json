@@ -1,0 +1,2926 @@
+[
+  {
+    "jmeno": "Pavlína",
+    "prijmeni": "Čížková",
+    "cele_jmeno": "Pavlína Čížková",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavlína Čížková",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.02.2024",
+        "platnost_do": "04.12.2024",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Roman",
+    "prijmeni": "Stodůlka",
+    "cele_jmeno": "Roman Stodůlka",
+    "relationships": [
+      {
+        "osoba_jmeno": "Roman Stodůlka",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "17.02.2023",
+        "platnost_do": "24.06.2025",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jarmila",
+    "prijmeni": "BOUČKOVÁ",
+    "cele_jmeno": "Jarmila BOUČKOVÁ",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jarmila BOUČKOVÁ",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.05.2019",
+        "platnost_do": "07.05.2020",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Eliška",
+    "prijmeni": "Davidová",
+    "cele_jmeno": "Eliška Davidová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Eliška Davidová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.03.2019",
+        "platnost_do": "26.02.2024",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Věra",
+    "prijmeni": "Cmíralová",
+    "cele_jmeno": "Věra Cmíralová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Věra Cmíralová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.12.2018",
+        "platnost_do": "31.12.2022",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Květuše",
+    "prijmeni": "Holemá",
+    "cele_jmeno": "Květuše Holemá",
+    "relationships": [
+      {
+        "osoba_jmeno": "Květuše Holemá",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "19.06.2018",
+        "platnost_do": "28.02.2023",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Zuzana",
+    "prijmeni": "Krumpolcová",
+    "cele_jmeno": "Zuzana Krumpolcová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Zuzana Krumpolcová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "11.01.2018",
+        "platnost_do": "31.03.2018",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jana",
+    "prijmeni": "Želinská",
+    "cele_jmeno": "Jana Želinská",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jana Želinská",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.03.2016",
+        "platnost_do": "04.12.2018",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Olga",
+    "prijmeni": "Pečinková",
+    "cele_jmeno": "Olga Pečinková",
+    "relationships": [
+      {
+        "osoba_jmeno": "Olga Pečinková",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.07.2014",
+        "platnost_do": "31.12.2017",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Peter",
+    "prijmeni": "Pavlík",
+    "cele_jmeno": "Peter Pavlík",
+    "relationships": [
+      {
+        "osoba_jmeno": "Peter Pavlík",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.01.2014",
+        "platnost_do": "31.07.2018",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Bc.",
+    "prijmeni": "Jan Kubásek",
+    "cele_jmeno": "Bc. Jan Kubásek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Bc. Jan Kubásek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.10.2013",
+        "platnost_do": "30.06.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "24.06.2013",
+        "platnost_do": "30.06.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel Kytýr",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.12.2012",
+        "platnost_do": "31.03.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Cinkl",
+    "cele_jmeno": "Petr Cinkl",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Cinkl",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.05.2012",
+        "platnost_do": "30.11.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Hodek",
+    "cele_jmeno": "Jan Hodek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Hodek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.02.2012",
+        "platnost_do": "31.12.2013",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Mandík",
+    "cele_jmeno": "Ing. Pavel Mandík",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Mandík",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.02.2012",
+        "platnost_do": "30.09.2013",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Novák",
+    "cele_jmeno": "Jaroslav Novák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Novák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.02.2012",
+        "platnost_do": "24.06.2013",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.02.2012",
+        "platnost_do": "30.11.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel Kytýr",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.02.2012",
+        "platnost_do": "30.04.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Igor Jeřábek",
+    "cele_jmeno": "Ing. Igor Jeřábek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Igor Jeřábek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "02.06.2011",
+        "platnost_do": "28.02.2018",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Marian Hudec",
+    "cele_jmeno": "Ing. Marian Hudec",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Marian Hudec",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.06.2011",
+        "platnost_do": "01.06.2011",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Michal Pešek",
+    "cele_jmeno": "Ing. Michal Pešek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Michal Pešek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.10.2009",
+        "platnost_do": "01.03.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Ostrý",
+    "cele_jmeno": "Jan Ostrý",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Ostrý",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.03.2010",
+        "platnost_do": "31.03.2011",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Hanuš",
+    "cele_jmeno": "Petr Hanuš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Hanuš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.01.2010",
+        "platnost_do": "28.02.2011",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Korecký",
+    "cele_jmeno": "Jaroslav Korecký",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Korecký",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.12.2008",
+        "platnost_do": "30.09.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Jirák",
+    "cele_jmeno": "Petr Jirák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Jirák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.10.2008",
+        "platnost_do": "31.12.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Šalé",
+    "cele_jmeno": "Jan Šalé",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Šalé",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "16.11.2007",
+        "platnost_do": "23.06.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "Petr Zoubek",
+    "cele_jmeno": "Mgr. Petr Zoubek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. Petr Zoubek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "15.10.2007",
+        "platnost_do": "31.05.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Karel Jadwiszczok",
+    "cele_jmeno": "Ing. Karel Jadwiszczok",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Karel Jadwiszczok",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.08.2007",
+        "platnost_do": "31.03.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Jirák",
+    "cele_jmeno": "Petr Jirák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Jirák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.06.2007",
+        "platnost_do": "31.05.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Robin",
+    "prijmeni": "Novák",
+    "cele_jmeno": "Robin Novák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Robin Novák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.06.2007",
+        "platnost_do": "22.12.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Pavel",
+    "prijmeni": "Jelínek",
+    "cele_jmeno": "Pavel Jelínek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavel Jelínek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.01.2007",
+        "platnost_do": "31.05.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Pavel",
+    "prijmeni": "Jelínek",
+    "cele_jmeno": "Pavel Jelínek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavel Jelínek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.12.2006",
+        "platnost_do": "07.11.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Robin",
+    "prijmeni": "Novák",
+    "cele_jmeno": "Robin Novák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Robin Novák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.12.2006",
+        "platnost_do": "17.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "Petr Zoubek",
+    "cele_jmeno": "Mgr. Petr Zoubek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. Petr Zoubek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.09.2006",
+        "platnost_do": "01.03.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "Radim Bureš",
+    "cele_jmeno": "Mgr. Radim Bureš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. Radim Bureš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.09.2006",
+        "platnost_do": "15.11.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "et Mgr. Zdeněk Tomica, MBA",
+    "cele_jmeno": "Mgr. et Mgr. Zdeněk Tomica, MBA",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. et Mgr. Zdeněk Tomica, MBA",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.09.2006",
+        "platnost_do": "12.10.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "et Bc. Petr Šlechta",
+    "cele_jmeno": "Mgr. et Bc. Petr Šlechta",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. et Bc. Petr Šlechta",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.09.2006",
+        "platnost_do": "05.06.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "David Přibyl",
+    "cele_jmeno": "Ing. David Přibyl",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. David Přibyl",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.10.2004",
+        "platnost_do": "30.09.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Mgr.",
+    "prijmeni": "Helena Tomášková",
+    "cele_jmeno": "Mgr. Helena Tomášková",
+    "relationships": [
+      {
+        "osoba_jmeno": "Mgr. Helena Tomášková",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.10.2004",
+        "platnost_do": "26.06.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jitka Salmonová",
+    "cele_jmeno": "Ing. Jitka Salmonová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jitka Salmonová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.10.2004",
+        "platnost_do": "13.09.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Tomáš",
+    "prijmeni": "Žitník",
+    "cele_jmeno": "Tomáš Žitník",
+    "relationships": [
+      {
+        "osoba_jmeno": "Tomáš Žitník",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.10.2004",
+        "platnost_do": "13.09.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Václav",
+    "prijmeni": "Švec",
+    "cele_jmeno": "Václav Švec",
+    "relationships": [
+      {
+        "osoba_jmeno": "Václav Švec",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.10.2004",
+        "platnost_do": "13.09.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ludmila",
+    "prijmeni": "Hudcová",
+    "cele_jmeno": "Ludmila Hudcová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ludmila Hudcová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.09.1995",
+        "platnost_do": "05.10.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Novák",
+    "cele_jmeno": "Jaroslav Novák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Novák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.04.2006",
+        "platnost_do": "08.10.2019",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Bartoněk",
+    "cele_jmeno": "Petr Bartoněk",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Bartoněk",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "06.02.2008",
+        "platnost_do": "02.09.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "08.03.1995",
+        "platnost_do": "21.09.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.09.2001",
+        "platnost_do": "26.04.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Pavel",
+    "prijmeni": "Štross",
+    "cele_jmeno": "Pavel Štross",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavel Štross",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "08.03.1995",
+        "platnost_do": "30.06.2003",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Otto Plechata",
+    "cele_jmeno": "Ing. Otto Plechata",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Otto Plechata",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "04.02.2002",
+        "platnost_do": "02.09.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Bc.",
+    "prijmeni": "Luboš Vobořil",
+    "cele_jmeno": "Bc. Luboš Vobořil",
+    "relationships": [
+      {
+        "osoba_jmeno": "Bc. Luboš Vobořil",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.07.2003",
+        "platnost_do": "28.12.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Karel Strašil",
+    "cele_jmeno": "Ing. Karel Strašil",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Karel Strašil",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "08.10.2019",
+        "platnost_do": "31.01.2025",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Michael",
+    "prijmeni": "Štádler",
+    "cele_jmeno": "Michael Štádler",
+    "relationships": [
+      {
+        "osoba_jmeno": "Michael Štádler",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "29.04.2010",
+        "platnost_do": "25.08.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Antonín Buriánek",
+    "cele_jmeno": "Ing. Antonín Buriánek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Antonín Buriánek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "25.08.2012",
+        "platnost_do": "29.08.2019",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Zdeněk",
+    "prijmeni": "Bláha",
+    "cele_jmeno": "Zdeněk Bláha",
+    "relationships": [
+      {
+        "osoba_jmeno": "Zdeněk Bláha",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "11.02.1998",
+        "platnost_do": "08.03.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Krupička",
+    "cele_jmeno": "Jaroslav Krupička",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Krupička",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "08.03.2004",
+        "platnost_do": "31.03.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaromír",
+    "prijmeni": "Rutar",
+    "cele_jmeno": "Jaromír Rutar",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaromír Rutar",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "29.08.2019",
+        "platnost_do": "17.06.2020",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Hořejší",
+    "cele_jmeno": "Jaroslav Hořejší",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Hořejší",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.11.2006",
+        "platnost_do": "19.01.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Bukvic",
+    "cele_jmeno": "Jaroslav Bukvic",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Bukvic",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.05.2004",
+        "platnost_do": "19.01.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Václav",
+    "prijmeni": "Brůna",
+    "cele_jmeno": "Václav Brůna",
+    "relationships": [
+      {
+        "osoba_jmeno": "Václav Brůna",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.01.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miloš Kučera",
+    "cele_jmeno": "Ing. Miloš Kučera",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miloš Kučera",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.02.2004",
+        "platnost_do": "19.01.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jiří",
+    "prijmeni": "Linert",
+    "cele_jmeno": "Jiří Linert",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jiří Linert",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "03.10.2011",
+        "platnost_do": "26.11.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Otto Plechata",
+    "cele_jmeno": "Ing. Otto Plechata",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Otto Plechata",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "25.05.2001",
+        "platnost_do": "12.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Bc.",
+    "prijmeni": "Luboš Vobořil",
+    "cele_jmeno": "Bc. Luboš Vobořil",
+    "relationships": [
+      {
+        "osoba_jmeno": "Bc. Luboš Vobořil",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "18.04.2008",
+        "platnost_do": "03.10.2011",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Pavel",
+    "prijmeni": "Štross",
+    "cele_jmeno": "Pavel Štross",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavel Štross",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "12.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Karel Strašil",
+    "cele_jmeno": "Ing. Karel Strašil",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Karel Strašil",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "12.07.2022",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Michael",
+    "prijmeni": "Štádler",
+    "cele_jmeno": "Michael Štádler",
+    "relationships": [
+      {
+        "osoba_jmeno": "Michael Štádler",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "19.01.2009",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Antonín Buriánek",
+    "cele_jmeno": "Ing. Antonín Buriánek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Antonín Buriánek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.04.2010",
+        "platnost_do": "07.12.2011",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Zdeněk",
+    "prijmeni": "Bláha",
+    "cele_jmeno": "Zdeněk Bláha",
+    "relationships": [
+      {
+        "osoba_jmeno": "Zdeněk Bláha",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "07.12.2011",
+        "platnost_do": "07.06.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Krupička",
+    "cele_jmeno": "Jaroslav Krupička",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Krupička",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "07.06.2012",
+        "platnost_do": "12.01.2017",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaromír",
+    "prijmeni": "Rutar",
+    "cele_jmeno": "Jaromír Rutar",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaromír Rutar",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "03.09.2011",
+        "platnost_do": "01.06.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Hořejší",
+    "cele_jmeno": "Jaroslav Hořejší",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Hořejší",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "01.06.2012",
+        "platnost_do": "20.12.2012",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Bukvic",
+    "cele_jmeno": "Jaroslav Bukvic",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Bukvic",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.12.2012",
+        "platnost_do": "30.12.2014",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Václav",
+    "prijmeni": "Brůna",
+    "cele_jmeno": "Václav Brůna",
+    "relationships": [
+      {
+        "osoba_jmeno": "Václav Brůna",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "30.12.2014",
+        "platnost_do": "09.01.2019",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miloš Kučera",
+    "cele_jmeno": "Ing. Miloš Kučera",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miloš Kučera",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.11.2012",
+        "platnost_do": "31.10.2024",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jiří",
+    "prijmeni": "Linert",
+    "cele_jmeno": "Jiří Linert",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jiří Linert",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "13.03.1996",
+        "platnost_do": "08.09.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Zdeněk",
+    "prijmeni": "Hradecký",
+    "cele_jmeno": "Zdeněk Hradecký",
+    "relationships": [
+      {
+        "osoba_jmeno": "Zdeněk Hradecký",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "08.03.1996",
+        "platnost_do": "05.05.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Tomáš",
+    "prijmeni": "Singer",
+    "cele_jmeno": "Tomáš Singer",
+    "relationships": [
+      {
+        "osoba_jmeno": "Tomáš Singer",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "05.05.2004",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "BŘÍZA",
+    "cele_jmeno": "Karel BŘÍZA",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel BŘÍZA",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.08.2005",
+        "platnost_do": "11.09.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Svoboda",
+    "cele_jmeno": "Jan Svoboda",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Svoboda",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "06.12.1995",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Tomáš",
+    "prijmeni": "Singer",
+    "cele_jmeno": "Tomáš Singer",
+    "relationships": [
+      {
+        "osoba_jmeno": "Tomáš Singer",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "30.01.1995",
+        "platnost_do": "31.01.1998",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jiří",
+    "prijmeni": "Klíma",
+    "cele_jmeno": "Jiří Klíma",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jiří Klíma",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ladislav",
+    "prijmeni": "Plíšek",
+    "cele_jmeno": "Ladislav Plíšek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ladislav Plíšek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Václav",
+    "prijmeni": "Hanzelín",
+    "cele_jmeno": "Václav Hanzelín",
+    "relationships": [
+      {
+        "osoba_jmeno": "Václav Hanzelín",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloslav",
+    "prijmeni": "Janout",
+    "cele_jmeno": "Miloslav Janout",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloslav Janout",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "10.07.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Stanislav",
+    "prijmeni": "Čapčuch",
+    "cele_jmeno": "Stanislav Čapčuch",
+    "relationships": [
+      {
+        "osoba_jmeno": "Stanislav Čapčuch",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Vlastimil",
+    "prijmeni": "Steinbauer",
+    "cele_jmeno": "Vlastimil Steinbauer",
+    "relationships": [
+      {
+        "osoba_jmeno": "Vlastimil Steinbauer",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Vlastimil",
+    "prijmeni": "Schiller",
+    "cele_jmeno": "Vlastimil Schiller",
+    "relationships": [
+      {
+        "osoba_jmeno": "Vlastimil Schiller",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Zdeněk",
+    "prijmeni": "Bláha",
+    "cele_jmeno": "Zdeněk Bláha",
+    "relationships": [
+      {
+        "osoba_jmeno": "Zdeněk Bláha",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miloš Kučera",
+    "cele_jmeno": "Ing. Miloš Kučera",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miloš Kučera",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Šimánek",
+    "cele_jmeno": "Petr Šimánek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Šimánek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jiří Hoznour",
+    "cele_jmeno": "Ing. Jiří Hoznour",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jiří Hoznour",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "22.07.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich Černoch, CSc.",
+    "cele_jmeno": "Ing. Oldřich Černoch, CSc.",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich Černoch, CSc.",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.07.1994",
+        "platnost_do": "19.03.1999",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jan Masák",
+    "cele_jmeno": "Ing. Jan Masák",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jan Masák",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "03.02.1999",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel Kytýr",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloš",
+    "prijmeni": "Podolský",
+    "cele_jmeno": "Miloš Podolský",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloš Podolský",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloslav",
+    "prijmeni": "Řezáč",
+    "cele_jmeno": "Miloslav Řezáč",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloslav Řezáč",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.11.2007",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Engler",
+    "cele_jmeno": "Petr Engler",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Engler",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "10.07.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Ostrý",
+    "cele_jmeno": "Jan Ostrý",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Ostrý",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Hanuš",
+    "cele_jmeno": "Petr Hanuš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Hanuš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloslav",
+    "prijmeni": "Řezáč",
+    "cele_jmeno": "Miloslav Řezáč",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloslav Řezáč",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Ostrý",
+    "cele_jmeno": "Jan Ostrý",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Ostrý",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Emanuel Větrovský",
+    "cele_jmeno": "Ing. Emanuel Větrovský",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Emanuel Větrovský",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Hanuš",
+    "cele_jmeno": "Petr Hanuš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Hanuš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Marian Hudec",
+    "cele_jmeno": "Ing. Marian Hudec",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Marian Hudec",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "22.07.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "František",
+    "prijmeni": "KŘÍŽEK",
+    "cele_jmeno": "František KŘÍŽEK",
+    "relationships": [
+      {
+        "osoba_jmeno": "František KŘÍŽEK",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.07.1994",
+        "platnost_do": "19.03.1999",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloslav",
+    "prijmeni": "Řezáč",
+    "cele_jmeno": "Miloslav Řezáč",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloslav Řezáč",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jan",
+    "prijmeni": "Ostrý",
+    "cele_jmeno": "Jan Ostrý",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jan Ostrý",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "03.02.1999",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Miloslav",
+    "prijmeni": "Řezáč",
+    "cele_jmeno": "Miloslav Řezáč",
+    "relationships": [
+      {
+        "osoba_jmeno": "Miloslav Řezáč",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "12.08.1993",
+        "platnost_do": "21.01.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Emanuel Větrovský",
+    "cele_jmeno": "Ing. Emanuel Větrovský",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Emanuel Větrovský",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "12.08.1993",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jaroslav",
+    "prijmeni": "Korecký",
+    "cele_jmeno": "Jaroslav Korecký",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jaroslav Korecký",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "12.08.1993",
+        "platnost_do": "21.01.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Hanuš",
+    "cele_jmeno": "Petr Hanuš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Hanuš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.01.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Marian Hudec",
+    "cele_jmeno": "Ing. Marian Hudec",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Marian Hudec",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "12.08.1993",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "František",
+    "prijmeni": "KŘÍŽEK",
+    "cele_jmeno": "František KŘÍŽEK",
+    "relationships": [
+      {
+        "osoba_jmeno": "František KŘÍŽEK",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "26.07.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "09.10.2002",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "02.06.2003",
+        "platnost_do": "21.04.2005",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel Kytýr",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "09.10.2002",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Vladimír",
+    "prijmeni": "Kule",
+    "cele_jmeno": "Vladimír Kule",
+    "relationships": [
+      {
+        "osoba_jmeno": "Vladimír Kule",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "03.04.1995",
+        "platnost_do": "20.08.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Vladimír",
+    "prijmeni": "Kule",
+    "cele_jmeno": "Vladimír Kule",
+    "relationships": [
+      {
+        "osoba_jmeno": "Vladimír Kule",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "03.04.1995",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Vladimír",
+    "prijmeni": "Kule",
+    "cele_jmeno": "Vladimír Kule",
+    "relationships": [
+      {
+        "osoba_jmeno": "Vladimír Kule",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "20.08.2008",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "17.09.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jaroslav SVĚTLÍK",
+    "cele_jmeno": "Ing. Jaroslav SVĚTLÍK",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jaroslav SVĚTLÍK",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "17.09.2008",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jindřich Kolář",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "17.12.2003",
+        "platnost_do": "21.02.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "17.12.2003",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.06.2000",
+        "platnost_do": "23.02.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jaroslav SVĚTLÍK",
+    "cele_jmeno": "Ing. Jaroslav SVĚTLÍK",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jaroslav SVĚTLÍK",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "23.06.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.02.2004",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jindřich Kolář",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "16.05.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "relationships": [
+      {
+        "osoba_jmeno": "Karel Kytýr",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "19.05.2010",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Josef Moša",
+    "cele_jmeno": "Ing. Josef Moša",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Josef Moša",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "01.08.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Josef Moša",
+    "cele_jmeno": "Ing. Josef Moša",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Josef Moša",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1993",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jaroslav SVĚTLÍK",
+    "cele_jmeno": "Ing. Jaroslav SVĚTLÍK",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jaroslav SVĚTLÍK",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.04.1997",
+        "platnost_do": "25.05.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jindřich Kolář",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "25.05.2001",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Otto Plechata",
+    "cele_jmeno": "Ing. Otto Plechata",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Otto Plechata",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "16.05.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jiří Hoznour",
+    "cele_jmeno": "Ing. Jiří Hoznour",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jiří Hoznour",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "23.05.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich Černoch, CSc.",
+    "cele_jmeno": "Ing. Oldřich Černoch, CSc.",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich Černoch, CSc.",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.12.1994",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Mandík",
+    "cele_jmeno": "Ing. Pavel Mandík",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Mandík",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.04.1997",
+        "platnost_do": "25.05.2001",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing",
+    "prijmeni": "Petr Dřímalka",
+    "cele_jmeno": "Ing Petr Dřímalka",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing Petr Dřímalka",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Josef Procházka",
+    "cele_jmeno": "Ing. Josef Procházka",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Josef Procházka",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "25.05.2001",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Vítek",
+    "cele_jmeno": "Ing. Pavel Vítek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Vítek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "21.12.1994",
+        "platnost_do": "16.05.1997",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Oldřich ŠILAR",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "23.02.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Jitka",
+    "prijmeni": "Kubínová",
+    "cele_jmeno": "Jitka Kubínová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Jitka Kubínová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.02.2004",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Josef",
+    "prijmeni": "Krupka",
+    "cele_jmeno": "Josef Krupka",
+    "relationships": [
+      {
+        "osoba_jmeno": "Josef Krupka",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "22.09.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "03.10.2005",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "03.10.2005",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.07.2006",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jindřich Kolář",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.09.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Pavel",
+    "prijmeni": "Čtvrtník, PhDr.",
+    "cele_jmeno": "Pavel Čtvrtník, PhDr.",
+    "relationships": [
+      {
+        "osoba_jmeno": "Pavel Čtvrtník, PhDr.",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "19.09.2000",
+        "platnost_do": "29.07.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Miroslav Špaček",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "29.07.2004",
+        "platnost_do": "26.07.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Iva Steinerová",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.07.2006",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Jindřich Kolář",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.09.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Mandík",
+    "cele_jmeno": "Ing. Pavel Mandík",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Mandík",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "19.09.2000",
+        "platnost_do": "29.07.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Rudolf",
+    "prijmeni": "Kulveit",
+    "cele_jmeno": "Rudolf Kulveit",
+    "relationships": [
+      {
+        "osoba_jmeno": "Rudolf Kulveit",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "29.07.2004",
+        "platnost_do": "26.07.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Alois Těšitel",
+    "cele_jmeno": "Ing. Alois Těšitel",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Alois Těšitel",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Wenisch",
+    "cele_jmeno": "Ing. Pavel Wenisch",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Wenisch",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "23.02.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Bartoněk",
+    "cele_jmeno": "Petr Bartoněk",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Bartoněk",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "23.02.2004",
+        "platnost_do": "30.06.2008",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Alois Těšitel",
+    "cele_jmeno": "Ing. Alois Těšitel",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Alois Těšitel",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.02.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Wenisch",
+    "cele_jmeno": "Ing. Pavel Wenisch",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Pavel Wenisch",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "21.02.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Petr",
+    "prijmeni": "Bartoněk",
+    "cele_jmeno": "Petr Bartoněk",
+    "relationships": [
+      {
+        "osoba_jmeno": "Petr Bartoněk",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "26.07.2006",
+        "platnost_do": "29.08.2007",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Michal Pešek",
+    "cele_jmeno": "Ing. Michal Pešek",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Michal Pešek",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "22.02.1993",
+        "platnost_do": "19.09.2000",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "František Ureš",
+    "cele_jmeno": "Ing. František Ureš",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. František Ureš",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "19.09.2000",
+        "platnost_do": "29.07.2004",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  },
+  {
+    "jmeno": "Ing.",
+    "prijmeni": "Lubomír Petrla",
+    "cele_jmeno": "Ing. Lubomír Petrla",
+    "relationships": [
+      {
+        "osoba_jmeno": "Ing. Lubomír Petrla",
+        "firma_ico": "47114983",
+        "firma_nazev": "",
+        "role": "statutární orgán",
+        "platnost_od": "29.07.2004",
+        "platnost_do": "26.07.2006",
+        "type": "VYKONAVA_FUNKCI"
+      }
+    ],
+    "source": "rzp"
+  }
+]

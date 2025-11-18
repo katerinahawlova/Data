@@ -332,7 +332,64 @@ def extract_statutarni_organ_from_firma(root: ET.Element, xml_path: Path = None)
                 person = {k: v for k, v in person.items() if v}
                 persons.append(person)
     
-    # Metoda 2: OsobaVeFunkci struktura (detailní XML z webu)
+    # Metoda 2: StatutarniOrganClen/ZapsanaOsoba struktura
+    stat_org_clen = root.findall(f".//{{{RZP_NS}}}StatutarniOrganClen")
+    
+    for stat_org_clen_elem in stat_org_clen:
+        zapsane_osoby = stat_org_clen_elem.findall(f".//{{{RZP_NS}}}ZapsanaOsoba")
+        
+        for zapsana in zapsane_osoby:
+            jmeno_prijmeni = zapsana.findtext(f"{{{RZP_NS}}}OsobaJmenoPrijmeni", "")
+            if not jmeno_prijmeni:
+                continue
+            
+            jmeno_prijmeni = jmeno_prijmeni.strip()
+            # Odstranit tituly (Mgr., Ing., atd.)
+            jmeno_bez_titulu = jmeno_prijmeni
+            for titul in ["Mgr.", "Ing.", "Bc.", "MUDr.", "Dr.", "Ph.D."]:
+                jmeno_bez_titulu = jmeno_bez_titulu.replace(titul, "").strip()
+            
+            # Rozdělit jméno a příjmení
+            parts = jmeno_bez_titulu.split(" ", 1)
+            jmeno = parts[0] if parts else ""
+            prijmeni = parts[1] if len(parts) > 1 else ""
+            
+            # Získat datum z Zapsano/VeFunkci/Ustanoven
+            platnost_od = None
+            platnost_do = None
+            
+            zapsano = zapsana.find(f"{{{RZP_NS}}}Zapsano")
+            if zapsano is not None:
+                ve_funkci = zapsano.find(f"{{{RZP_NS}}}VeFunkci")
+                if ve_funkci is not None:
+                    platnost_od = ve_funkci.findtext(f"{{{RZP_NS}}}Ustanoven", "")
+                    platnost_do = ve_funkci.findtext(f"{{{RZP_NS}}}Ukoncen", "")
+                
+                # Zkusit také DatumZapisuOd/Do
+                if not platnost_od:
+                    platnost_od = zapsano.findtext(f"{{{RZP_NS}}}DatumZapisuOd", "")
+                if not platnost_do:
+                    platnost_do = zapsano.findtext(f"{{{RZP_NS}}}DatumZapisuDo", "")
+            
+            if jmeno_bez_titulu and firma_ico:
+                person = {
+                    "jmeno": jmeno,
+                    "prijmeni": prijmeni,
+                    "cele_jmeno": jmeno_bez_titulu,  # Bez titulu
+                    "relationships": [{
+                        "osoba_jmeno": jmeno_bez_titulu,
+                        "firma_ico": firma_ico,
+                        "role": "statutární orgán",
+                        "platnost_od": platnost_od.strip() if platnost_od else None,
+                        "platnost_do": platnost_do.strip() if platnost_do else None,
+                        "type": "VYKONAVA_FUNKCI"
+                    }],
+                    "source": "rzp"
+                }
+                person = {k: v for k, v in person.items() if v}
+                persons.append(person)
+    
+    # Metoda 3: OsobaVeFunkci struktura (detailní XML z webu)
     osoby_ve_funkci = root.findall(f".//{{{RZP_NS}}}OsobaVeFunkci")
     
     # Najít všechny ObdobiFunkce předem (pro mapování)

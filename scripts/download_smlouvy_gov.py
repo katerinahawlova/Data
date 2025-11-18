@@ -161,25 +161,101 @@ def get_latest_dump_path() -> Path:
     return dump_path
 
 
-def get_dump_for_year_month(year: int, month: int) -> Path:
+def select_daily_dump(index_root: ET.Element, year: int, month: int, day: int) -> dict:
     """
-    Vyhledá a stáhne dump pro konkrétní rok a měsíc.
+    Z indexu vybere denní dump pro konkrétní datum.
+    """
+    for dump in index_root.findall(f".//{{{XML_NS}}}dump"):
+        try:
+            rok = int(dump.findtext(f"{{{XML_NS}}}rok"))
+            mesic = int(dump.findtext(f"{{{XML_NS}}}mesic"))
+            den_elem = dump.findtext(f"{{{XML_NS}}}den")
+            if not den_elem:
+                continue
+            den = int(den_elem)
+        except (TypeError, ValueError):
+            continue
 
-    Vrací:
-        Path k lokálnímu XML souboru s dumpem.
+        if rok == year and mesic == month and den == day:
+            url = dump.findtext(f"{{{XML_NS}}}odkaz")
+            if not url:
+                raise ValueError(f"Dump {year}-{month:02d}-{day:02d} nemá URL v indexu.")
+            return {"rok": rok, "mesic": mesic, "den": den, "url": url}
+
+    raise ValueError(f"Dump pro {year}-{month:02d}-{day:02d} nebyl v indexu nalezen.")
+
+
+def select_latest_daily_dump_in_month(index_root: ET.Element, year: int, month: int) -> dict:
+    """
+    Z indexu vybere nejnovější denní dump z daného měsíce.
+    """
+    dumps = []
+    for dump in index_root.findall(f".//{{{XML_NS}}}dump"):
+        try:
+            rok = int(dump.findtext(f"{{{XML_NS}}}rok"))
+            mesic = int(dump.findtext(f"{{{XML_NS}}}mesic"))
+            den_elem = dump.findtext(f"{{{XML_NS}}}den")
+            if not den_elem:
+                continue
+            den = int(den_elem)
+        except (TypeError, ValueError):
+            continue
+
+        if rok == year and mesic == month:
+            url = dump.findtext(f"{{{XML_NS}}}odkaz")
+            if url:
+                dumps.append({"rok": rok, "mesic": mesic, "den": den, "url": url})
+
+    if not dumps:
+        raise ValueError(f"V indexu nejsou žádné denní dumpy pro {year}-{month:02d}.")
+
+    # Seřadit podle dne (nejnovější první)
+    dumps.sort(key=lambda d: d["den"], reverse=True)
+    return dumps[0]
+
+
+def get_dump_for_year_month(year: int, month: int, day: int = None) -> Path:
+    """
+    Vyhledá a stáhne dump pro konkrétní rok a měsíc (a případně den).
+
+    Pokud je zadán den, stáhne denní dump. Jinak se pokusí najít měsíční dump.
+    Pokud měsíční dump neexistuje, vezme nejnovější denní dump z daného měsíce.
+
+    Args:
+        year: Rok
+        month: Měsíc (1-12)
+        day: Den (1-31), volitelné. Pokud není zadán, použije se nejnovější denní dump z měsíce.
+
+    Returns:
+        Path k staženému dumpu
     """
     if not (1 <= month <= 12):
         raise ValueError(f"Měsíc musí být v rozsahu 1-12, zadáno: {month}")
     
     print("[smlouvy.gov.cz] Stahuji index dumpů...")
     index_root = download_index()
-    selected = select_specific_dump(index_root, year, month)
+    
+    # Pokud je zadán den, stáhnout denní dump
+    if day is not None:
+        selected = select_daily_dump(index_root, year, month, day)
+    else:
+        # Zkusit najít měsíční dump
+        try:
+            selected = select_specific_dump(index_root, year, month)
+        except ValueError:
+            # Pokud měsíční dump neexistuje, použít nejnovější denní dump z měsíce
+            print(f"[smlouvy.gov.cz] Měsíční dump neexistuje, hledám nejnovější denní dump z {year}-{month:02d}...")
+            selected = select_latest_daily_dump_in_month(index_root, year, month)
 
     rok = selected["rok"]
     mesic = selected["mesic"]
     url = selected["url"]
+    den = selected.get("den")
 
-    print(f"[smlouvy.gov.cz] Vybraný dump: {rok}-{mesic:02d}")
+    if den:
+        print(f"[smlouvy.gov.cz] Vybraný denní dump: {rok}-{mesic:02d}-{den:02d}")
+    else:
+        print(f"[smlouvy.gov.cz] Vybraný dump: {rok}-{mesic:02d}")
     print(f"[smlouvy.gov.cz] URL dumpu: {url}")
 
     dump_path = download_dump(url)

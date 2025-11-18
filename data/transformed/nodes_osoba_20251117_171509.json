@@ -1,0 +1,730 @@
+[
+  {
+    "osoba_id": "OSOBA-47114983",
+    "cele_jmeno": "Česká pošta, s.p.",
+    "jmeno": "Česká",
+    "prijmeni": "pošta, s.p.",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Pavlína_Čížková",
+    "cele_jmeno": "Pavlína Čížková",
+    "jmeno": "Pavlína",
+    "prijmeni": "Čížková",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Roman_Stodůlka",
+    "cele_jmeno": "Roman Stodůlka",
+    "jmeno": "Roman",
+    "prijmeni": "Stodůlka",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jarmila_BOUČKOVÁ",
+    "cele_jmeno": "Jarmila BOUČKOVÁ",
+    "jmeno": "Jarmila",
+    "prijmeni": "BOUČKOVÁ",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Eliška_Davidová",
+    "cele_jmeno": "Eliška Davidová",
+    "jmeno": "Eliška",
+    "prijmeni": "Davidová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Věra_Cmíralová",
+    "cele_jmeno": "Věra Cmíralová",
+    "jmeno": "Věra",
+    "prijmeni": "Cmíralová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Květuše_Holemá",
+    "cele_jmeno": "Květuše Holemá",
+    "jmeno": "Květuše",
+    "prijmeni": "Holemá",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Zuzana_Krumpolcová",
+    "cele_jmeno": "Zuzana Krumpolcová",
+    "jmeno": "Zuzana",
+    "prijmeni": "Krumpolcová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jana_Želinská",
+    "cele_jmeno": "Jana Želinská",
+    "jmeno": "Jana",
+    "prijmeni": "Želinská",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Olga_Pečinková",
+    "cele_jmeno": "Olga Pečinková",
+    "jmeno": "Olga",
+    "prijmeni": "Pečinková",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Peter_Pavlík",
+    "cele_jmeno": "Peter Pavlík",
+    "jmeno": "Peter",
+    "prijmeni": "Pavlík",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Bc._Jan_Kubásek",
+    "cele_jmeno": "Bc. Jan Kubásek",
+    "jmeno": "Bc.",
+    "prijmeni": "Jan Kubásek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Oldřich_ŠILAR",
+    "cele_jmeno": "Ing. Oldřich ŠILAR",
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich ŠILAR",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Karel_Kytýr",
+    "cele_jmeno": "Karel Kytýr",
+    "jmeno": "Karel",
+    "prijmeni": "Kytýr",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Cinkl",
+    "cele_jmeno": "Petr Cinkl",
+    "jmeno": "Petr",
+    "prijmeni": "Cinkl",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jan_Hodek",
+    "cele_jmeno": "Jan Hodek",
+    "jmeno": "Jan",
+    "prijmeni": "Hodek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Pavel_Mandík",
+    "cele_jmeno": "Ing. Pavel Mandík",
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Mandík",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaroslav_Novák",
+    "cele_jmeno": "Jaroslav Novák",
+    "jmeno": "Jaroslav",
+    "prijmeni": "Novák",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Miroslav_Špaček",
+    "cele_jmeno": "Ing. Miroslav Špaček",
+    "jmeno": "Ing.",
+    "prijmeni": "Miroslav Špaček",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Igor_Jeřábek",
+    "cele_jmeno": "Ing. Igor Jeřábek",
+    "jmeno": "Ing.",
+    "prijmeni": "Igor Jeřábek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Marian_Hudec",
+    "cele_jmeno": "Ing. Marian Hudec",
+    "jmeno": "Ing.",
+    "prijmeni": "Marian Hudec",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Michal_Pešek",
+    "cele_jmeno": "Ing. Michal Pešek",
+    "jmeno": "Ing.",
+    "prijmeni": "Michal Pešek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jan_Ostrý",
+    "cele_jmeno": "Jan Ostrý",
+    "jmeno": "Jan",
+    "prijmeni": "Ostrý",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Hanuš",
+    "cele_jmeno": "Petr Hanuš",
+    "jmeno": "Petr",
+    "prijmeni": "Hanuš",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaroslav_Korecký",
+    "cele_jmeno": "Jaroslav Korecký",
+    "jmeno": "Jaroslav",
+    "prijmeni": "Korecký",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Jirák",
+    "cele_jmeno": "Petr Jirák",
+    "jmeno": "Petr",
+    "prijmeni": "Jirák",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jan_Šalé",
+    "cele_jmeno": "Jan Šalé",
+    "jmeno": "Jan",
+    "prijmeni": "Šalé",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Mgr._Petr_Zoubek",
+    "cele_jmeno": "Mgr. Petr Zoubek",
+    "jmeno": "Mgr.",
+    "prijmeni": "Petr Zoubek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Karel_Jadwiszczok",
+    "cele_jmeno": "Ing. Karel Jadwiszczok",
+    "jmeno": "Ing.",
+    "prijmeni": "Karel Jadwiszczok",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Robin_Novák",
+    "cele_jmeno": "Robin Novák",
+    "jmeno": "Robin",
+    "prijmeni": "Novák",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Pavel_Jelínek",
+    "cele_jmeno": "Pavel Jelínek",
+    "jmeno": "Pavel",
+    "prijmeni": "Jelínek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Mgr._Radim_Bureš",
+    "cele_jmeno": "Mgr. Radim Bureš",
+    "jmeno": "Mgr.",
+    "prijmeni": "Radim Bureš",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Mgr._et_Mgr._Zdeněk_Tomi",
+    "cele_jmeno": "Mgr. et Mgr. Zdeněk Tomica, MBA",
+    "jmeno": "Mgr.",
+    "prijmeni": "et Mgr. Zdeněk Tomica, MBA",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Mgr._et_Bc._Petr_Šlechta",
+    "cele_jmeno": "Mgr. et Bc. Petr Šlechta",
+    "jmeno": "Mgr.",
+    "prijmeni": "et Bc. Petr Šlechta",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._David_Přibyl",
+    "cele_jmeno": "Ing. David Přibyl",
+    "jmeno": "Ing.",
+    "prijmeni": "David Přibyl",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Mgr._Helena_Tomášková",
+    "cele_jmeno": "Mgr. Helena Tomášková",
+    "jmeno": "Mgr.",
+    "prijmeni": "Helena Tomášková",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Jitka_Salmonová",
+    "cele_jmeno": "Ing. Jitka Salmonová",
+    "jmeno": "Ing.",
+    "prijmeni": "Jitka Salmonová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Tomáš_Žitník",
+    "cele_jmeno": "Tomáš Žitník",
+    "jmeno": "Tomáš",
+    "prijmeni": "Žitník",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Václav_Švec",
+    "cele_jmeno": "Václav Švec",
+    "jmeno": "Václav",
+    "prijmeni": "Švec",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ludmila_Hudcová",
+    "cele_jmeno": "Ludmila Hudcová",
+    "jmeno": "Ludmila",
+    "prijmeni": "Hudcová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Bartoněk",
+    "cele_jmeno": "Petr Bartoněk",
+    "jmeno": "Petr",
+    "prijmeni": "Bartoněk",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Pavel_Štross",
+    "cele_jmeno": "Pavel Štross",
+    "jmeno": "Pavel",
+    "prijmeni": "Štross",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Otto_Plechata",
+    "cele_jmeno": "Ing. Otto Plechata",
+    "jmeno": "Ing.",
+    "prijmeni": "Otto Plechata",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Bc._Luboš_Vobořil",
+    "cele_jmeno": "Bc. Luboš Vobořil",
+    "jmeno": "Bc.",
+    "prijmeni": "Luboš Vobořil",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Karel_Strašil",
+    "cele_jmeno": "Ing. Karel Strašil",
+    "jmeno": "Ing.",
+    "prijmeni": "Karel Strašil",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Michael_Štádler",
+    "cele_jmeno": "Michael Štádler",
+    "jmeno": "Michael",
+    "prijmeni": "Štádler",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Antonín_Buriánek",
+    "cele_jmeno": "Ing. Antonín Buriánek",
+    "jmeno": "Ing.",
+    "prijmeni": "Antonín Buriánek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Zdeněk_Bláha",
+    "cele_jmeno": "Zdeněk Bláha",
+    "jmeno": "Zdeněk",
+    "prijmeni": "Bláha",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaroslav_Krupička",
+    "cele_jmeno": "Jaroslav Krupička",
+    "jmeno": "Jaroslav",
+    "prijmeni": "Krupička",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaromír_Rutar",
+    "cele_jmeno": "Jaromír Rutar",
+    "jmeno": "Jaromír",
+    "prijmeni": "Rutar",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaroslav_Hořejší",
+    "cele_jmeno": "Jaroslav Hořejší",
+    "jmeno": "Jaroslav",
+    "prijmeni": "Hořejší",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jaroslav_Bukvic",
+    "cele_jmeno": "Jaroslav Bukvic",
+    "jmeno": "Jaroslav",
+    "prijmeni": "Bukvic",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Václav_Brůna",
+    "cele_jmeno": "Václav Brůna",
+    "jmeno": "Václav",
+    "prijmeni": "Brůna",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Miloš_Kučera",
+    "cele_jmeno": "Ing. Miloš Kučera",
+    "jmeno": "Ing.",
+    "prijmeni": "Miloš Kučera",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jiří_Linert",
+    "cele_jmeno": "Jiří Linert",
+    "jmeno": "Jiří",
+    "prijmeni": "Linert",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Zdeněk_Hradecký",
+    "cele_jmeno": "Zdeněk Hradecký",
+    "jmeno": "Zdeněk",
+    "prijmeni": "Hradecký",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Tomáš_Singer",
+    "cele_jmeno": "Tomáš Singer",
+    "jmeno": "Tomáš",
+    "prijmeni": "Singer",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Karel_BŘÍZA",
+    "cele_jmeno": "Karel BŘÍZA",
+    "jmeno": "Karel",
+    "prijmeni": "BŘÍZA",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jan_Svoboda",
+    "cele_jmeno": "Jan Svoboda",
+    "jmeno": "Jan",
+    "prijmeni": "Svoboda",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jiří_Klíma",
+    "cele_jmeno": "Jiří Klíma",
+    "jmeno": "Jiří",
+    "prijmeni": "Klíma",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ladislav_Plíšek",
+    "cele_jmeno": "Ladislav Plíšek",
+    "jmeno": "Ladislav",
+    "prijmeni": "Plíšek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Václav_Hanzelín",
+    "cele_jmeno": "Václav Hanzelín",
+    "jmeno": "Václav",
+    "prijmeni": "Hanzelín",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Miloslav_Janout",
+    "cele_jmeno": "Miloslav Janout",
+    "jmeno": "Miloslav",
+    "prijmeni": "Janout",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Stanislav_Čapčuch",
+    "cele_jmeno": "Stanislav Čapčuch",
+    "jmeno": "Stanislav",
+    "prijmeni": "Čapčuch",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Vlastimil_Steinbauer",
+    "cele_jmeno": "Vlastimil Steinbauer",
+    "jmeno": "Vlastimil",
+    "prijmeni": "Steinbauer",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Vlastimil_Schiller",
+    "cele_jmeno": "Vlastimil Schiller",
+    "jmeno": "Vlastimil",
+    "prijmeni": "Schiller",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Šimánek",
+    "cele_jmeno": "Petr Šimánek",
+    "jmeno": "Petr",
+    "prijmeni": "Šimánek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Jiří_Hoznour",
+    "cele_jmeno": "Ing. Jiří Hoznour",
+    "jmeno": "Ing.",
+    "prijmeni": "Jiří Hoznour",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Oldřich_Černoch,_CS",
+    "cele_jmeno": "Ing. Oldřich Černoch, CSc.",
+    "jmeno": "Ing.",
+    "prijmeni": "Oldřich Černoch, CSc.",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Jan_Masák",
+    "cele_jmeno": "Ing. Jan Masák",
+    "jmeno": "Ing.",
+    "prijmeni": "Jan Masák",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Miloš_Podolský",
+    "cele_jmeno": "Miloš Podolský",
+    "jmeno": "Miloš",
+    "prijmeni": "Podolský",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Miloslav_Řezáč",
+    "cele_jmeno": "Miloslav Řezáč",
+    "jmeno": "Miloslav",
+    "prijmeni": "Řezáč",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Petr_Engler",
+    "cele_jmeno": "Petr Engler",
+    "jmeno": "Petr",
+    "prijmeni": "Engler",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Emanuel_Větrovský",
+    "cele_jmeno": "Ing. Emanuel Větrovský",
+    "jmeno": "Ing.",
+    "prijmeni": "Emanuel Větrovský",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-František_KŘÍŽEK",
+    "cele_jmeno": "František KŘÍŽEK",
+    "jmeno": "František",
+    "prijmeni": "KŘÍŽEK",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Vladimír_Kule",
+    "cele_jmeno": "Vladimír Kule",
+    "jmeno": "Vladimír",
+    "prijmeni": "Kule",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Iva_Steinerová",
+    "cele_jmeno": "Ing. Iva Steinerová",
+    "jmeno": "Ing.",
+    "prijmeni": "Iva Steinerová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Jaroslav_SVĚTLÍK",
+    "cele_jmeno": "Ing. Jaroslav SVĚTLÍK",
+    "jmeno": "Ing.",
+    "prijmeni": "Jaroslav SVĚTLÍK",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Jindřich_Kolář",
+    "cele_jmeno": "Ing. Jindřich Kolář",
+    "jmeno": "Ing.",
+    "prijmeni": "Jindřich Kolář",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Josef_Moša",
+    "cele_jmeno": "Ing. Josef Moša",
+    "jmeno": "Ing.",
+    "prijmeni": "Josef Moša",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing_Petr_Dřímalka",
+    "cele_jmeno": "Ing Petr Dřímalka",
+    "jmeno": "Ing",
+    "prijmeni": "Petr Dřímalka",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Josef_Procházka",
+    "cele_jmeno": "Ing. Josef Procházka",
+    "jmeno": "Ing.",
+    "prijmeni": "Josef Procházka",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Pavel_Vítek",
+    "cele_jmeno": "Ing. Pavel Vítek",
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Vítek",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Jitka_Kubínová",
+    "cele_jmeno": "Jitka Kubínová",
+    "jmeno": "Jitka",
+    "prijmeni": "Kubínová",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Josef_Krupka",
+    "cele_jmeno": "Josef Krupka",
+    "jmeno": "Josef",
+    "prijmeni": "Krupka",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Pavel_Čtvrtník,_PhDr.",
+    "cele_jmeno": "Pavel Čtvrtník, PhDr.",
+    "jmeno": "Pavel",
+    "prijmeni": "Čtvrtník, PhDr.",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Rudolf_Kulveit",
+    "cele_jmeno": "Rudolf Kulveit",
+    "jmeno": "Rudolf",
+    "prijmeni": "Kulveit",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Alois_Těšitel",
+    "cele_jmeno": "Ing. Alois Těšitel",
+    "jmeno": "Ing.",
+    "prijmeni": "Alois Těšitel",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Pavel_Wenisch",
+    "cele_jmeno": "Ing. Pavel Wenisch",
+    "jmeno": "Ing.",
+    "prijmeni": "Pavel Wenisch",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._František_Ureš",
+    "cele_jmeno": "Ing. František Ureš",
+    "jmeno": "Ing.",
+    "prijmeni": "František Ureš",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  },
+  {
+    "osoba_id": "OSOBA-Ing._Lubomír_Petrla",
+    "cele_jmeno": "Ing. Lubomír Petrla",
+    "jmeno": "Ing.",
+    "prijmeni": "Lubomír Petrla",
+    "statni_prislusnost": "CZ",
+    "stav_zaznamu": "overeny"
+  }
+]
